@@ -1,0 +1,39 @@
+# Site settings
+title: AyushMonk
+email: info@ayueshmonk.com
+description: >
+  Holistic Wellness Platform
+
+baseurl: ""
+# the base hostname & protocol for your site
+url: "https://ayueshmonk.com" 
+twitter_username: razorops
+
+# Build settings
+markdown: kramdown
+# paginate: 10
+# paginate_path: "/_posts/page:num/"
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  path: feed.xml
+
+jekyll_admin:
+  hidden_links:
+    - datafiles
+
+collections:
+  post:
+    output: true
+    permalinks: /blog/:title/
+
+  pages:
+    output: true
+    permalinks: /:title/
+

@@ -1,0 +1,75 @@
+body {
+  padding-top: 50px; /* To ensure the navbar doesn't overlap content */
+}
+
+.navbar {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bottom shadow */
+}
+
+
+.hero-section {
+  background-image: url('/images/ayushmonk-home.webp'); /* Replace with your actual image path */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 0;
+  text-align: center;
+}
+.call-to-action {
+  background-color: #ffc107;
+  color: white;
+  padding: 40px 0;
+}
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 40px 0;
+}
+
+.btn:hover {
+background-color: #2243ff;
+color: white;
+}
+
+.card {
+transition: background-color 0.3s ease, border-radius 0.3s ease;
+}
+
+.card:hover {
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+background-color: #f0f8ff; /* Change background color on hover */
+border-radius: 20px; /* Add rounded corners on hover */
+}
+
+
+/* Product page */
+
+body {
+  padding-top: 70px;
+}
+.hero-section-page {
+  background-color: #f5f5f5;
+  padding: 60px 0;
+  color: white;
+  text-align: center;
+  background-image: url('/images/ayushmonk-home.webp'); /* Replace with your actual image path */
+}
+.product-card {
+  margin-bottom: 30px;
+  transition: transform 0.3s, background-color 0.3s;
+}
+.product-card:hover {
+  transform: scale(1.05);
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+.product-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.footer {
+  background-color: #343a40;
+  color: white;
+  padding: 40px 0;
+}
