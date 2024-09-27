@@ -16,23 +16,25 @@ image: /images/holistic-wellness-products.jpeg
   </div>
 </section>
 
-<!-- Blog Posts Section -->
+<!-- Blog Section -->
 <section id="blog-posts" class="py-5">
   <div class="container">
-    {% assign blogs = site.posts %}
-    {% for post in blogs %}
-        <div class="col-sm-4">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            <div class="blog-post">
-                <img src="{{ post.image }}" alt="{{ post.title }}"/>
-                <div class="content">
-                    <time>{{ post.date | date_to_string }}</time>
-                    <h5 class="mt-2">{{ post.title }}</h5>
-                    <p>{{ post.description}}</p>
-                </div>
-            </div>
-          </a>
-        </div>
-    {% endfor %}
+      <div class="row mt-5 ">
+      {% assign blogs = site.posts %}
+      {% for post in blogs %}
+          <div class="col-sm-4">
+              <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="blog-post">
+                  <img src="{{ post.image }}" alt="{{ post.title }}"/>
+                  <div class="content">
+                      <time>{{ post.date | date_to_string }}</time>
+                      <h5 class="mt-2">{{ post.title }}</h5>
+                      <p>{{ post.description}}</p>
+                  </div>
+              </div>
+              </a>
+          </div>
+      {% endfor %}
+      </div>
   </div>
 </section>
