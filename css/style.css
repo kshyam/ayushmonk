@@ -74,3 +74,26 @@ body {
   text-decoration: none;
   text-align: center;
 }
+
+
+/* blog post */
+
+.blog-post {
+  margin-bottom: 30px;
+  border: 1px solid #eee;
+}
+.blog-post img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.blog-post .content {
+  padding: 10px;
+}
+
+.blog-post:hover {
+  transform: scale(1.02);
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
