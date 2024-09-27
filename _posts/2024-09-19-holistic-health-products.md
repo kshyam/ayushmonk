@@ -1,5 +1,5 @@
 ---
-title: 2024-09-19-Holistic health products
+title: Holistic health products
 description: Holistic health products are designed to support the overall
   well-being of mind, body, and spirit, rather than just addressing isolated
   symptoms or ailments.
