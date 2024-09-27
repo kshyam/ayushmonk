@@ -37,3 +37,8 @@ collections:
     output: true
     permalinks: /:title/
 
+  products:
+    output: true
+    permalinks: /products/:title/
+
+

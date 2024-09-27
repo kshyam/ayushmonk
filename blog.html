@@ -20,37 +20,27 @@ image: /images/holistic-wellness-products.jpeg
         <div class="container">
             <div class="row">
                 <!-- Blog Post 1 -->
-                <div class="col-md-4">
-                    <div class="blog-post">
-                        <img src="https://via.placeholder.com/350x200" alt="Blog Post 1">
-                        <div class="content">
-                            <h4 class="mt-2">Holistic Wellness: A Comprehensive Guide</h4>
-                            <p>Discover the fundamentals of holistic wellness and how it can benefit your daily life.</p>
-                            <a href="#" class="btn btn-outline-primary">Read More</a>
+
+                {% assign blogs = site.posts %}
+                {% for post in blogs %}
+
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                    <div class="col-md-4">
+                        <div class="blog-post">
+                            <img src="{{ post.image }}" alt="{{ post.title }}"/>
+                            <div class="content">
+                                <time>{{ post.date | date_to_string }}</time>
+                                <h4 class="mt-2">{{ post.title }}</h4>
+                                <p>{{ post.description}}</p>
+                                <a href="#" class="btn btn-outline-primary">Read More</a>
+                            </div>
                         </div>
-
                     </div>
-                </div>
+                </a>
+                {% endfor %}
+                <div class="clearfix"></div>
 
-                <!-- Blog Post 2 -->
-                <div class="col-md-4">
-                    <div class="blog-post">
-                        <img src="https://via.placeholder.com/350x200" alt="Blog Post 2">
-                        <h3 class="mt-3">Mindfulness Practices for Stress Relief</h3>
-                        <p>Learn how mindfulness can help reduce stress and improve your mental well-being.</p>
-                        <a href="#" class="btn btn-outline-primary">Read More</a>
-                    </div>
-                </div>
-
-                <!-- Blog Post 3 -->
-                <div class="col-md-4">
-                    <div class="blog-post">
-                        <img src="https://via.placeholder.com/350x200" alt="Blog Post 3">
-                        <h3 class="mt-3">Ayurvedic Diet for a Balanced Lifestyle</h3>
-                        <p>Explore the principles of an Ayurvedic diet and its role in maintaining overall health.</p>
-                        <a href="#" class="btn btn-outline-primary">Read More</a>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </section>
