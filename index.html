@@ -45,51 +45,34 @@ image: /images/holistic-wellness-products.jpeg
 </section>
 
 <!-- Blog Section -->
-<section id="blogs" class="py-5 bg-light">
+<section id="blog-posts" class="py-5 bg-light">
     <div class="container">
         <h2 class="text-center">Our Latest Blogs</h2>
         <div class="row mt-5 ">
-            <div class="col-md-4 mb-4">
-                <div class="card">
-        <img src="./images/How-to-Practice-Mindfulness.webp" alt="Mindfulness Image">
-
-                    <div class="card-body">
-                        <h5 class="card-title">5 Tips for a Mindful Morning</h5>
-                        <p class="card-text">Start your day with these mindfulness techniques to ensure a calm and focused mindset.</p>
-                        <a href="#" class="btn btn-primary">Read More</a>
+        {% assign blogs = site.posts %}
+        {% for post in blogs  limit:3 %}
+            <div class="col-sm-4">
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                <div class="blog-post">
+                    <img src="{{ post.image }}" alt="{{ post.title }}"/>
+                    <div class="content">
+                        <time>{{ post.date | date_to_string }}</time>
+                        <h5 class="mt-2">{{ post.title }}</h5>
+                        <p>{{ post.description}}</p>
                     </div>
                 </div>
+                </a>
             </div>
-            <div class="col-md-4 mb-4">
-                <div class="card">
-        <img src="./images/10-Wellness-Tips-for-Busy-Professionals.webp" alt="Wellness Image">
-                    <div class="card-body">
-                        <h5 class="card-title">Wellness in Everyday Life</h5>
-                        <p class="card-text">Learn how to integrate wellness practices into your daily routine effortlessly.</p>
-                        <a href="#" class="btn btn-primary">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mb-4">
-                <div class="card">
-            <img src="./images/Exploring-Meditation-Techniques.jpeg" alt="Meditation Image">
-
-                    <div class="card-body">
-                        <h5 class="card-title">Benefits of Meditation</h5>
-                        <p class="card-text">Explore the numerous health and mental benefits of consistent meditation practice.</p>
-                        <a href="#" class="btn btn-primary">Read More</a>
-                    </div>
-                </div>
-            </div>
+        {% endfor %}
         </div>
     </div>
 </section>
 
 <!-- Call to Action -->
-<section id="cta" class="call-to-action">
+<!-- <section id="cta" class="call-to-action">
     <div class="container">
         <h2>Ready to Begin Your Wellness Journey?</h2>
         <p>Sign up today and start experiencing the benefits of a balanced, mindful life.</p>
         <a href="#" class="btn btn-dark">Get Started Now</a>
     </div>
-</section>
+</section> -->
