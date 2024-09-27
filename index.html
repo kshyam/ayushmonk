@@ -76,3 +76,67 @@ image: /images/holistic-wellness-products.jpeg
         <a href="#" class="btn btn-dark">Get Started Now</a>
     </div>
 </section> -->
+
+
+
+<!-- Add to Home Screen Popup -->
+<div id="installPopup">
+    <span class="close-btn" onclick="closePopup()">×</span>
+    <p><strong>Add AyushMonk to your Home Screen!</strong></p>
+    <p id="instruction"></p>
+    <button id="installBtn" style="display: none;">Add to Home Screen</button>
+</div>
+
+
+<!-- JavaScript for handling the popup -->
+<script>
+    let deferredPrompt;
+
+    // Check if the device is iOS
+    const isIos = () => {
+        const userAgent = window.navigator.userAgent.toLowerCase();
+        return /iphone|ipad|ipod/.test(userAgent);
+    };
+
+    // Check if the website is running in standalone mode (for iOS)
+    const isInStandaloneMode = () => ('standalone' in window.navigator) && (window.navigator.standalone);
+
+    // Show popup if the app is not already added to home screen (iOS)
+    if (isIos() && !isInStandaloneMode()) {
+        const popup = document.getElementById('installPopup');
+        const instruction = document.getElementById('instruction');
+        popup.style.display = 'block';
+        instruction.textContent = 'Tap the share icon (below) and then "Add to Home Screen"';
+    }
+
+    // Handle the Android 'beforeinstallprompt' event
+    window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();  // Prevent the default prompt from showing
+        deferredPrompt = e;  // Store the event for later
+
+        // Show the prompt to add to home screen (Android)
+        const popup = document.getElementById('installPopup');
+        const installBtn = document.getElementById('installBtn');
+        popup.style.display = 'block';
+        installBtn.style.display = 'inline-block';
+        document.getElementById('instruction').textContent = 'Tap below to add AyushMonk to your Home Screen!';
+
+        // When the user clicks the 'Add to Home Screen' button
+        installBtn.addEventListener('click', async () => {
+            popup.style.display = 'none';  // Hide popup
+            deferredPrompt.prompt();  // Show the prompt
+            const { outcome } = await deferredPrompt.userChoice;
+            if (outcome === 'accepted') {
+                console.log('User accepted the A2HS prompt');
+            } else {
+                console.log('User dismissed the A2HS prompt');
+            }
+            deferredPrompt = null;  // Reset the deferred prompt
+        });
+    });
+
+    // Close popup function
+    function closePopup() {
+        document.getElementById('installPopup').style.display = 'none';
+    }
+</script>
