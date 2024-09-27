@@ -67,9 +67,10 @@ body {
   width: 100%;
   height: auto;
   border-radius: 5px;
+  text-align: center;
 }
-.footer {
-  background-color: #343a40;
-  color: white;
-  padding: 40px 0;
+
+.product-card a {
+  text-decoration: none;
+  text-align: center;
 }
