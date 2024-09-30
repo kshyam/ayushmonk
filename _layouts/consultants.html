@@ -29,38 +29,51 @@
 
             <div class="col-sm-9">
               {% include breadcrumb.html %}
-              <div class="blog-post-content" id="blog-post-margins">
-                <div class="blog-post-body">
-                  <img src="{{ page.image }}" alt="{{page.title}}" class="img-fluid"/>
-                  <br>
-                  <h1 class="mt-2">{{ page.title }}</h1>
-                  <!-- Consultant Profile Section -->
-                  <div class="profile-header text-center">
+              <style>
+                .profile-img {
+                  width: 100%;
+                  max-width: 150px;
+                  height: auto;
+                  border-radius: 50%;
+                }
+                .profile-card {
+                  padding: 20px;
+                  border-radius: 10px;
+                }
+              </style>
+
+              
+                <!-- Consultant Profile Section -->
+                <div class="profile-header mb-3">
                     <div class="container">
-                        <img src="{{ page.image }}" alt="{{ page.consultant.name }}">
-                        <h1 class="mt-3">{{ page.name }}</h1>
-                        <p class="text-muted">{{ page.consultant.experience }} years of experience</p>
-                        <p class="text-muted">{{ page.consultant.specialization }}</p>
+                      <div class="row">
+                          <div class="profile-card buy-now-card d-flex">
+                            <div class="me-4">
+                              <img src="{{ page.image }}" alt="{{ page.title }}" style="width: 160px;" class="img-fluid rounded-circle"/>
+                            </div>
+                            <div>
+                              <h1>{{ page.name }}
+                                &nbsp;<a href="{{ page.booking_url}}" target="_blank" class="btn btn-primary"> Book Appointment</a></h1>
+                              <p><strong>Experience:</strong> {{ page.experience }}<br>
+                              <strong>Specilazation:</strong> {{ page.degree }}<br>
+                              <strong>Location:</strong> San Francisco, CA</p>
+                            </div>
+                          </div>
                     </div>
+                    
+                  </div>
                 </div>
 
-                  <div class="mt-3">
-                    {{ content }}
+                <div class="blog-post-content" id="blog-post-margins">
+                  <div class="blog-post-body">
+                      {{ content }}
                   </div>
-
-                  <div class="buy-now-card">
-                    <h5>Buy Now | Available for delivery across India.</h5>
-                    <p>Order this product now and experience the benefits of Ayurveda.</p>
-                    <a href="{{ page.buy_now_link }}" class="btn btn-success btn-lg" target="_blank">Buy Now just <b>₹ {{ page.price }}</b></a>
-                  </div>
-
                 </div>
               </div>
 
-          </div>
 
           <div class="col-sm-3 hide-on-mobile mt-4">
-            {% include cart.html %}
+            {% include doc-cart.html %}
           </div>
 
         </div>
