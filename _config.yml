@@ -40,5 +40,9 @@ collections:
   products:
     output: true
     permalinks: /products/:title/
+  
+  consultants:
+    output: true
+    permalinks: /consultants/:title/
 
 
