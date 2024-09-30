@@ -6,10 +6,8 @@ description: Unlock the power of nature with Rasayanam Ashwagandha KSM-66, an
 image: /images/blog/rasayanam-ashwagandha-ksm-66-500-mg-extra-strength-natural-formulation-60-vegetarian-capsules.jpg
 layout: product
 permalink: products/:title
-author: Shyam Mohan
 category: Reduces stress
-date: 2024-09-28T06:31:00.000Z
-amazon_url: https://www.amazon.in/Rasayanam-Ashwagandha-Strength-Formulation-Somnifera/dp/B0983S9XDM?th=1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Rasayanam-Ashwagandha-Strength-Formulation-Somnifera/dp/B0983S9XDM?th=1&tag=ayushmonk-21
 price: "697"
 ---
 **Rasayanam Ashwagandha KSM-66 (500 mg) | Extra Strength Natural Formulation | 60 Vegetarian Capsules**
