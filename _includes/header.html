@@ -5,16 +5,28 @@
       <a class="navbar-brand" href="/">
         <img src="../images/1.jpg" style="height: 50px;">
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
-      </button>
+      </button> -->
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
       <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
+
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/products">Products</a>
+            </li>
               <li class="nav-item">
-                  <a class="nav-link" href="/products">Products</a>
+                  <a class="nav-link" href="/consultants">Consultants</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="/blog">Blog</a>
+                  <a class="nav-link" href="/blogs">Blogs</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/about">About</a>
@@ -26,3 +38,45 @@
       </div>
   </div>
 </nav>
+
+
+<!-- Navbar -->
+<!-- <nav class="navbar navbar-light bg-light fixed-top">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">AyushMonk</a>
+    </div>
+</nav> -->
+
+
+<!-- Offcanvas Mobile Menu -->
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasMenu" aria-labelledby="offcanvasMenuLabel">
+    <div class="offcanvas-header  border-bottom">
+        <h5 class="offcanvas-title" id="offcanvasMenuLabel"><img src="../images/1.jpg" style="height: 45px;"></h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <ul class="navbar-nav me-auto">
+            <li class="nav-item border-bottom">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  border-bottom" href="/products">Products</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  border-bottom" href="/consultants">Consultants</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  border-bottom" href="/blog">Blog</a>
+            </li>
+            <li class="nav-item"></li>
+                <a class="nav-link  border-bottom" href="/about">About Us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  border-bottom" href="/contact">Contact</a>
+            </li>
+        </ul>
+    </div>
+</div>

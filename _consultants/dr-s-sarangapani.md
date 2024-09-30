@@ -1,5 +1,5 @@
 ---
-title: Dr. S Sarangapani
+name: Dr. S Sarangapani
 degree: BAMS, MD - Ayurveda Medicine
 experience: 44 Years Experience Overall
 about: Dr. S.Sarangapani is one of the few distinguished names in the
@@ -7,7 +7,7 @@ about: Dr. S.Sarangapani is one of the few distinguished names in the
 image: /images/blog/dr-s-sarangapani-ayurveda-hyderabad.jpg
 layout: consultants
 permalink: consultants/:title
-bookingw_link: https://www.practo.com/hyderabad/doctor/s-sarangapani-ayurveda/info?practice_id=817117&specialization=Ayurveda&referrer=doctor_listing&page_uid=01ddcbf6-3460-4b7b-8c51-521f3e5e7873
+booking_url: https://www.practo.com/hyderabad/doctor/s-sarangapani-ayurveda/info?practice_id=817117&specialization=Ayurveda&referrer=doctor_listing&page_uid=01ddcbf6-3460-4b7b-8c51-521f3e5e7873
 price: "500"
 ---
 Dr. S. Sarangapani is a distinguished figure in the contemporary Ayurvedic medical field in Telangana and Andhra Pradesh. His illustrious journey began with a strong academic foundation in Warangal, where he graduated as the topper of Kakatiya University and the first Gold Medalist in 1980. He later pursued post-graduation with a surgical specialty in Ayurveda from Osmania University’s inaugural batch in 1986. Over his 28 years of government service, he made notable contributions across various roles, eventually retiring as the Principal of Government Ayurvedic College, Hyderabad. He has also served on the board of studies at Banaras Hindu University, Varanasi, and NTR University of Health Sciences, Vijayawada.

@@ -50,17 +50,17 @@ collections:
 
   - label: "consultants"
     name: "consultants"
-    folder: "/"
+    folder: "_consultants/"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Degree Speciality", name: "degree", widget: "string"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Degree", name: "degree", widget: "string"}
       - {label: "Experience", name: "experience", widget: "string"}
       - {label: "About", name: "about", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
-      - {label: "Booking", name: "bookingw_link", widget: "string"}
+      - {label: "Booking", name: "booking_url", widget: "string"}
       - {label: "Fee", name: "price", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
