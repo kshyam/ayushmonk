@@ -4,7 +4,7 @@ description: "Experience the goodness of nature with Dabur Jamun Neem Karela
   Juice, a powerful blend of three potent ingredients – Jamun, Neem, and Karela
   "
 image: /images/blog/beige-simple-modern-real-estate-business-facebook-cover-.png
-layout: post
+layout: product
 permalink: /products/:title
 author: Shyam Mohan
 category: Diabetic Care

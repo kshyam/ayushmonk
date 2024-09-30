@@ -30,9 +30,9 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
-      - {label: "Author", name: "author", widget: "string"}
       - {label: "Category", name: "category", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Amazon URL", name: "buy_now_link", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "pages"
