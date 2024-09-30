@@ -3,12 +3,14 @@ title: Dabur Jamun Neem Karela Juice – Natural Blood Purifier & Immunity Boost
 description: "Experience the goodness of nature with Dabur Jamun Neem Karela
   Juice, a powerful blend of three potent ingredients – Jamun, Neem, and Karela
   "
-image: /images/blog/beige-simple-modern-real-estate-business-facebook-cover-.png
+image: /images/blog/dabur-jamun-neem-karela-juice-.jpg
 layout: product
 permalink: /products/:title
+price: "233"
 author: Shyam Mohan
-category: Diabetic Care
 date: 2024-09-27T02:02:00.000Z
+category: Diabetic Care
+buy_now_link: https://www.amazon.in/Dabur-Jamun-Neem-Karela-Juice/dp/B08W36QBV9?th=1&tag=ayushmonk-21
 ---
 ### Product Title:
 **Dabur Jamun Neem Karela Juice – Natural Blood Purifier & Immunity Booster**
