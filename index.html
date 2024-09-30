@@ -20,19 +20,19 @@ image: /images/holistic-wellness-products.jpeg
     <div class="container">
         <h2 class="text-center">Our Products & Services</h2>
         <div class="row mt-5">
-            <div class="col-sm-3 text-center">
+            <div class="col-sm-3 text-center mb-3">
                 <img src="./images/Meditation-Courses.jpeg" alt="Product 1" class="img-fluid rounded-circle mb-3">
                 <h4>Meditation Courses</h4>
                 <p>Discover our guided meditation sessions designed to help you find peace and mindfulness.</p>
                 <a href="/meditation-courses" class="btn btn-primary">Book Now</a>
             </div>
-            <div class="col-sm-3 text-center">
+            <div class="col-sm-3 text-center mb-3">
                 <img src="./images/Wellness-Workshops.jpeg" alt="Product 2" class="img-fluid rounded-circle mb-3">
                 <h4>Wellness Workshops</h4>
                 <p>Join our interactive workshops focusing on mental and physical well-being.</p>
                 <a href="/wellness-workshops" class="btn btn-primary">Book Now</a>
             </div>
-            <div class="col-sm-3 text-center">
+            <div class="col-sm-3 text-center mb-3">
                 <img src="./images/holistic-wellness-products.jpeg" alt="Product 3" class="img-fluid rounded-circle mb-3">
                 <h4>Holistic Wellness Products</h4>
                 <p>Holistic Wellness Products promote overall well-being by nurturing the mind, body, and spirit through natural, balanced solutions.</p>
@@ -40,7 +40,7 @@ image: /images/holistic-wellness-products.jpeg
                 
             </div>
 
-            <div class="col-sm-3 text-center">
+            <div class="col-sm-3 text-center mb-3">
                 <img src="./images/holistic-health-consultants.jpeg" alt="Product 3" class="img-fluid rounded-circle mb-3">
                 <h4>Holistic Health Consultant</h4>
                 <p>Holistic Health Consultant focuses on the overall well-being of individuals by addressing physical, mental, emotional, and spiritual health.</p>
@@ -76,6 +76,8 @@ image: /images/holistic-wellness-products.jpeg
             </div>
         {% endfor %}
         </div>
+        <p class="text-center"><a href="/blog" class="btn btn-primary">Read More</a></p>
+        
     </div>
 </section>
 
@@ -89,7 +91,7 @@ image: /images/holistic-wellness-products.jpeg
 
         <div class="row mt-5 ">
         {% assign products = site.products %}
-        {% for product in products %}
+        {% for product in products limit:4 %}
             <div class="col-sm-3">
                 <a href="{{ site.baseurl }}{{ product.url }}">
                 <div class="blog-post">
@@ -98,13 +100,15 @@ image: /images/holistic-wellness-products.jpeg
                         <h5 class="mt-2">{{ product.title }}</h5>
                         <p>{{ product.description}}</p>
                         <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now</a>
-                        &nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
+                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
                 </a>
             </div>
         {% endfor %}
         </div>
+        <p class="text-center"><a href="/blog" class="btn btn-primary">Explore More</a></p>
+
     </div>
 </section>
 

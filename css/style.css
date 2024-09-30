@@ -1,5 +1,5 @@
 body {
-  padding-top: 50px; /* To ensure the navbar doesn't overlap content */
+  padding-top: 70px;
 }
 
 p {font-size: 18px; !improtant}
@@ -8,6 +8,7 @@ p {font-size: 18px; !improtant}
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bottom shadow */
 }
 
+a { text-decoration: none;}
 
 /* Popup styling */
 #installPopup {
@@ -86,9 +87,7 @@ border-radius: 20px; /* Add rounded corners on hover */
 
 /* Product page */
 
-body {
-  padding-top: 70px;
-}
+
 .hero-section-page {
   background-color: #f5f5f5;
   padding: 60px 0;
@@ -115,6 +114,27 @@ body {
 #products a {
   text-decoration: none;
 }
+
+
+.product-image {
+  max-width: 100%;
+  height: auto;
+}
+.buy-now-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 20px;
+  /* background-color: #ffc547; */
+  background: linear-gradient(109.6deg, rgb(255, 194, 48) 11.2%, rgb(255, 124, 0) 100.2%);
+  border-radius: 8px;
+}
+.similar-product-card img {
+  transition: transform .3s;
+}
+.similar-product-card img:hover {
+  transform: scale(1.05);
+}
+
 
 
 /* blog post */
@@ -160,7 +180,6 @@ body {
   min-height: calc(100vh - 80px);
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url(/images/page-bg.jpg);
   background-repeat: no-repeat;
   background-size: auto;
 }

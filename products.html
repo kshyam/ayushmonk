@@ -11,6 +11,7 @@ image: /images/holistic-wellness-products.jpeg
     <div class="container">
         <h1>Holistic Wellness Products</h1>
         <p>Explore our range of carefully crafted products designed to promote holistic health and well-being.</p>
+        {% include search.html %}
     </div>
 </section>
 
@@ -20,15 +21,15 @@ image: /images/holistic-wellness-products.jpeg
         <div class="row mt-5 ">
         {% assign products = site.products %}
         {% for product in products %}
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <a href="{{ site.baseurl }}{{ product.url }}">
                 <div class="blog-post">
                     <img src="{{ product.image }}" alt="{{ product.title }}"/>
                     <div class="content">
                         <h5 class="mt-2">{{ product.title }}</h5>
                         <p>{{ product.description}}</p>
-                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now at Amazon</a>
-                        &nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
+                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now</a>
+                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
                 </a>
