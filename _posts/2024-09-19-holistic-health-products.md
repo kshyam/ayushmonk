@@ -3,7 +3,7 @@ title: Holistic health products
 description: Holistic health products are designed to support the overall
   well-being of mind, body, and spirit, rather than just addressing isolated
   symptoms or ailments.
-image: /images/blog/holistic-health-products.avif
+image: /images/blog/holistic-health-products.jpg
 layout: post
 permalink: /blog/:title
 author: Shyam Mohan

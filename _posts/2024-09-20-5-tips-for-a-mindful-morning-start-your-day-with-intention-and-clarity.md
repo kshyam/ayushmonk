@@ -2,7 +2,7 @@
 title: "5 Tips for a Mindful Morning: Start Your Day with Intention and Clarity"
 description: A mindful morning routine helps foster a sense of calm, focus,
   and intention that can carry through your daily activities.
-image: /images/blog/how-to-practice-mindfulness.jpg
+image: /images/blog/5-tips-for-a-mindful-morning.jpg
 layout: post
 permalink: blog/:title
 author: Shyam Mohan
