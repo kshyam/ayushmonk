@@ -8,7 +8,7 @@ image: /images/blog/himalayan-organics-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Reduces stress, Ashwagandha
-buy_now_link: www.amazon.in/Himalayan-Organics-Ashwagandha-Endurance-Capsules/dp/B0844DS7NN/?th=1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Himalayan-Organics-Ashwagandha-Endurance-Capsules/dp/B0844DS7NN/?th=1&tag=ayushmonk-21
 price: "597"
 ---
 
