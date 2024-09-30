@@ -53,14 +53,16 @@ image: /images/holistic-wellness-products.jpeg
     </div>
 </section>
 
+
+
 <!-- Blog Section -->
 <section id="blog-posts" class="py-5 bg-light">
     <div class="container">
         <h2 class="text-center">Our Latest Blogs</h2>
         <div class="row mt-5 ">
         {% assign blogs = site.posts %}
-        {% for post in blogs  limit:3 %}
-            <div class="col-sm-4">
+        {% for post in blogs  limit:4 %}
+            <div class="col-sm-3">
                 <a href="{{ site.baseurl }}{{ post.url }}">
                 <div class="blog-post">
                     <img src="{{ post.image }}" alt="{{ post.title }}"  class="img-fluid"/>
@@ -76,6 +78,36 @@ image: /images/holistic-wellness-products.jpeg
         </div>
     </div>
 </section>
+
+
+
+
+<!-- Products Section -->
+<section id="products" class="py-5">
+    <div class="container">
+        <h2 class="text-center">Holistic Products</h2>
+
+        <div class="row mt-5 ">
+        {% assign products = site.products %}
+        {% for product in products %}
+            <div class="col-sm-3">
+                <a href="{{ site.baseurl }}{{ product.url }}">
+                <div class="blog-post">
+                    <img src="{{ product.image }}" alt="{{ product.title }}"/>
+                    <div class="content">
+                        <h5 class="mt-2">{{ product.title }}</h5>
+                        <p>{{ product.description}}</p>
+                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now</a>
+                        &nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
+                    </div>
+                </div>
+                </a>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
+
 
 <!-- Call to Action -->
 <!-- <section id="cta" class="call-to-action">

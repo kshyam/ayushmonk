@@ -27,7 +27,7 @@ image: /images/holistic-wellness-products.jpeg
                     <div class="content">
                         <h5 class="mt-2">{{ product.title }}</h5>
                         <p>{{ product.description}}</p>
-                        <a href="https://www.amazon.in/s?k=Detoxifying+Supplements&tag=ayushmonk-21" target="_blank" class="btn btn-warning">Buy Now at Amazon</a>
+                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now at Amazon</a>
                         &nbsp;&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
