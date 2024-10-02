@@ -1,5 +1,5 @@
 ---
-title: 2024-10-01 AYURVEDA AND AYUSH HEALTH SOLUTIONS
+title: AYURVEDA AND AYUSH HEALTH SOLUTIONS
 description: Ayurveda and AYUSH (Ayurveda, Yoga, Unani, Siddha, and Homeopathy)
 image: /images/blog/ayurveda-and-ayush-health-solutions.webp
 layout: post
