@@ -4,7 +4,7 @@ description: Kapiva Shilajit Gold Resin is a premium, all-natural supplement
   formulated to boost your vitality and overall well-being.
 image: /images/blog/kapiva-shilajit-gold-resin.jpg
 layout: product
-permalink: products
+permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Kapiva-Shilajit-Gold-Resin-Ayurvedic/dp/B0BL3TN1QC/ref=sr_1_1_sspa?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "1299"
