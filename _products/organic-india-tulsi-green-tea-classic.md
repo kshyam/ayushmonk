@@ -12,6 +12,7 @@ author: Shyam Mohan
 date: 2024-09-26T13:24:00.000Z
 category: Holistic Wellness
 buy_now_link: https://www.amazon.in/Organic-India-Tulsi-Green-Bags/dp/B00AHUER16/?sr=1-5&tag=ayushmonk-21
+star_rating: "4"
 ---
 ### Description:
 Experience the calming and rejuvenating power of **ORGANIC INDIA Tulsi Green Tea Classic**, a unique blend of **Tulsi (Holy Basil)** and premium green tea leaves. This refreshing tea is rich in antioxidants, promoting natural detoxification, boosting immunity, and reducing stress. With **25 tea bags**, it's perfect for a daily ritual of wellness, providing a soothing yet invigorating cup that supports overall health and vitality.

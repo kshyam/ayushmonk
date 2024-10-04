@@ -2,13 +2,15 @@ body {
   padding-top: 70px;
 }
 
-p {font-size: 18px; !improtant}
-li {font-size: 18px; !improtant}
+p {font-size: 16px; !improtant}
+li {font-size: 16px; !improtant}
 
 .navbar {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bottom shadow */
 }
-
+h5{
+  font-size: 17px;
+}
 a { text-decoration: none;}
 
 /* Popup styling */
@@ -130,6 +132,24 @@ border-radius: 20px; /* Add rounded corners on hover */
 }
 .similar-product-card img:hover {
   transform: scale(1.05);
+}
+
+.star-rating-display::before {
+  content: "\f005 \f005 \f005 \f005 \f005"; /* 5 empty FontAwesome stars */
+  font-family: FontAwesome;
+  color: lightgray;
+}
+
+.star-rating-display::after {
+  content: "\f005 \f005 \f005 \f005 \f005"; /* 5 filled FontAwesome stars */
+  font-family: FontAwesome;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(attr(data-rating) / 5 * 100%);
+  color: #FFD700; /* Gold color for filled stars */
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 

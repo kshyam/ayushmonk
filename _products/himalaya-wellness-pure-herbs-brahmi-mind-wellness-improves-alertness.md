@@ -8,6 +8,7 @@ permalink: /products/:title
 category: Mind Wellness
 buy_now_link: https://www.amazon.in/Himalaya-Wellness-Pure-Herbs-Brahmi/dp/B003WR2T5W/ref=1&tag=ayushmonk-21
 price: "158"
+star_rating: "4"
 ---
 **Product Title:**
 

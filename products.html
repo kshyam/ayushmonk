@@ -28,8 +28,14 @@ image: /images/holistic-wellness-products.jpeg
                     <div class="content">
                         <h5 class="mt-2">{{ product.title }}</h5>
                         <p>{{ product.description}}</p>
-                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now</a>
-                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}" class="btn btn-primary">Read More</a>
+                           <!-- Display Star Rating -->
+                           {% include rating.html %}
+                           
+                        <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now <b>₹ {{ product.price }}</b></a>
+                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}">Read More</a>
+
+                    
+
                     </div>
                 </div>
                 </a>
@@ -38,3 +44,5 @@ image: /images/holistic-wellness-products.jpeg
         </div>
     </div>
 </section>
+
+

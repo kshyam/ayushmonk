@@ -10,6 +10,7 @@ permalink: products/:title
 category: Ashwagandha
 buy_now_link: https://www.amazon.in/DABUR-Ashwagandha-Capsules-Immunity-Booster/dp/B087X9XS1K/ref=sr_1_15?tag=ayushmonk-21&th=1
 price: "61"
+star_rating: "4"
 ---
 ### Description:
 Strengthen your immunity and enhance your vitality with **Dabur Ashwagandha Capsules**, a natural herbal formulation designed to boost your immune system, promote energy, and alleviate stress. Sourced from pure **Ashwagandha** extract, this ancient Ayurvedic remedy helps the body adapt to physical and mental stress while supporting overall health.

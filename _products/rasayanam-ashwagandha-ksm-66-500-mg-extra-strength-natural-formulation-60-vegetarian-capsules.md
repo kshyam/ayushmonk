@@ -9,6 +9,7 @@ permalink: products/:title
 category: Reduces stress
 buy_now_link: https://www.amazon.in/Rasayanam-Ashwagandha-Strength-Formulation-Somnifera/dp/B0983S9XDM?th=1&tag=ayushmonk-21
 price: "697"
+star_rating: "4"
 ---
 **Rasayanam Ashwagandha KSM-66 (500 mg) | Extra Strength Natural Formulation | 60 Vegetarian Capsules**
 

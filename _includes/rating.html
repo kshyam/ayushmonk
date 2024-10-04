@@ -1,0 +1,54 @@
+<div class="star-rating">
+  <!-- Star 1 -->
+  {% if product.star_rating >= "1" %}
+      <span class="filled">&#9733;</span>
+  {% else %}
+      <span class="empty">&#9733;</span>
+  {% endif %}
+
+  <!-- Star 2 -->
+  {% if product.star_rating >= "2" %}
+      <span class="filled">&#9733;</span>
+  {% else %}
+      <span class="empty">&#9733;</span>
+  {% endif %}
+
+  <!-- Star 3 -->
+  {% if product.star_rating >= "3" %}
+      <span class="filled">&#9733;</span>
+  {% else %}
+      <span class="empty">&#9733;</span>
+  {% endif %}
+
+  <!-- Star 4 -->
+  {% if product.star_rating >= "4" %}
+      <span class="filled">&#9733;</span>
+  {% else %}
+      <span class="empty">&#9733;</span>
+  {% endif %}
+
+  <!-- Star 5 -->
+  {% if product.star_rating == "5" %}
+      <span class="filled">&#9733;</span>
+  {% else %}
+      <span class="empty">&#9733;</span>
+  {% endif %}
+</div>
+<style>
+
+  /* Basic styling for the star rating */
+.star-rating {
+  font-size: 2rem;
+  color: lightgray; /* Default color for empty stars */
+}
+
+.star-rating .filled {
+  color: gold; /* Filled stars will be gold */
+}
+
+.star-rating .empty {
+  color: lightgray; /* Empty stars */
+}
+
+
+</style>

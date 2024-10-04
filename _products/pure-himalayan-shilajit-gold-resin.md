@@ -8,7 +8,9 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Bold-Care-Himalayan-Effective-metabolism/dp/B0D8KQNLK7/ref=sr_1_4_sspa?crid=1B5JGJXHVNEH1&tag=ayushmonk-21
 price: "899"
+star_rating: "5"
 ---
+
 **Product Description:**
 
 **Pure Himalayan Shilajit Gold Resin** is a premium-grade, natural supplement sourced from the pristine Himalayan mountains. This powerful resin is formed from centuries-old organic plant matter and mineral deposits, making it one of nature’s most potent rejuvenators. Packed with over 85 minerals and trace elements, it is known for its adaptogenic, anti-aging, and energizing properties, making it a must-have for those seeking holistic wellness.

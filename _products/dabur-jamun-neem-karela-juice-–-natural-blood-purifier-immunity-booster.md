@@ -11,6 +11,7 @@ author: Shyam Mohan
 date: 2024-09-27T02:02:00.000Z
 category: Diabetic Care
 buy_now_link: https://www.amazon.in/Dabur-Jamun-Neem-Karela-Juice/dp/B08W36QBV9?th=1&tag=ayushmonk-21
+star_rating: "4"
 ---
 ### Product Title:
 **Dabur Jamun Neem Karela Juice – Natural Blood Purifier & Immunity Booster**

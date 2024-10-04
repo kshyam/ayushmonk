@@ -8,6 +8,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Kapiva-Shilajit-Gold-Resin-Ayurvedic/dp/B0BL3TN1QC/ref=sr_1_1_sspa?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "1299"
+star_rating: "4"
 ---
 Product Description:
 Kapiva Shilajit Gold Resin is a premium, all-natural supplement formulated to boost your vitality and overall well-being. Made from purified Himalayan Shilajit, this potent resin is enriched with Gold Bhasma, Ashwagandha, and other Ayurvedic herbs known for enhancing energy levels, stamina, and male health. The resin form ensures maximum absorption and potency, making it an ideal solution for those seeking improved physical and mental performance.

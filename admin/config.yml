@@ -33,6 +33,7 @@ collections:
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Amazon URL", name: "buy_now_link", widget: "string"}
       - {label: "Price", name: "price", widget: "string"}
+      - {label: "Star Rating", name: "star_rating", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: "pages"
