@@ -1,4 +1,6 @@
 ---
+price: "569"
+star_rating: "4"
 title: Koshaveda Shilajit Pro Gold by MuscleBlaze
 description: Unlock the power of ancient Ayurvedic wisdom with Koshaveda
   Shilajit Pro Gold by MuscleBlaze, a premium natural supplement designed to
@@ -8,8 +10,6 @@ layout: product
 permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Koshaveda-Shilajit-MuscleBlaze-Fortified-Ashwagandha/dp/B0CVN9TQQW/ref=sr_1_10?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
-price: "569"
-star_rating: "4"
 ---
 **Product Title:**  
 **Koshaveda Shilajit Pro Gold by MuscleBlaze - Premium Himalayan Shilajit Resin with Gold Bhasma for Strength, Stamina, and Vitality**
@@ -44,4 +44,3 @@ Whether you’re an athlete looking to boost performance, a professional seeking
 ### **Hashtags**:
 #KoshavedaShilajitProGold #MuscleBlaze #BoostYourVitality #NaturalEnergyBooster #MaleHealthSupport #AyurvedicStrength #GoldBhasmaInfusion #EnduranceAndRecovery #PureHimalayanShilajit #StrengthAndStamina
 
-This product description highlights the key benefits, usage instructions, and appeals to both fitness enthusiasts and those looking to improve overall wellness.
