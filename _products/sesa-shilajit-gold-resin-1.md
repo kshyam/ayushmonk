@@ -10,6 +10,7 @@ buy_now_link: "   \t
   https://www.amazon.in/Shilajit-Certificate-Included-Immunity-Ayurvedic/dp/B0C\
   PM234M9/ref=sr_1_12?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21"
 price: "1075"
+star_rating: "4"
 ---
 **Product Title:**  
 **SESA Shilajit Gold Resin – Pure Himalayan Shilajit with Gold Bhasma for Strength, Stamina & Enhanced Vitality**

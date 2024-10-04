@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Zandu-Shilajit-Scientifically-Himalayan-Ayurvedic/dp/B0CHFR2YYK/ref=sr_1_15?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "356"
+star_rating: "4"
 ---
 **Product Title:**  
 **Zandu Shilajit Gold Plus – Advanced Shilajit with Gold, Safed Musli & Gokshura for Strength, Stamina, and Overall Vitality**
