@@ -1,5 +1,5 @@
 ---
-title: 2024-10-04-How Yoga and Naturopathy Work Together
+title: How Yoga and Naturopathy Work Together
 description: "Yoga and Naturopathy work together seamlessly to create a holistic
   approach to health and wellness by addressing the mind, body, and spirit. "
 image: /images/blog/how-yoga-and-naturopathy-work-together.jpg
