@@ -1,9 +1,7 @@
 ---
 title: Baidyanath Vita ex Shilajit Gold
 description: Experience the ultimate boost in strength, stamina, and vitality
-  with Baidyanath Vita Ex Shilajit Gold, a premium Ayurvedic formulation infused
-  with Pure Shilajit, Gold Bhasma, and powerful herbs like Ashwagandha, Kesar,
-  and Safed Musli.
+  with Baidyanath Vita Ex Shilajit Gold.
 image: /images/blog/baidyanath-vita-ex-shilajit-gold.jpg
 layout: product
 permalink: products/:title
