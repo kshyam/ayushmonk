@@ -1,7 +1,5 @@
 ---
-title: HealthyHey Nutrition Ashwagandha Powder Withania Somnifera | 100% Natural
-  Ashwagandha Capsules - Ashwagandha Rejuvenates Mind & Body-120 Ashwagandha
-  Capsules
+title: "HealthyHey Nutrition Ashwagandha Powder Withania Somnifera "
 description: "HealthyHey Nutrition Ashwagandha Powder (Withania Somnifera) is a
   premium 100% natural supplement designed to rejuvenate both the mind and body.
   "
