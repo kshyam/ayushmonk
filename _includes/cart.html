@@ -9,11 +9,10 @@
 
 
 <!-- Similar Products Section -->
-<div class="mt-5">
-  <h2>Similar Products</h2>
+<div class="mt-3">
   <div class="row">
    
-      {% for product in site.products | limit: 4 %}
+      {% for product in site.products | limit: 5 %}
           {% if product.title != page.title %}
           <div class="similar-product-card mt-3">
               <div class="card">
@@ -21,6 +20,7 @@
                   <div class="card-body">
                       <h5 class="card-title">{{ product.title }}</h5>
                       <a href="{{ product.buy_now_link }}" class="btn btn-primary" target="_blank">Buy Now just <b>₹ {{ product.price }}</b></a>
+                      <a href="{{ site.baseurl }}{{ product.url }}">Read More</a>
                   </div>
               </div>
           </div>
