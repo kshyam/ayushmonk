@@ -9,7 +9,9 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Shilajit-Supports-Strength-Vitality-Capsules/dp/B0CSFY5QDH/ref=sr_1_20?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "287"
+star_rating: "4"
 ---
+
 **Product Title:**  
 **Tata 1mg Tejasya Shilajit Gold+ Capsules – Premium Shilajit with Gold, Safed Musli & Ashwagandha for Energy, Strength, and Male Vitality**
 

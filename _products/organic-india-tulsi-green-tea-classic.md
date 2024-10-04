@@ -7,11 +7,9 @@ description: "Experience the calming and rejuvenating power of ORGANIC INDIA
 image: /images/blog/organic-india-tulsi-green-tea-classic.jpg
 layout: product
 permalink: /products/:title
-price: "189"
-author: Shyam Mohan
-date: 2024-09-26T13:24:00.000Z
-category: Holistic Wellness
+category: "Holistic Wellness"
 buy_now_link: https://www.amazon.in/Organic-India-Tulsi-Green-Bags/dp/B00AHUER16/?sr=1-5&tag=ayushmonk-21
+price: "189"
 star_rating: "4"
 ---
 ### Description:

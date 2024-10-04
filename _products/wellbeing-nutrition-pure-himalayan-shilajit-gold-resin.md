@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Wellbeing-Nutrition-Himalayan-Performance-Ashwagandha/dp/B0CPLS2TMD/ref=sr_1_27?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "2047"
+star_rating: "4"
 ---
 **Product Title:**  
 **Wellbeing Nutrition Pure Himalayan Shilajit Gold Resin – Premium Shilajit Infused with Gold for Energy, Strength, and Vitality**

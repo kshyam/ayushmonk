@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Indoze-Shilajit-Capsules-Ashwagandha-Ingredients/dp/B0D35QPP76/ref=sr_1_32?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "499"
+star_rating: "4"
 ---
 **Product Title:**  
 **Indoze Pure Shilajit Gold Capsules – Premium Himalayan Shilajit with Gold for Enhanced Energy, Strength & Male Vitality**

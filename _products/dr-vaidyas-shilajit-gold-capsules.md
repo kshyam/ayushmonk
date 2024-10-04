@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Shilajit-Capsules-Ayurvedic-Vitalizer-Synthetic/dp/B0CRSQH8WX/ref=sr_1_37?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "879"
+star_rating: "4"
 ---
 **Product Title:**  
 **Dr. Vaidya’s Shilajit Gold Capsules – Ayurvedic Formula for Energy, Strength & Male Vitality with Pure Shilajit & Gold Bhasma**

@@ -11,6 +11,7 @@ buy_now_link: "   \t
   https://www.amazon.in/ZEROHARM-Himalayan-Cognitive-Performance-Nanoformulated\
   /dp/B0D5BJVM75/ref=sr_1_24_sspa?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21"
 price: "1329"
+star_rating: "4"
 ---
 **Product Title:**  
 **ZEROHARM Shilajit Gold 500 mg Capsules – Premium Himalayan Shilajit with Gold for Energy, Strength, and Male Vitality**

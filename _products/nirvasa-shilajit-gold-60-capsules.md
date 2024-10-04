@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Nirvasa-Shilajit-Gold-Himalayan-Ashwagandha/dp/B0CZRFPGC6/ref=sr_1_18?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "399"
+star_rating: "4"
 ---
 **Product Title:**  
 **Nirvasa Shilajit Gold – 60 Capsules of Premium Shilajit with Gold, Safed Musli, and Ashwagandha for Energy, Stamina & Male Vitality**

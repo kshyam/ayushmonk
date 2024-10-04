@@ -9,7 +9,7 @@ permalink: /blog/:title/
 category: Ashwagandha
 buy_now_link: https://www.amazon.in/BBETTER-Ashwagandha-KSM66-Organic-Capsules/dp/B09D7KGYK2/ref=tag=ayushmonk-21
 price: "925"
-star_rating: "4.0"
+star_rating: "4"
 ---
 **BBETTER Ashwagandha KSM-66 Capsules 600mg** are formulated with premium quality Ashwagandha extract (KSM-66), a clinically studied adaptogen known for reducing stress, promoting better sleep, and improving overall well-being. These vegetarian capsules provide a natural solution to manage stress, enhance relaxation, and boost energy levels, making them ideal for those looking to improve mental and physical performance.
 

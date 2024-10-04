@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Neuherbs-Shilajit-Absorption-Ayurvedic-Capsules/dp/B0CB3F1945/ref=sr_1_29?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "426"
+star_rating: "4"
 ---
 **Product Title:**  
 **Neuherbs Shilajit Gold Ultra – Advanced Shilajit Formula with Gold for Superior Absorption, Energy, Strength & Male Vitality**

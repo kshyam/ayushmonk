@@ -10,6 +10,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Baidyanath-Vita-Ex-Gold-Capsules/dp/B00JNR48K4/ref=sr_1_36?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "301"
+star_rating: "4"
 ---
 **Product Title:**  
 **Baidyanath Vita Ex Shilajit Gold – Ayurvedic Vitality Booster with Pure Shilajit & Gold for Energy, Strength & Male Wellness**

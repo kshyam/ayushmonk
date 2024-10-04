@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Shilajit-Ayurvedic-Himalayan-Ashwagandha-Gokshura/dp/B0D7SJZXJ3/ref=sr_1_22_sspa?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "750"
+star_rating: "4"
 ---
 **Product Title:**  
 **Fytika Shuddh Shilajit Gold & Silver Resin – Premium Himalayan Shilajit Infused with Gold and Silver for Energy, Strength, and Vitality**

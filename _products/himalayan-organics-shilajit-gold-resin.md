@@ -10,6 +10,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: ﻿https://www.amazon.in/Himalayan-Organics-Shilajit-Gold-Resin/dp/B0CJJDZZPZ/ref=sr_1_26?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "499"
+star_rating: "4"
 ---
 **Product Title:**  
 **Himalayan Organics Shilajit Gold Resin – Pure Himalayan Shilajit with Gold & Saffron for Energy, Strength, and Male Vitality**

@@ -9,6 +9,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: https://www.amazon.in/Organics-Original-Shilajit-Ashwagandha-Ayurvedic/dp/B0CCNVV1TR/ref=sr_1_35?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
 price: "426"
+star_rating: "4"
 ---
 **Product Title:**  
 **Health Veda Organics Original Gold Shilajit – Pure Himalayan Shilajit with Gold for Energy, Strength, and Male Vitality**

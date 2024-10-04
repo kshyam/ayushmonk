@@ -10,6 +10,7 @@ buy_now_link: "   \t
   ﻿https://www.amazon.in/GYMNEX-Vigour-Maxx-Shilajit-Capsules/dp/B0CYCH2NH4/ref\
   =sr_1_16?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21"
 price: "275"
+star_rating: "4"
 ---
 **Product Title:**  
 **GYMNEX Vigour-Maxx Shilajit Gold Capsules – Premium Shilajit with Gold, Safed Musli, Ashwagandha & Gokshura for Strength, Stamina, and Male Vitality**

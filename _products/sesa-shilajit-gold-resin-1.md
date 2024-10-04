@@ -1,6 +1,4 @@
 ---
-price: "1075"
-star_rating: "4"
 title: SESA Shilajit Gold Resin
 description: SESA Shilajit Gold Resin is a premium-grade Ayurvedic supplement
   crafted to help you harness the power of nature's most potent ingredients.
@@ -11,6 +9,8 @@ category: Shilajit
 buy_now_link: "   \t
   https://www.amazon.in/Shilajit-Certificate-Included-Immunity-Ayurvedic/dp/B0C\
   PM234M9/ref=sr_1_12?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21"
+price: "1075"
+star_rating: "4"
 ---
 **Product Title:**  
 **SESA Shilajit Gold Resin – Pure Himalayan Shilajit with Gold Bhasma for Strength, Stamina & Enhanced Vitality**
