@@ -9,7 +9,7 @@ permalink: products/:title
 category: Ashwagandha
 buy_now_link: https://www.amazon.in/Healthyhey-Nutrition-Ashwagandha-Root-Extract/dp/B076758ZGD/ref=sr_1_15_sspa?crid=tag=ayushmonk-21
 price: "790"
-star_rating: 4,1
+star_rating: "4"
 ---
 **HealthyHey Nutrition Ashwagandha Powder (Withania Somnifera)** is a premium 100% natural supplement designed to rejuvenate both the mind and body. Known for its adaptogenic properties, Ashwagandha has been used for centuries in Ayurvedic medicine to support overall health and well-being. Each bottle contains **120 Ashwagandha capsules**, making it easy to incorporate this powerful herb into your daily routine.
 
