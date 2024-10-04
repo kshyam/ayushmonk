@@ -1,20 +1,27 @@
 ---
-layout: page
-title: Holistic Wellness Products | Ayurvedic, Organic & Mindfulness Essentials | AyushMonk
-description: Discover AyushMonk’s range of holistic wellness products including Ayurvedic herbal teas, essential oils, yoga accessories, detox supplements, organic skincare, and mindfulness journals. Enhance your well-being with our carefully curated essentials for a balanced lifestyle.
-canonical_url: "https://ayushmonk.com/blog"
-image: /images/holistic-wellness-products.jpeg
+layout: product
+title: Categories
 ---
 
-<!-- Hero Section -->
-<section class="hero-section-page text-center">
-    <div class="container">
-        <h1>Holistic Wellness Products</h1>
-        <p>Explore our range of carefully crafted products designed to promote holistic health and well-being.</p>
-        {% include search.html %}
-    </div>
-</section>
 
+<div class="container">
+    <div class="row">
+        {% for product in site.products %}
+        <!-- {% if product.category == page.category %} -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="{{ product.image }}" alt="{{ product.title }}" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">{{ product.title }}</h5>
+                    <p class="card-text">{{ product.description }}</p>
+                    <a href="{{ product.url }}" class="btn btn-primary">View Product</a>
+                </div>
+            </div>
+        </div>
+        <!-- {% endif %} -->
+        {% endfor %}
+    </div>
+</div>
 
 <div class="filters">
     <h3>Filter by Category</h3>
@@ -34,14 +41,13 @@ image: /images/holistic-wellness-products.jpeg
     </ul> -->
 </div>
 
-
-
 <!-- Blog Section -->
 <section id="products" class="py-5">
     <div class="container">
         <div class="row mt-5 ">
         {% assign products = site.products %}
         {% for product in products %}
+         {% if product.category == 'ashwagandha' %}
             <div class="col-sm-3">
                 <a href="{{ site.baseurl }}{{ product.url }}">
                 <div class="blog-post">
@@ -55,6 +61,8 @@ image: /images/holistic-wellness-products.jpeg
                 </div>
                 </a>
             </div>
+        {% endif %}
+
         {% endfor %}
         </div>
     </div>

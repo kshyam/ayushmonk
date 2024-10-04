@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">{{ page.title }}</h1>
+
+        <div class="row">
+            {% assign category = page.title %}
+            {% for product in site.products %}
+                {% if product.category == category %}
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <img src="{{ product.image }}" class="card-img-top" alt="{{ product.title }}">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ product.title }}</h5>
+                            <p class="card-text">{{ product.description }}</p>
+                            <p class="price"><strong>Price: </strong> ₹{{ product.price }}</p>
+                            <a href="{{ product.url }}" class="btn btn-primary">View Product</a>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
