@@ -2,7 +2,7 @@
 title: "Cureveda Herbal Pureprash Immunity Booster "
 description: Cureveda Herbal Pureprash Immunity Booster is a sugar-free
   Chyawanprash designed for all age groups.
-image: /images/blog/71vcyc4evvl._ac_ul480_fmwebp_ql65_.webp
+image: /images/blog/cureveda-herbal-pureprash-immunity-booster-for-all-age-groups-jaggery-based-saffron-kesar-sugar-free-chyawanprash-500gms.webp
 layout: product
 permalink: products/:title
 category: Chyawanprash
