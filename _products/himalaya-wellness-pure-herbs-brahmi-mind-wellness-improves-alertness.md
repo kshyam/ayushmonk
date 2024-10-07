@@ -5,9 +5,10 @@ description: Himalaya Wellness Pure Herbs Brahmi Mind Wellness Tablets are
 image: /images/blog/himalaya-wellness-pure-herbs-brahmi-mind-wellness-improves-alertness-pack-of-60-tablet-1-.webp
 layout: product
 permalink: /products/:title
-category: Mind Wellness
+category: "Stress and Anxiety"
 buy_now_link: https://www.amazon.in/Himalaya-Wellness-Pure-Herbs-Brahmi/dp/B003WR2T5W/ref=1&tag=ayushmonk-21
 price: "158"
+star_rating: "4"
 ---
 **Product Title:**
 
