@@ -11,17 +11,27 @@ image: /images/holistic-wellness-products.jpeg
     <div class="container">
         <h1>Holistic Wellness Products</h1>
         <p>Explore our range of carefully crafted products designed to promote holistic health and well-being.</p>
-        {% include search.html %}
+        <!-- Search Bar -->
+        <div class="search-container">
+        <input type="text" id="product-search" placeholder="Search products..." onkeyup="searchProducts()">
+        </div>
+
+        <div class="quick-links">
+            {% assign categories = site.products | map: "category" | uniq %}
+            {% for category in categories %}
+                <button onclick="populateSearch('{{ category }}')">{{ category }}</button>
+            {% endfor %}
+        </div>
+
     </div>
 </section>
 
-<!-- Blog Section -->
-<section id="products" class="py-5">
+<section id="products-list" class="py-5">
     <div class="container">
         <div class="row mt-5 ">
         {% assign products = site.products %}
         {% for product in products %}
-            <div class="col-sm-3">
+            <div class="col-sm-3 product-item" data-name="{{ product.title | downcase }}" data-description="{{ product.description | downcase }}" data-tags="{{ product.tags | join: ' ' | downcase }}" data-keywords="{{ product.keywords | downcase }}">
                 <a href="{{ site.baseurl }}{{ product.url }}">
                 <div class="blog-post">
                     <img src="{{ product.image }}" alt="{{ product.title }}"/>
@@ -33,9 +43,6 @@ image: /images/holistic-wellness-products.jpeg
                            
                         <a href="{{ product.buy_now_link}}" target="_blank" class="btn btn-warning">Buy Now <b>₹ {{ product.price }}</b></a>
                         &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ product.url }}">Read More</a>
-
-                    
-
                     </div>
                 </div>
                 </a>
@@ -46,3 +53,72 @@ image: /images/holistic-wellness-products.jpeg
 </section>
 
 
+
+<style>
+
+    /* Search Bar Styling */
+    .search-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+    
+    #product-search {
+        padding: 10px;
+        font-size: 16px;
+        width: 80%;
+        max-width: 400px;
+        border-radius: 30px;
+    }
+    
+    /* Product Item Styling */
+    .search-container {
+        text-align: center;
+        margin: 20px 0;
+    }
+    
+    #product-search {
+        padding: 10px;
+        font-size: 16px;
+        width: 80%;
+        max-width: 400px;
+    }
+    
+    /* Product Item Styling */
+    .product-item {
+    }
+    
+    .quick-links button{
+        border-radius: 20px;
+    }
+    
+    </style>
+    
+    <script>
+    
+    function populateSearch(term) {
+        var input = document.getElementById('product-search');
+        input.value = term;
+        searchProducts(); // Call the search function to filter products
+    }
+    
+    function searchProducts() {
+        var input = document.getElementById('product-search');
+        var filter = input.value.toLowerCase();
+        var products = document.querySelectorAll('#products-list .product-item');
+    
+        products.forEach(function(product) {
+            var name = product.getAttribute('data-name');
+            var tags = product.getAttribute('data-tags');
+            var keywords = product.getAttribute('data-keywords');
+    
+            // Check if the filter text is found in the product name, tags, or keywords
+            if (name.includes(filter) || tags.includes(filter) || keywords.includes(filter)) {
+                product.style.display = '';  // Show the product
+            } else {
+                product.style.display = 'none';  // Hide the product
+            }
+        });
+    }
+    
+    
+    </script>
