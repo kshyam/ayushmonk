@@ -1,9 +1,9 @@
 ---
-title: Farm Naturelle 100% Virgin Cold Pressed White Sesame Seed Cooking Oil
+title: Farm Naturelle Pressed White Sesame Seed Oil
 description: Experience the unmatched purity of Farm Naturelle 100% Virgin Cold
   Pressed White Sesame Seed Cooking Oil, a premium-quality, unrefined oil made
   from carefully selected white sesame seeds.
-image: /images/blog/farm-naturelle-100-virgin-cold-pressed-white-sesame-seed-cooking-oil.jpg
+image: /images/blog/farm-naturelle-pressed-white-sesame-seed-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
@@ -14,7 +14,7 @@ star_rating: "4.3"
 ### Product Title:
 **Farm Naturelle 100% Virgin Cold Pressed White Sesame Seed Cooking Oil – Pure & Unrefined for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Experience the unmatched purity of **Farm Naturelle 100% Virgin Cold Pressed White Sesame Seed Cooking Oil**, a premium-quality, unrefined oil made from carefully selected white sesame seeds. Extracted through the cold-press process, this virgin sesame oil retains all its natural nutrients, antioxidants, and a delicate, nutty flavor, making it ideal for a variety of culinary and personal care uses.
 
 Farm Naturelle Sesame Oil is rich in essential fatty acids, vitamins, and minerals, promoting heart health, enhancing skin hydration, and strengthening hair. Perfect for everyday cooking, it elevates the flavor of dishes while also providing numerous health benefits. Its versatile nature extends to beauty routines, where it serves as a deep moisturizer and nourishes hair from root to tip. With no additives or chemicals, this 100% pure sesame oil brings the best of nature to your home.
