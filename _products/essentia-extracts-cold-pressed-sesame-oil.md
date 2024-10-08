@@ -14,7 +14,7 @@ star_rating: "4.3"
 ### Product Title:
 **ESSENTIA EXTRACTS Cold-Pressed Sesame Oil – 100% Pure, Unrefined Sesame Oil for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Discover the versatility and purity of **ESSENTIA EXTRACTS Cold-Pressed Sesame Oil**, a 100% natural and unrefined oil made using the traditional cold-pressing method. Extracted from premium sesame seeds, this oil retains all its essential nutrients, antioxidants, and a mild, nutty flavor, making it an ideal choice for both culinary and beauty uses. 
 
 Perfect for cooking, ESSENTIA EXTRACTS Sesame Oil elevates the taste of your meals with its light, earthy aroma while providing health benefits, such as improved heart health and digestion. Its rich moisturizing properties make it a fantastic solution for skincare and haircare routines, offering deep hydration and nourishment. Free from chemicals and additives, this pure sesame oil ensures a natural and holistic approach to your wellness.
