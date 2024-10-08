@@ -24,7 +24,7 @@ Vedaka Cold Pressed Sesame Oil is packed with healthy fats, antioxidants, and vi
 - **Rich in Antioxidants**: Contains sesamol and vitamin E, which fight free radicals, boost immunity, and slow down signs of aging.
 - **Improves Digestion**: Supports digestive health by easing inflammation and aiding regular bowel movements.
 - **Nourishes Skin**: Deeply hydrates and nourishes the skin, making it soft, smooth, and glowing. It also helps reduce the appearance of wrinkles and fine lines.
-- **Strengthens Hair**: Conditions the scalp, reduces dandruff, and strengthens hair follicles, promoting thicker, shinier hair.
+- **Strengthens Hair**: Conditions the scalp,reduces dandruff, and strengthens hair follicles, promoting thicker, shinier hair.
 - **Ideal for Oil Pulling**: Perfect for the ancient Ayurvedic practice of oil pulling, which detoxifies the mouth, improves gum health, and freshens breath.
 
 ### How to Use:
@@ -34,7 +34,7 @@ Vedaka Cold Pressed Sesame Oil is packed with healthy fats, antioxidants, and vi
 
 3. **For Hair Care**: Warm the oil slightly and apply it to your scalp and hair. Massage it in and leave it on for 30 minutes or overnight before rinsing. Regular use promotes stronger hair, reduces dandruff, and adds natural shine.
 
-4. **Oil Pulling**: Swish 1 tablespoon of sesame oil in your mouth for 10-15 minutes on an empty stomach, then spit it out and rinse with warm wate. This practice detoxifies the mouth, reduces plaque, and promotes oral health.
+4. **Oil Pulling**: Swish 1 tablespoon of sesame oil in your mouth for 10-15 minutes on an empty stomach, then spit it out and rinse with warm water. This practice detoxifies the mouth, reduces plaque, and promotes oral health.
 
 5. **Self-Massage (Abhyanga)**: Use warmed sesame oil for a relaxing full-body massage. This helps to improve circulation, soothe tired muscles, and nourish the skin.
 
