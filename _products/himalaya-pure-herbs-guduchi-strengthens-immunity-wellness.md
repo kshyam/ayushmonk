@@ -15,7 +15,7 @@ star_rating: "4.3"
 ### Product Title:
 **Himalaya Pure Herbs Guduchi Tablets – Strengthens Immunity & Enhances Wellness, 100% Natural Herbal Formula (60 Tablets)**
 
-### Marketing Description:
+### Description:
 Support your immune system and overall wellness with **Himalaya Pure Herbs Guduchi Tablets**, crafted from pure **Guduchi (Tinospora cordifolia)**, a revered herb in Ayurveda known for its powerful immune-boosting and detoxifying properties. Guduchi, also called "Amrita," meaning the root of immortality, is celebrated for its ability to strengthen the body's defense system, protect against infections, and promote vitality.
 
 **Himalaya Guduchi Tablets** provide a natural and safe way to detoxify the body, reduce inflammation, and support liver health. Rich in antioxidants, Guduchi helps neutralize harmful toxins, purify the blood, and promote respiratory and digestive health. Ideal for those seeking to maintain a balanced, healthy lifestyle, these tablets offer a holistic approach to immunity and wellness, free from chemicals, additives, or preservatives.
