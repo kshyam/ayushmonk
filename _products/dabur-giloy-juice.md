@@ -14,7 +14,7 @@ star_rating: "4.2"
 ### Product Title:
 **Dabur Giloy Juice – 100% Natural Immunity Booster, Detoxifier & Antioxidant-Rich Health Tonic**
 
-### Marketing Description:
+### Description:
 Boost your immunity naturally with **Dabur Giloy Juice**, a 100% natural and pure extract of the potent Ayurvedic herb, Giloy (Tinospora cordifolia). Known as “Amrita” in Ayurveda, meaning the root of immortality, Giloy is revered for its powerful immune-boosting and detoxifying properties. Dabur’s Giloy Juice is carefully prepared to retain the herb's medicinal potency, offering you a highly effective natural remedy to support your overall health and wellness.
 
 This juice is packed with antioxidants that help detoxify the body, improve digestion, and promote healthy skin. Regular consumption of Giloy juice helps strengthen the immune system, combat infections, and fight fatigue. It is also known to manage stress, boost metabolism, and improve respiratory health. Completely free from artificial colors, flavors, or preservatives, Dabur Giloy Juice is a holistic solution for maintaining vitality and well-being.
