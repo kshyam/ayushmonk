@@ -43,8 +43,9 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Short Description(< 160)", name: "description", widget: "string"}
-      - {label: "Event Date", name: "date", widget: "string"}
+      - {label: "Event Date", name: "event_date", widget: "datetime"}
       - {label: "Location", name: "location", widget: "string"}
+      - {label: "Location Map", name: "map", widget: "string"}
       - {label: "Contact Details", name: "contact_details", widget: "string"}
       - {label: "Layout", name: "layout", widget: "string"}
       - {label: "permalink", name: "permalink", widget: "string"}
