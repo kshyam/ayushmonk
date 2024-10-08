@@ -3,7 +3,7 @@ title: HESTHETIC Virgin Cold Pressed White Sesame Oil
 description: Indulge in the nourishing benefits of HESTHETIC Virgin Cold Pressed
   White Sesame (Gingelly) Oil, a 100% pure and unrefined oil extracted using
   traditional cold-press methods to preserve all its natural goodness.
-image: /images/blog/hesthetic-virgin-cold-pressed-white-sesame-oil.jpg
+image: /images/blog/hesthetic-virgin-cold-pressed-white-sesame-oil.webp
 layout: product
 permalink: products/:title
 category: Sesame
