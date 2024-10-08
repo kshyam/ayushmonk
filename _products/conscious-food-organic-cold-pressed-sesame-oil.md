@@ -14,7 +14,7 @@ star_rating: "4.6"
 ### Product Title:
 **HESTHETIC Virgin Cold Pressed White Sesame (Gingelly) Oil – 100% Pure, Unrefined Oil for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Indulge in the nourishing benefits of **HESTHETIC Virgin Cold Pressed White Sesame (Gingelly) Oil**, a 100% pure and unrefined oil extracted using traditional cold-press methods to preserve all its natural goodness. Sourced from premium white sesame seeds, this virgin oil is rich in essential nutrients, antioxidants, and healthy fats, making it the ideal choice for cooking as well as skincare and hair care routines.
 
 HESTHETIC Cold Pressed Sesame Oil adds a mild, nutty flavor to your meals while providing exceptional health benefits. Known for its heart-friendly properties, this oil helps reduce cholesterol levels, promotes better digestion, and boosts overall well-being. Its deeply moisturizing properties also make it perfect for hydrating skin and strengthening hair. Completely free of additives and chemicals, this multipurpose oil offers a natural solution for daily health and beauty care.
