@@ -36,6 +36,22 @@ collections:
       - {label: "Star Rating", name: "star_rating", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - label: "Evnts"
+    name: "events"
+    folder: "_events/"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Layout", name: "layout", widget: "string"}
+      - {label: "permalink", name: "permalink", widget: "string"}
+      - {label: "Category(online or offline)", name: "category", widget: "string"}
+      - {label: "Website", name: "buy_now_link", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
   - label: "pages"
     name: "pages"
     folder: "/"
