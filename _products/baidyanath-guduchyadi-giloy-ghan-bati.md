@@ -14,7 +14,7 @@ star_rating: "4.4"
 ### Product Title:
 **Baidyanath Guduchyadi Giloy Ghan Bati – Ayurvedic Immunity Booster & Detoxifier for Digestive Health (60 Tablets)**
 
-### Marketing Description:
+### Description:
 Strengthen your immune system naturally with **Baidyanath Guduchyadi Giloy Ghan Bati**, a traditional Ayurvedic formulation enriched with the powerful benefits of Giloy (Guduchi). Known for its immense medicinal properties, **Giloy (Tinospora cordifolia)** has been used for centuries in Ayurveda to enhance immunity, purify the blood, and improve digestion. This all-natural supplement is designed to help detoxify the body, promote respiratory health, and support overall well-being.
 
 Each tablet is made with pure Giloy extract, ensuring maximum potency and effectiveness. It is also an excellent remedy for managing fever, improving liver function, and boosting energy levels. **Baidyanath Guduchyadi Giloy Ghan Bati** is an ideal daily supplement for those seeking a holistic approach to health through the power of Ayurveda.
