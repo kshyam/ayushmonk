@@ -1,9 +1,9 @@
 ---
-title: Organic Tattva, Organic Sesame Unrefined Cooking Oil
+title: Organic Tattva, Organic Sesame Oil
 description: Experience the natural goodness of Organic Tattva Organic Sesame
   Unrefined Cooking Oil, a 100% pure, cold-pressed oil made from the finest
   organic sesame seeds.
-image: /images/blog/organic-tattva-organic-sesame-unrefined-cooking-oil.jpg
+image: /images/blog/organic-tattva-organic-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
@@ -14,7 +14,7 @@ star_rating: "4.3"
 ### Product Title:
 **Organic Tattva Organic Sesame Unrefined Cooking Oil – 100% Pure, Cold Pressed, and Nutrient-Rich for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Experience the natural goodness of **Organic Tattva Organic Sesame Unrefined Cooking Oil**, a 100% pure, cold-pressed oil made from the finest organic sesame seeds. This unrefined oil retains its natural nutrients, antioxidants, and rich flavor, making it an ideal choice for healthy cooking and personal care. Free from chemicals and additives, Organic Tattva Sesame Oil is perfect for enhancing the flavor of your dishes while offering numerous health benefits for the heart, skin, and hair.
 
 Rich in essential fatty acids and antioxidants, Organic Tattva Sesame Oil helps improve digestion, lower cholesterol, and boost overall wellness. Its versatility extends beyond the kitchen, providing deep moisturization for your skin and strengthening your hair from root to tip. This multipurpose oil is ideal for daily cooking, skincare routines, hair care treatments, and Ayurvedic practices like oil pulling and Abhyanga massage.
