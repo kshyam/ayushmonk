@@ -14,7 +14,7 @@ star_rating: "4.3"
 ### Product Title:
 **Engine Brand Single Pressed Sesame Seed Oil – 100% Pure, Cold-Pressed, Nutrient-Rich Oil for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Experience the purity and traditional goodness of **Engine Brand Single Pressed Sesame Seed Oil**, a premium, 100% natural oil extracted from high-quality sesame seeds using a gentle, single-pressed process. This cold-pressed oil ensures that all essential nutrients, antioxidants, and healthy fats are preserved, making it ideal for everyday cooking and natural beauty care.
 
 Engine Brand Sesame Oil delivers a rich, nutty flavor that enhances the taste of your favorite dishes, from stir-fries and sautés to salads and marinades. Beyond the kitchen, this oil is a natural powerhouse for skincare and hair care, deeply moisturizing your skin, reducing signs of aging, and promoting strong, shiny hair. With its multiple uses, it’s the perfect addition to your wellness routine, blending the benefits of heart health, skin nourishment, and Ayurvedic wellness practices like oil pulling.
