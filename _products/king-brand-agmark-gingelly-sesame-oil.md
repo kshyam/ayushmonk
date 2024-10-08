@@ -14,7 +14,7 @@ star_rating: "4.4"
 ### Product Title:
 **Anveshan Wood Pressed Black Sesame Oil – 100% Pure, Cold-Pressed, Nutrient-Rich Oil for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Discover the essence of purity and tradition with **Anveshan Wood Pressed Black Sesame Oil**, a premium, 100% natural oil made from the finest black sesame seeds. Using traditional wood-pressed methods, this oil is carefully extracted at low temperatures to preserve its rich nutrients, antioxidants, and healthy fats. Free from chemicals, preservatives, or additives, Anveshan Black Sesame Oil offers a wealth of health benefits for cooking, skincare, and hair care.
 
 Ideal for both culinary and beauty applications, this black sesame oil has a distinctively rich, earthy flavor that enhances the taste of salads, dressings, and traditional dishes. It's also a powerhouse of essential nutrients like vitamin E, zinc, magnesium, and calcium, which help nourish your body from the inside out. When used for skincare, it provides deep hydration, boosts skin elasticity, and fights signs of aging. For hair care, it strengthens the scalp, reduces hair fall, and promotes shiny, healthy hair.
