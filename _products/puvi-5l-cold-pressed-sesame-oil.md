@@ -1,5 +1,5 @@
 ---
-title: Amazon Brand - Vedaka Cold Pressed Sesame Oil
+title: Amazon Brand Vedaka Cold Pressed Sesame Oil
 description: Experience the rich heritage of purity and nutrition with Amazon
   Brand - Vedaka Cold Pressed Sesame Oil, a 100% pure, natural, and unrefined
   oil extracted using the traditional cold-pressing method.
