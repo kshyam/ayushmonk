@@ -13,7 +13,7 @@ star_rating: "4.2"
 ### Product Title:
 **Jiva Giloy Capsules – 60x1 Ayurvedic Capsules for Digestion & Immunity Support, 100% Natural Herbal Formula**
 
-### Marketing Description:
+### Description:
 Experience the power of Ayurveda with **Jiva Giloy Capsules**, specially formulated to support digestion and boost immunity. Made from pure **Giloy (Tinospora cordifolia)** extract, a renowned herb in Ayurvedic medicine, these capsules help improve gut health, enhance digestion, and promote overall well-being. Known as the "root of immortality" in Ayurveda, Giloy is rich in antioxidants that help detoxify the body, reduce inflammation, and protect against infections.
 
 Each **Jiva Giloy Capsule** is crafted with the highest quality herbs, ensuring a natural and effective solution to digestive issues such as acidity, indigestion, and bloating. Additionally, the capsules boost immunity, strengthen the body’s defense system, and support respiratory health. Ideal for those looking for an all-natural way to enhance digestion and maintain a healthy immune system.
