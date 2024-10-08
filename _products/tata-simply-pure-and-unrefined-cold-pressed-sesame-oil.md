@@ -14,7 +14,7 @@ star_rating: "4.3"
 ### Product Title:
 **Anjali Cold Pressed Gingelly/Sesame Oil – 100% Pure, Unrefined, Chemical-Free Oil for Cooking, Skin, and Hair Health**
 
-### Marketing Description:
+### Description:
 Introducing **Anjali Cold Pressed Gingelly/Sesame Oil**, a premium, all-natural oil extracted from high-quality sesame seeds using traditional cold-pressing methods. This process ensures that the oil retains all its essential nutrients, vitamins, and antioxidants, offering the purest form of sesame oil available. Completely free from chemicals, preservatives, and additives, this versatile oil is ideal for cooking, skincare, and hair care routines.
 
 Packed with healthy fats and nutrients, Anjali Sesame Oil enhances the flavor of your dishes with its subtle, nutty aroma and delivers numerous health benefits. Rich in antioxidants and essential fatty acids, it promotes heart health, supports digestion, and boosts immunity. Additionally, its moisturizing and anti-inflammatory properties make it perfect for nourishing the skin and hair, reducing dryness, and promoting a youthful glow.
