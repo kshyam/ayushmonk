@@ -14,7 +14,7 @@ star_rating: "4.8"
 ### Product Title:
 **Gramiyaa Wood Cold Pressed Sesame Oil – 100% Pure, Nutrient-Rich, Unrefined Oil for Cooking, Skin & Hair Care**
 
-### Marketing Description:
+### Description:
 Discover the authentic goodness of **Gramiyaa Wood Cold Pressed Sesame Oil**, a premium, 100% pure oil made using traditional wood-pressed techniques. This method ensures that all the vital nutrients, flavor, and aroma are preserved, making Gramiyaa Sesame Oil a versatile and nutrient-rich addition to your kitchen, skincare, and hair care routine. 
 
 Packed with healthy fats, antioxidants, and essential vitamins, this sesame oil adds a rich, nutty flavor to your dishes while supporting heart health, improving digestion, and boosting immunity. Beyond cooking, Gramiyaa Sesame Oil works wonders as a natural moisturizer for your skin, leaving it soft and radiant, and as a deep conditioner for your hair, strengthening strands and reducing dandruff. Free from chemicals and additives, this unrefined oil is the ideal choice for those seeking natural, traditional wellness.
