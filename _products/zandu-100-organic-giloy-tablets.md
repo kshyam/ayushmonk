@@ -15,7 +15,7 @@ star_rating: "4.5"
 ### Product Title:
 **Zandu 100% Organic Giloy Tablets – Natural Immunity Booster & Detoxifier for Overall Health and Wellness**
 
-### Marketing Description:
+### Description:
 Support your immune system and overall health with **Zandu 100% Organic Giloy Tablets**, made from pure and organic Giloy (Tinospora cordifolia) extract, an Ayurvedic herb known for its powerful immune-boosting and detoxifying properties. Revered in traditional medicine as "Amrita" or the "root of immortality," Giloy helps enhance immunity, cleanse the body, and promote a healthier, more balanced lifestyle.
 
 Each tablet is formulated using 100% organic ingredients, free from additives, preservatives, or chemicals, ensuring a safe and natural remedy for your wellness needs. Giloy is packed with antioxidants that fight free radicals, purify the blood, and enhance liver function. It helps combat common infections, reduce inflammation, and promote better digestion and respiratory health. Convenient and easy to incorporate into your daily routine, Zandu Giloy Tablets are your go-to solution for long-term vitality and immunity.
