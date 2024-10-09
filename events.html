@@ -2,7 +2,7 @@
 layout: page
 title: Holistic Wellness Blog
 description: Discover AyushMonk’s range of holistic wellness products including Ayurvedic herbal teas, essential oils, yoga accessories, detox supplements, organic skincare, and mindfulness journals. Enhance your well-being with our carefully curated essentials for a balanced lifestyle.
-canonical_url: "https://ayushmonk.com/blog"
+canonical_url: "https://ayushmonk.com/events"
 image: /images/holistic-wellness-products.jpeg
 ---
 
@@ -24,36 +24,36 @@ image: /images/holistic-wellness-products.jpeg
 <!-- Hero Section -->
 <section class="hero-section-page text-center">
   <div class="container">
-    <h1 class="mb-4">Holistic Health Consultants</h1>
-      <p>Explore our Holistic Health Consultants.</p>
+    <h1 class="mb-4">Ayush Nationl and Intenational Events</h1>
+      <p>Explore our Holistic Health Events.</p>
       {% include search.html %}
   </div>
 </section>
-
 
     <!-- Main Consultant Listing Section -->
     <div class="container mt-5">
         
         <div class="row">
-            {% for event in site.events %}
+          {% assign events = site.events %}
+            {% for event in events %}
             <div class="col-md-3 mb-4">
+                <a href="{{ site.baseurl }}{{ event.url }}">
                 <div class="card consultant-card h-100">
-                    <img src="{{ consultant.image }}" alt="{{ consultant.name }}">
+                    <img src="{{ event.image }}" alt="{{ event.name }}">
                     <div class="card-body">
-                        <h5 class="card-title">{{ event.name }}</h5>
-                        <p class="card-text">{{ event.date }} years of experience</p>
-                        <p class="card-text">{{ event.contact_details }}</p>
+                        <h5 class="card-title">{{ event.title }}</h5>
+                        <p class="card-text">{{ event.description }}</p>
+                        <br>
                         <a href="{{ event.website}}" target="_blank" class="btn btn-warning">Visit Website</a>
-                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ consultant.url }}">Read More</a>
-                      
+                        &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ event.url }}">Read More</a>
                     </div>
                 </div>
+                </a>
             </div>
             {% endfor %}
         </div>
     </div>
 
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>

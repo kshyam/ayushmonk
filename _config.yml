@@ -45,4 +45,7 @@ collections:
     output: true
     permalinks: /consultants/:title/
 
+  events:
+    output: true
+    permalinks: /events
 

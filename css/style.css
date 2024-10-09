@@ -193,6 +193,19 @@ border-radius: 20px; /* Add rounded corners on hover */
   min-height: 460px !important;
 }
 
+
+.event-join-details{
+  background-color: #FFF;
+  padding: 20px;
+  border: 1px solid #EEE;
+  border-radius: 15px;
+  background-color: #f9fafe;
+  box-shadow: 0 0 1px 0 rgba(18, 32, 73, 0.08),
+    0 8px 32px 0 rgba(55, 92, 192, 0.08);
+  /* min-height: 480px !important; */
+  min-height: 200px !important;
+}
+
 .blog-wraper {
   min-height: calc(100vh - 80px);
   padding-top: 40px;
