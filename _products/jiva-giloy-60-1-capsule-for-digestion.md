@@ -1,5 +1,5 @@
 ---
-title: Jiva Giloy - 60 * 1 Capsule for Digestion
+title: Jiva Giloy Capsule for Digestion
 description: Experience the power of Ayurveda with Jiva Giloy Capsules,
   specially formulated to support digestion and boost immunity.
 image: /images/blog/jiva-giloy-60-1-capsule-for-digestion.jpg
