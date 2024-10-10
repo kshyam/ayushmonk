@@ -24,7 +24,7 @@ Rich in **omega-6 fatty acids**, **vitamin E**, and **antioxidants**, this sesam
 - **Nutrient-Rich**: Contains essential nutrients like vitamin E, sesamol, and omega-6 fatty acids, promoting overall wellness and vitality.
 - **Promotes Skin Hydration**: A natural moisturizer that penetrates deep into the skin, reducing dryness and leaving skin smooth and supple.
 - **Strengthens Hair**: Regular use nourishes the scalp, strengthens hair from the roots, and helps prevent hair loss, promoting healthy, shiny hair.
-- **Improves Digestion**: Helps promote better digestion when used in cooking, aiding in nutrient absorption.
+- **Improves Digestion**: Helps promote better digestion when used in cooking, aiding in nutrient absorption. 
 - **Versatile Uses**: Ideal for cooking, skin massage, hair treatments, and Ayurvedic practices like oil pulling and Abhyanga (self-massage).
 
 ### How to Use:
