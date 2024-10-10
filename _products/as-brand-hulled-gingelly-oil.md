@@ -13,7 +13,7 @@ star_rating: "4.7"
 ### Product Title:
 **Sesone Tosuto Premium Toasted Sesame Oil – Rich, Aromatic & Bold Flavor for Gourmet Cooking & Seasoning**
 
-### Marketing Description:
+### Description:
 Elevate your dishes with the bold, nutty richness of **Sesone Tosuto Premium Toasted Sesame Oil**. Made from carefully selected sesame seeds, toasted to perfection, and cold-pressed to preserve its intense, aromatic flavor, this premium oil is the ideal choice for gourmet cooking and finishing dishes. The deep, roasted taste brings an authentic Asian flair to your stir-fries, marinades, and salad dressings, making every meal a culinary masterpiece.
 
 Sesone Tosuto Toasted Sesame Oil not only enhances the taste of your food but also provides a rich source of healthy fats and antioxidants that support heart health and digestion. Whether you’re creating authentic Asian cuisine or adding a bold finish to your favorite dishes, this oil is a kitchen essential for food lovers who appreciate high-quality ingredients.
