@@ -15,7 +15,7 @@ star_rating: "4.1"
 **Indus Valley Bio Organic Pure Aloe Vera Gel – Multipurpose Hydration & Skin Care (175ml)**
 
 ### Description:
-Experience the natural power of aloe vera with **Indus Valley Bio Organic Pure Aloe Vera Gel**, a versatile gel designed to hydrate, nourish, and heal your skin and hair. Made from 100% pure aloe vera extracts, this multipurpose gel is perfect for moisturizing the skin, reducing acne and blemishes, soothing sunburns, and promoting hair health. With its lightweight, non-sticky formula, it absorbs quickly, leaving the skin refreshed, soft, and smooth. Free from harmful chemicals, it's suitable for all skin and hair types, providing a natural solution for your daily beauty needs.
+Experience the natural power of aloe vera with **Indus Valley Bio Organic Pure Aloe Vera Gel**, a versatile gel designed to hydrate, nourish, and heal your skin and hair. Made from 100% pure aloe vera extracts, this multipurpose gel is perfect for moisturizing the skin, reducing acne and blemishes, soothing sunburns, and promoting hair health. With its lightweight, non-sticky formula, it absorbs quickly, leaving the skin refreshed, soft, and smooth. Free from harmful chemicals, it's suitable for all skin and hair types, providing a natural solution for your daily beauty needs. 
 
 Perfect for those seeking an organic, chemical-free option for their skincare and hair care routines, **Indus Valley Aloe Vera Gel** helps you achieve glowing skin and healthy hair.
 
