@@ -1,5 +1,5 @@
 ---
-title: Kerala Ayurveda Chyavanprash
+title: Kerala Ayurveda Chyawanprash
 description: Unlock the power of traditional wellness with Kerala Ayurveda
   Original Chyavanprash, a premium Ayurvedic formulation crafted with Amla,
   Ashwagandha, Giloy, and over 40 potent herbs.
