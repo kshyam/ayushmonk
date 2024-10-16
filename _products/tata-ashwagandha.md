@@ -7,10 +7,7 @@ description: "Revitalize your wellness journey with Tata 1mg Tejasya Ashwagandha
 image: /images/blog/tata-ashwagandha.jpg
 layout: product
 permalink: products/:title
-category: "AshwagandhaRevitalize your wellness journey with Tata 1mg Tejasya
-  Ashwagandha Capsules. Each capsule contains 500mg of high-quality Ashwagandha
-  extract, renowned for its adaptogenic properties that help the body manage
-  stress and enhance vitality. "
+category: Ashwagandha
 buy_now_link: https://www.amazon.in/Tejasya-Ashwagandha-Supports-Strength-Capsules/dp/B0BN3TT7WS/ref=sr_1_35?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
 price: "215"
 star_rating: "4.7"
