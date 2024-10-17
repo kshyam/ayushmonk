@@ -1,8 +1,8 @@
 ---
 title: Instafuel Brahmi capsule
-description: "Product Description: Unlock your brain's potential with Instafuel
-  BacoMind® Brahmi Pure Extract, a natural nootropic supplement designed to
-  enhance memory, focus, and cognitive function."
+description: Unlock your brain's potential with Instafuel BacoMind® Brahmi Pure
+  Extract, a natural nootropic supplement designed to enhance memory, focus, and
+  cognitive function.
 image: /images/blog/instafuel-brahmi-capsule.jpg
 layout: product
 permalink: products/:title
