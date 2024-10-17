@@ -1,5 +1,5 @@
 ---
-title: "2024-10-05 Ayurvedic Health Benefits of Triphala "
+title: "Ayurvedic Health Benefits of Triphala "
 description: "Triphala, a time-honored remedy in Ayurvedic medicine, is renowned
   for its powerful healing and rejuvenating properties. "
 image: /images/blog/ayurvedic-health-benefits-of-triphala-png.webp
