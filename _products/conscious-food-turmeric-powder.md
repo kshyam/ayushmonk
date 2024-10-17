@@ -1,31 +1,31 @@
 ---
-title: Conscious Food Turmeric Powder
-description: Discover the natural goodness of Conscious Food Organic Turmeric
-  Powder, a 100% pure and sustainably sourced turmeric powder packed with the
-  potent health benefits of curcumin.
-image: /images/blog/conscious-food-turmeric-powder.jpg
+title: First Bud Turmeric Powder
+description: Elevate your wellness with First Bud Organics Golden Spice Lakadong
+  Turmeric Powder, a premium quality turmeric sourced from the hills of
+  Meghalaya.
+image: /images/blog/first-bud-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Conscious-Food-Antioxidant-Anti-Inflammatory-Iron-Pounded/dp/B09GG619RJ/ref=sr_1_4_sspa?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
-price: "95"
-star_rating: "4.4"
+buy_now_link: https://www.amazon.in/First-Bud-Organics-Lakadong-Turmeric/dp/B081YJZG9P/ref=sr_1_7?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+price: "319"
+star_rating: "4.3"
 ---
-**Product Title:** Conscious Food Organic Turmeric Powder - 100% Natural and Pure, Rich in Curcumin - 200g
+**Product Title:** First Bud Organics Golden Spice Lakadong Turmeric Powder - 250g | High Curcumin Content for Enhanced Health Benefits
 
-** Description:**
-Discover the natural goodness of **Conscious Food Organic Turmeric Powder**, a 100% pure and sustainably sourced turmeric powder packed with the potent health benefits of curcumin. Known for its rich golden hue and earthy aroma, this organic turmeric powder is a powerhouse of antioxidants and anti-inflammatory properties, perfect for boosting your daily health routine. It adds flavor, color, and wellness to every dish, making it an essential spice in your kitchen.
+**Description:**
+Elevate your wellness with **First Bud Organics Golden Spice Lakadong Turmeric Powder**, a premium quality turmeric sourced from the hills of Meghalaya. Known for its exceptionally high curcumin content (7-12%), Lakadong turmeric is renowned for its potent anti-inflammatory and antioxidant properties. This 250g pack offers a rich golden-yellow hue, a robust flavor, and numerous health benefits, making it a must-have superfood for your kitchen. From cooking to wellness, **First Bud Organics** ensures you get 100% pure, natural, and organically cultivated turmeric for your family’s health.
 
 **Benefits:**
-- **High Curcumin Content:** Helps reduce inflammation and boost immunity.
-- **Certified Organic & Pure:** Free from additives, pesticides, and chemicals.
-- **Antioxidant Rich:** Protects against oxidative stress and supports overall wellness.
-- **Versatile Usage:** Ideal for cooking, herbal teas, and beauty remedies.
+- **High Curcumin (7-12%)**: Naturally boosts immunity, reduces inflammation, and promotes joint health.
+- **Premium Lakadong Variety**: Sourced from the pristine regions of Meghalaya, known for superior turmeric quality.
+- **Antioxidant Powerhouse**: Helps neutralize free radicals and support overall well-being.
+- **Supports Digestive Health**: Aids digestion and enhances nutrient absorption.
 
 **How to Use:**
-- Add **Conscious Food Turmeric Powder** to your everyday curries, stir-fries, or soups for a warm flavor boost.
-- Mix it with milk to make a traditional turmeric latte, or blend into smoothies for a health kick.
-- Use it in DIY skincare masks for natural glow-enhancing benefits.
+- **For Cooking:** Add **First Bud Organics Lakadong Turmeric Powder** to curries, soups, or rice dishes for a vibrant color and health boost.
+- **For Golden Milk:** Mix with warm milk, honey, and black pepper for a delicious and healthful turmeric latte.
+- **For DIY Skincare:** Combine with yogurt and honey for a nourishing turmeric face mask to promote glowing skin.
 
 **Hashtags:**
-#ConsciousFood #TurmericPowder #OrganicTurmeric #CurcuminRich #AntiInflammatory #HealthyCooking #NaturalWellness #ImmunityBoost #Ayurveda #NaturalGlow
+#FirstBudOrganics #LakadongTurmeric #GoldenSpice #HighCurcumin #OrganicWellness #NaturalImmunity #Superfood #AntiInflammatory #GoldenMilk #AyurvedicHealing #PureAndNatural
