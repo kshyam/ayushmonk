@@ -11,7 +11,7 @@ date: 2024-10-05T12:04:00.000Z
 ---
 Triphala, a time-honored remedy in Ayurvedic medicine, is renowned for its powerful healing and rejuvenating properties. Made from the combination of three fruits—Amla (Indian Gooseberry), Haritaki (Terminalia Chebula), and Bibhitaki (Terminalia Bellirica)—Triphala has been used for thousands of years in India to promote overall health and well-being. Below, we explore the numerous health benefits of this ancient herbal blend.
 
-## What is Triphala? 
+## What is Triphala?  
 
 **[Triphala](https://ayushmonk.com/products/attar-ayurveda-triphala)** is a traditional Ayurvedic herbal formulation made from the dried fruits of three powerful medicinal plants: **[Amla](https://ayushmonk.com/products/dharamchand-triphala) (Indian Gooseberry)**, **Haritaki (Terminalia Chebula)**, and **Bibhitaki (Terminalia Bellirica)**. The name "Triphala" translates to "three fruits" in Sanskrit, reflecting the combination of these three fruits in the formulation. Each fruit contributes unique health benefits, making Triphala a well-rounded and widely used remedy in Ayurvedic medicine.
 
