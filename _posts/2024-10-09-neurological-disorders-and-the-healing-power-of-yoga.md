@@ -9,8 +9,6 @@ author: Shyam Mohan
 category: Yoga
 date: 2024-10-09T10:47:00.000Z
 ---
-## Neurological Disorders and the Healing Power of Yoga
-
 ### Introduction
 
 Neurological disorders are conditions that affect the brain, spinal cord, and nerves throughout the body. These disorders can manifest in a variety of ways, including movement issues, cognitive impairments, emotional instability, and more. Some common neurological disorders include Alzheimer's disease, Parkinson's disease, epilepsy, multiple sclerosis (MS), stroke, and migraines. 
