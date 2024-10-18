@@ -69,12 +69,18 @@ Here are a few yoga postures and breathing techniques that are beneficial for ma
 #### 3. **Bhujangasana (Cobra Pose)**
    - Stretches the spine and strengthens the muscles around the vertebrae, promoting spinal health, which is important for people with MS or Parkinson’s.
 
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJ38XCDrdrT1vaDPCWHT0reWBilBTSeSZcv9RqxuxmEPiBQ9PAp7AwdX1uVb8EaiWqy3dB1lLRd52hJdsWKWPUD77xxHm_ZL2vToBwtH-6b4mrr4JkC_DXFrofT-wPhbaEiA-oi0UUjzKsUru8g4E51AUP?key=DolJBsYn1X8zMHIyAnLicQ)**
+
 #### 4. **Uttanasana (Standing Forward Bend)**
    - Enhances circulation to the brain and relieves tension in the body, aiding cognitive function and improving mood.
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcNeYKq2dWUVmtwteF-tHYWnGw4tsMXFXZxC1fX0KYrA6wIjCQIUmF-WNL5Y82-2xUiIShx7HiG17D3lzNo2tlQvBwuLb3xBnVTMEF3955Nuxi3BTYPDTn5cW0h90qk3C4Afup23AwXqcFmZoUO0R86t7CV?key=DolJBsYn1X8zMHIyAnLicQ)**
 
 #### 5. **Pranayama (Breathing Exercises)**
    - **Anulom Vilom (Alternate Nostril Breathing)**: Balances the left and right hemispheres of the brain, helping to calm the nervous system.
    - **Bhramari (Bee Breath)**: Soothes the mind and reduces anxiety, which is particularly helpful for epilepsy and general neurological health.
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjbePg9GdcyfkNc3G5FGMHs3nWS9umGdUoFhnlU2bf8CmZltuy7sfwUpXNQ5W4-O4toSiv6fI3xat8wc9ZqskXp8HfjVYpCzWFy7tX-4XRrsqTEwEO8pXd2YsrA3XWLMX1TnHDvkHRfdKH4l7mP8wadOg?key=DolJBsYn1X8zMHIyAnLicQ)**
 
 ### Scientific Research Supporting Yoga for Neurological Health
 
