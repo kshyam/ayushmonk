@@ -58,11 +58,6 @@ Here are a few yoga postures and breathing techniques that are beneficial for ma
 #### 1. **Adho Mukha Svanasana (Downward-Facing Dog Pose)**
    - Helps strengthen muscles and improve balance, particularly for individuals with Parkinson’s or MS.
 
-
-
-
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWhb5Xkom7C9cb44Lge1dx77B5Qya37iMwjzzuzjINBQeQw-e8cbxW3ASW5slLL47YEzVYl54GBOzkd9dLEnaqePsUZu5TRtBTcGxiLmRUURNT-gT2N7gAOeUNv0LDXesoP74Lu86BIy0wBrKrkRm8JM_c?key=DolJBsYn1X8zMHIyAnLicQ)**
-
 #### 2. **Viparita Karani (Legs-Up-the-Wall Pose)**
    - Promotes relaxation and increases circulation, which can be helpful for stroke recovery and managing MS-related fatigue.
 
