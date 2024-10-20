@@ -7,7 +7,7 @@ image: /images/blog/healthyhey-nutrition-ashwagandha-powder-withania-somnifera-1
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Healthyhey-Nutrition-Ashwagandha-Root-Extract/dp/B076758ZGD/ref=sr_1_15_sspa?crid=tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Healthyhey-Nutrition-Ashwagandha-Root-Extract/dp/B076758ZGD/ref=sr_1_15_sspa?crid&tag=ayushmonk-21
 price: "790"
 star_rating: "4"
 ---
