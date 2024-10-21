@@ -1,9 +1,9 @@
 ---
-title: Just Jaivik Organic Guduchi - Giloy
+title: Just Jaivik Organic Guduchi
 description: Revitalize your health with Just Jaivik Organic Guduchi (Giloy)
   capsules, a 100% organic Ayurvedic supplement known for boosting immunity,
   detoxifying, and rejuvenating the body.
-image: /images/blog/just-jaivik-organic-guduchi-giloy.jpg
+image: /images/blog/just-jaivik-organic-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
