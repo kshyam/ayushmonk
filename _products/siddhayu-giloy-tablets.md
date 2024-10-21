@@ -1,8 +1,8 @@
 ---
-title: Siddhayu Giloy Tablets
+title: Siddhayu Guduchi Tablets
 description: Support your health naturally with Siddhayu Giloy Tablets, a
   powerful Ayurvedic supplement crafted from pure Giloy (Tinospora cordifolia).
-image: /images/blog/siddhayu-giloy-tablets.jpg
+image: /images/blog/siddhayu-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
