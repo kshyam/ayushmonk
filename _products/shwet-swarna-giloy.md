@@ -2,7 +2,7 @@
 title: Shwet Swarna Guduchi
 description: Elevate your health with Shwet Swarna Giloy, a premium Ayurvedic
   supplement made from 100% pure Giloy (Tinospora cordifolia).
-image: /images/blog/shwet-swarna-giloy.jpg
+image: /images/blog/shwet-swarna-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
