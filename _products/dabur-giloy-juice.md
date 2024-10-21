@@ -1,5 +1,5 @@
 ---
-title: Dabur Giloy Juice
+title: Dabur Guduchi Juice
 description: Boost your immunity naturally with Dabur Giloy Juice, a 100%
   natural and pure extract of the potent Ayurvedic herb, Giloy (Tinospora
   cordifolia).
