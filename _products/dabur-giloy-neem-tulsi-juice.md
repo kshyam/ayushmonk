@@ -1,5 +1,5 @@
 ---
-title: Dabur Giloy Neem Tulsi Juice
+title: Dabur Guduchi Neem Tulsi Juice
 description: Unlock the power of nature with Dabur Giloy Neem Tulsi Juice, a
   unique blend of three potent Ayurvedic herbs—Giloy, Neem, and Tulsi—known for
   their powerful immunity-boosting, detoxifying, and rejuvenating properties.
