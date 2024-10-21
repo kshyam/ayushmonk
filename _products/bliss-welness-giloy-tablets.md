@@ -1,5 +1,5 @@
 ---
-title: Bliss Welness Giloy Tablets
+title: Bliss Welness Guduchi Tablets
 description: Revitalize your health with Bliss Wellness Giloy Tablets, crafted
   from pure Giloy (Tinospora cordifolia), a powerhouse herb in Ayurveda
   celebrated for its immunity-boosting, detoxifying, and rejuvenating
