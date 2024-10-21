@@ -1,5 +1,5 @@
 ---
-title: Baidyanath Guduchyadi Giloy Ghan Bati
+title: Baidyanath Guduchi Ghan Bati
 description: Strengthen your immune system naturally with Baidyanath Guduchyadi
   Giloy Ghan Bati, a traditional Ayurvedic formulation enriched with the
   powerful benefits of Giloy (Guduchi).
