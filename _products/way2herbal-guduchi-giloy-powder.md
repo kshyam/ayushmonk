@@ -1,9 +1,9 @@
 ---
-title: Way2Herbal Guduchi Giloy Powder
+title: Way2Herbal Guduchi Powder
 description: Boost your health naturally with Way2Herbal Guduchi Giloy Powder, a
   premium Ayurvedic supplement made from 100% pure Guduchi (Tinospora
   cordifolia).
-image: /images/blog/way2herbal-guduchi-giloy-powder.jpg
+image: /images/blog/way2herbal-guduchi-powder.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
