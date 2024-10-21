@@ -1,10 +1,10 @@
 ---
-title: Zandu Organic Giloy Tablets
+title: Zandu Organic Guduchi Tablets
 description: Support your immune system and overall health with Zandu 100%
   Organic Giloy Tablets, made from pure and organic Giloy (Tinospora cordifolia)
   extract, an Ayurvedic herb known for its powerful immune-boosting and
   detoxifying properties.
-image: /images/blog/zandu-organic-giloy-tablets.jpg
+image: /images/blog/zandu-organic-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
