@@ -2,7 +2,7 @@
 title: Jiva Guduchi Capsule for Digestion
 description: Discover the power of Ayurveda with Jiva Giloy Capsules, crafted to
   promote healthy digestion and strengthen immunity.
-image: /images/blog/jiva-giloy-capsule-for-digestion.jpg
+image: /images/blog/jiva-guduchi-capsule-for-digestion.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
