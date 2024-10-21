@@ -1,5 +1,5 @@
 ---
-title: Neel Ayurvedics Giloy
+title: Neel Ayurvedics Guduchi
 description: Enhance your health naturally with Neel Ayurvedics Giloy, crafted
   from 100% pure Giloy (Tinospora cordifolia), a revered herb in Ayurveda known
   for its powerful immune-boosting, detoxifying, and rejuvenating properties.
