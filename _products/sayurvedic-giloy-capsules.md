@@ -4,7 +4,7 @@ description: Enhance your wellness with SAYURVEDIC Giloy Capsules, formulated
   with 100% pure Giloy (Tinospora cordifolia), an esteemed herb in Ayurveda
   known for its powerful immune-boosting, detoxifying, and rejuvenating
   properties.
-image: /images/blog/sayurvedic-giloy-capsules.jpg
+image: /images/blog/sayurvedic-guduchi-capsules.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
