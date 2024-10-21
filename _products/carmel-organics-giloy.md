@@ -2,7 +2,7 @@
 title: CARMEL ORGANICS Guduchi
 description: Experience the healing power of Ayurveda with Carmel Organics Giloy
   capsules, made from 100% organic Giloy (Tinospora cordifolia).
-image: /images/blog/carmel-organics-giloy.jpg
+image: /images/blog/carmel-organics-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
