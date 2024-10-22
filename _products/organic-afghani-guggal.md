@@ -1,9 +1,9 @@
 ---
-title: Organic Afghani Guggal
+title: Organic Afghani Guggul
 description: Organic Afghani Guggal is a premium, Grade A++ natural resin
   sourced from the Commiphora tree, renowned for its spiritual and cleansing
   properties.
-image: /images/blog/organic-afghani-guggal.jpg
+image: /images/blog/organic-afghani-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
