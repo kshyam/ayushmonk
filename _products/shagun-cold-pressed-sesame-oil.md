@@ -7,7 +7,7 @@ image: /images/blog/engine-brand-single-pressed-sesame-seeds.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Engine-Brand-Sesame-Oil-Litre/dp/B01DWA046O/ref=sr_1_9?crid=A4KOR1T28SZX&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Engine-Brand-Sesame-Oil-Litre/dp/B01DWA046O/ref=sr_1_9?crid=A4KOR1T28SZX&tag=m0150-21
 price: "379"
 star_rating: "4.3"
 ---

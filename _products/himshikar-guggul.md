@@ -7,7 +7,7 @@ image: /images/blog/himshikar-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Guggul-Gugal-Natural-guggal-Samagri/dp/B07PFXMM43/ref=sr_1_39?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Guggul-Gugal-Natural-guggal-Samagri/dp/B07PFXMM43/ref=sr_1_39?crid=274T8B0U72I18&tag=m0150-21
 price: "199"
 star_rating: "5.0"
 ---

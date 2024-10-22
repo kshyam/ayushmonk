@@ -7,7 +7,7 @@ image: /images/blog/dabur-giloy-neem-tulsi-juice.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/DABUR-Giloy-Neem-Juice-Tulsi/dp/B087DJ9L3K/ref=sr_1_15?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/DABUR-Giloy-Neem-Juice-Tulsi/dp/B087DJ9L3K/ref=sr_1_15?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "199"
 star_rating: "4.3"
 ---

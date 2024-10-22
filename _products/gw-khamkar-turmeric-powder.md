@@ -7,7 +7,7 @@ image: /images/blog/gw-khamkar-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/GW-Khamkar-Containing-Powerhouse-Nutrients/dp/B0BQM9SM4P/ref=sr_1_40?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/GW-Khamkar-Containing-Powerhouse-Nutrients/dp/B0BQM9SM4P/ref=sr_1_40?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "225"
 star_rating: "4.2"
 ---

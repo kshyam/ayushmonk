@@ -6,7 +6,7 @@ image: /images/blog/satvyk-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Siddhagiris-SATVYK-HEALTH-STORE-Hand-Sliced/dp/B074C5GPFM/ref=sr_1_28?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Siddhagiris-SATVYK-HEALTH-STORE-Hand-Sliced/dp/B074C5GPFM/ref=sr_1_28?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "89"
 star_rating: "4.4"
 ---

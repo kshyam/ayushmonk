@@ -7,7 +7,7 @@ image: /images/blog/kapiva-triphala-juice.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Kapiva-Triphala-Juice-1-L/dp/B01MFH16Z4/ref=sr_1_12?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kapiva-Triphala-Juice-1-L/dp/B01MFH16Z4/ref=sr_1_12?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "235"
 star_rating: "4.2"
 ---

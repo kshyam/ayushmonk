@@ -7,7 +7,7 @@ image: /images/blog/local-sparrow-waigaon-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Local-Sparrow-Turmeric-Curcumin-Additives/dp/B0BWDH9Q1Q/ref=sr_1_41?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Local-Sparrow-Turmeric-Curcumin-Additives/dp/B0BWDH9Q1Q/ref=sr_1_41?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "99"
 star_rating: "5.0"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/nirvasa-shilajit-gold-60-capsules.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Nirvasa-Shilajit-Gold-Himalayan-Ashwagandha/dp/B0CZRFPGC6/ref=sr_1_18?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Nirvasa-Shilajit-Gold-Himalayan-Ashwagandha/dp/B0CZRFPGC6/ref=sr_1_18?crid=1YY2DLXEMCWUZ&tag=m0150-21
 price: "399"
 star_rating: "4"
 ---

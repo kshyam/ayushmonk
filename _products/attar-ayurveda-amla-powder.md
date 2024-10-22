@@ -6,7 +6,7 @@ image: /images/blog/attar-ayurveda-amla-powder.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Ayurveda-Powder-Growth-Natural-Preservatives/dp/B07QFK5RW5/ref=sr_1_42?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Ayurveda-Powder-Growth-Natural-Preservatives/dp/B07QFK5RW5/ref=sr_1_42?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "265"
 star_rating: "4.3"
 ---

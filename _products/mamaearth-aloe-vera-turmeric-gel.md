@@ -7,7 +7,7 @@ image: /images/blog/mamaearth-aloe-vera-turmeric-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Mamaearth-Aloe-Vera-Turmeric-Vitamin/dp/B07VL4MYJ2/ref=sr_1_19?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Mamaearth-Aloe-Vera-Turmeric-Vitamin/dp/B07VL4MYJ2/ref=sr_1_19?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "313"
 star_rating: "4.1"
 ---

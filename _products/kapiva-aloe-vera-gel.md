@@ -6,7 +6,7 @@ image: /images/blog/kapiva-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Kapiva-Pure-Aloe-Vera-Skin/dp/B07SZ43SWF/ref=sr_1_7?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kapiva-Pure-Aloe-Vera-Skin/dp/B07SZ43SWF/ref=sr_1_7?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "349"
 star_rating: "4.2"
 ---

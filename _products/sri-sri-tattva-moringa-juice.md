@@ -7,7 +7,7 @@ image: /images/blog/sri-sri-tattva-moringa-juice.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Sri-Tattva-Moringa-Juice-Powerhouse/dp/B0BLYLWLQJ/ref=sr_1_34?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Sri-Tattva-Moringa-Juice-Powerhouse/dp/B0BLYLWLQJ/ref=sr_1_34?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "362"
 star_rating: "4.6"
 ---

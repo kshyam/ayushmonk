@@ -6,7 +6,7 @@ image: /images/blog/himalaya-wellness-pure-herbs-brahmi-mind-wellness-improves-a
 layout: product
 permalink: /products/:title
 category: "Stress and Anxiety"
-buy_now_link: https://www.amazon.in/Himalaya-Wellness-Pure-Herbs-Brahmi/dp/B003WR2T5W/ref=1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Himalaya-Wellness-Pure-Herbs-Brahmi/dp/B003WR2T5W/ref=1&tag=m0150-21
 price: "158"
 star_rating: "4"
 ---

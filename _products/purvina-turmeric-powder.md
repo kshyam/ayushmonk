@@ -6,7 +6,7 @@ image: /images/blog/purvina-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Purvina-100-Natural-Turmeric-Powder/dp/B08DHN4ZY4/ref=sr_1_24_sspa?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Purvina-100-Natural-Turmeric-Powder/dp/B08DHN4ZY4/ref=sr_1_24_sspa?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "239"
 star_rating: "4.5"
 ---

@@ -6,7 +6,7 @@ image: /images/blog/indra-sugandh-bhandar-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/INDRA-SUGANDH-BHANDAR-Shuddh-Guggal/dp/B08FYK7J1S/ref=sr_1_6?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/INDRA-SUGANDH-BHANDAR-Shuddh-Guggal/dp/B08FYK7J1S/ref=sr_1_6?crid=274T8B0U72I18&tag=m0150-21
 price: "325"
 star_rating: "4.1"
 ---

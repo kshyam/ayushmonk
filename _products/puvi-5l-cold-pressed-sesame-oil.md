@@ -7,7 +7,7 @@ image: /images/blog/puvi-5l-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Pressed-Gingelly-Sesame-Virgin-Chekku/dp/B07JJ8RF7R/ref=sr_1_17?crid=1GVBV0I1R8IFF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Pressed-Gingelly-Sesame-Virgin-Chekku/dp/B07JJ8RF7R/ref=sr_1_17?crid=1GVBV0I1R8IFF&tag=m0150-21
 price: "2166"
 star_rating: "4.3"
 ---

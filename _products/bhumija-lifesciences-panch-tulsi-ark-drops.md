@@ -6,7 +6,7 @@ image: /images/blog/bhumija-lifesciences-panch-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Bhumija-Lifesciences-Panch-Tulsi-Drops/dp/B01I6GO398/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Bhumija-Lifesciences-Panch-Tulsi-Drops/dp/B01I6GO398/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
 price: "418"
 star_rating: "4.1"
 ---

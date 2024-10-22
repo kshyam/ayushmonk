@@ -6,7 +6,7 @@ image: /images/blog/sri-sri-tattva-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Sri-Shuddhta-Vitamin-Naturally-Immunity/dp/B07RZLJYQ4/ref=sr_1_45?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Sri-Shuddhta-Vitamin-Naturally-Immunity/dp/B07RZLJYQ4/ref=sr_1_45?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "230"
 star_rating: "4.2"
 ---

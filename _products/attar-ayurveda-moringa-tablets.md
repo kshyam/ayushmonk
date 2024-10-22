@@ -7,7 +7,7 @@ image: /images/blog/attar-ayurveda-moringa-tablets.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Ayurveda-Moringa-Tablets-Drumstick-Nutritious/dp/B0CFLFHD6P/ref=sr_1_11?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Ayurveda-Moringa-Tablets-Drumstick-Nutritious/dp/B0CFLFHD6P/ref=sr_1_11?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "282"
 star_rating: "4.4"
 ---

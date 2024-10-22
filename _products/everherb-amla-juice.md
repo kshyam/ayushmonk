@@ -7,7 +7,7 @@ image: /images/blog/everherb-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/EverHerb-Vitamin-Natural-Immunity-Digestion/dp/B08L5LPVVK/ref=sr_1_3_sspa?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/EverHerb-Vitamin-Natural-Immunity-Digestion/dp/B08L5LPVVK/ref=sr_1_3_sspa?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "236"
 star_rating: "4.6"
 ---

@@ -6,7 +6,7 @@ image: /images/blog/kapiva-karela-jamun-juice-helps-control-blood-sugar-level-an
 layout: product
 permalink: products/:title
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Kapiva-Karela-Jamun-Juice/dp/B01MRFPAMD/ref=tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kapiva-Karela-Jamun-Juice/dp/B01MRFPAMD/ref=tag=m0150-21
 price: "249"
 star_rating: "4.2"
 ---

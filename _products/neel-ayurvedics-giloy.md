@@ -7,7 +7,7 @@ image: /images/blog/neel-ayurvedics-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Neel-Ayurvedics-Tinospora-cordifolia-Immunity/dp/B0BWNLRYML/ref=sr_1_54?crid=1TX1M06Q0LCMB&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Neel-Ayurvedics-Tinospora-cordifolia-Immunity/dp/B0BWNLRYML/ref=sr_1_54?crid=1TX1M06Q0LCMB&tag=m0150-21
 price: "499"
 star_rating: "5.0"
 ---

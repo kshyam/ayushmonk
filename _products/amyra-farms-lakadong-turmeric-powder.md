@@ -6,7 +6,7 @@ image: /images/blog/amyra-farms-lakadong-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Amyra-Farms-Lakadong-Pesticides-Meghalaya/dp/B0CYTF5NNV/ref=sr_1_37?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Amyra-Farms-Lakadong-Pesticides-Meghalaya/dp/B0CYTF5NNV/ref=sr_1_37?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "279"
 star_rating: "4.8"
 ---

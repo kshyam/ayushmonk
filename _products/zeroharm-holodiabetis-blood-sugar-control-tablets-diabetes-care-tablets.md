@@ -6,7 +6,7 @@ image: /images/blog/zeroharm-holodiabetis-blood-sugar-control-tablets-diabetes-c
 layout: product
 permalink: /blog/:title/
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/ZEROHARM-HoloDiabetis-Nano-formulated-Ashwagandha-Bioavailable/dp/B09PYWG8H9/ref=tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/ZEROHARM-HoloDiabetis-Nano-formulated-Ashwagandha-Bioavailable/dp/B09PYWG8H9/ref=tag=m0150-21
 price: "679"
 star_rating: "4.2"
 ---

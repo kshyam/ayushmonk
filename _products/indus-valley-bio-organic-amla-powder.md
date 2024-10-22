@@ -6,7 +6,7 @@ image: /images/blog/indus-valley-bio-organic-amla-powder.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Indus-Valley-Organic-Indian-Gooseberry/dp/B01MXRZJSB/ref=sr_1_4_sspa?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Indus-Valley-Organic-Indian-Gooseberry/dp/B01MXRZJSB/ref=sr_1_4_sspa?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "197"
 star_rating: "4.2"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/instafuel-brahmi-capsule.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Instafuel-Supplements-Monnieri-60-Capsules/dp/B0B6JKYS48/ref=sr_1_58_sspa?crid=U72N30JP0KKO&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Instafuel-Supplements-Monnieri-60-Capsules/dp/B0B6JKYS48/ref=sr_1_58_sspa?crid=U72N30JP0KKO&tag=m0150-21
 price: "645"
 star_rating: "5.0"
 ---

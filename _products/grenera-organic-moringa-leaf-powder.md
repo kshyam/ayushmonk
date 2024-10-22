@@ -7,7 +7,7 @@ image: /images/blog/grenera-organic-moringa-leaf-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Grenera-Organic-Moringa-Leaf-Powder/dp/B016S0XF3E/ref=sr_1_18?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Grenera-Organic-Moringa-Leaf-Powder/dp/B016S0XF3E/ref=sr_1_18?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "505"
 star_rating: "4.1"
 ---

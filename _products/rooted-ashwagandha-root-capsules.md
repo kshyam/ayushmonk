@@ -7,7 +7,7 @@ image: /images/blog/rooted-ashwagandha-root-capsules.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Ashwagandha-Capsules-withanolides-Supports-Immunity/dp/B09HPXQ4XV/ref=sr_1_23_sspa?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Ashwagandha-Capsules-withanolides-Supports-Immunity/dp/B09HPXQ4XV/ref=sr_1_23_sspa?crid=1GYTAEQXSPQJD&tag=m0150-21
 price: "350"
 star_rating: "4.4"
 ---

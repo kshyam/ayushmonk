@@ -7,7 +7,7 @@ image: /images/blog/jain-triphala-tablet.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Jain-Triphala-Tablets-1000-Count/dp/B06Y6L2WZ5/ref=sr_1_29?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Jain-Triphala-Tablets-1000-Count/dp/B06Y6L2WZ5/ref=sr_1_29?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "499"
 star_rating: "4.1"
 ---

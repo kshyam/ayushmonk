@@ -7,7 +7,7 @@ image: /images/blog/tata-sampann-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Tata-Sampann-Turmeric-Powder-Masala/dp/B079H8D8M6/ref=sr_1_1_sspa?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Tata-Sampann-Turmeric-Powder-Masala/dp/B079H8D8M6/ref=sr_1_1_sspa?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "86"
 star_rating: "4.5"
 ---

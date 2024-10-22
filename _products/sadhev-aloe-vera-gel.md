@@ -7,7 +7,7 @@ image: /images/blog/sadhev-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Sadhev-Aloe-Vera-Saffron-Kumkumadi-Thailam/dp/B0BSV87MTJ/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Sadhev-Aloe-Vera-Saffron-Kumkumadi-Thailam/dp/B0BSV87MTJ/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
 price: "262"
 star_rating: "4.1"
 ---

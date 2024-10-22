@@ -7,7 +7,7 @@ image: /images/blog/green-worth-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/GREEN-WORTH-Pro-Vit-Moisturizing-Nourishing/dp/B084RJ3XQ9/ref=sr_1_14?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/GREEN-WORTH-Pro-Vit-Moisturizing-Nourishing/dp/B084RJ3XQ9/ref=sr_1_14?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "229"
 star_rating: "4.1"
 ---

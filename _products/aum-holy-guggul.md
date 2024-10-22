@@ -7,7 +7,7 @@ image: /images/blog/aum-holy-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/AUM-Organic-Original-Natural-Purifier/dp/B0CSNBV6K2/ref=sr_1_14?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/AUM-Organic-Original-Natural-Purifier/dp/B0CSNBV6K2/ref=sr_1_14?crid=274T8B0U72I18&tag=m0150-21
 price: "200"
 star_rating: "5.0"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-brahmi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Baidyanath-Brahmi-Tablets-Promotes-Relaxation/dp/B0D4LRTL1B/ref=sr_1_11?crid=U72N30JP0KKO&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Baidyanath-Brahmi-Tablets-Promotes-Relaxation/dp/B0D4LRTL1B/ref=sr_1_11?crid=U72N30JP0KKO&tag=m0150-21
 price: "165"
 star_rating: "4.3"
 ---

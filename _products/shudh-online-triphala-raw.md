@@ -7,7 +7,7 @@ image: /images/blog/shudh-online-triphala-raw.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Shudh-Online-Combo-BAHEDA-HARAD/dp/B07CC3Y9Z6/ref=sr_1_41?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Shudh-Online-Combo-BAHEDA-HARAD/dp/B07CC3Y9Z6/ref=sr_1_41?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "249"
 star_rating: "4.3"
 ---

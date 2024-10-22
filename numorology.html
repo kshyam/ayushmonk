@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numerology Calculator</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .numerology-header {
+            background-color: #f8f9fa;
+            padding: 2rem;
+            text-align: center;
+        }
+        .numerology-header h1 {
+            color: #6c757d;
+        }
+        .calculator-form {
+            padding: 2rem;
+        }
+        .result-section {
+            padding: 2rem;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            margin-top: 1.5rem;
+        }
+        .numerology-info {
+            margin-top: 2rem;
+            padding: 2rem;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="numerology-header">
+        <h1>Numerology Calculator</h1>
+        <p>Discover insights into your personality, potential, and life path through the power of numbers.</p>
+    </header>
+
+    <!-- Calculator Form -->
+    <div class="container calculator-form">
+        <form id="numerologyForm">
+            <div class="mb-3">
+                <label for="name" class="form-label">Enter your Name:</label>
+                <input type="text" class="form-control" id="name" placeholder="Your Name" required>
+            </div>
+            <div class="mb-3">
+                <label for="dob" class="form-label">Enter your Date of Birth:</label>
+                <input type="date" class="form-control" id="dob" required>
+            </div>
+            <button type="button" onclick="calculateNumerology()" class="btn btn-primary">Calculate</button>
+        </form>
+
+        <!-- Result Section -->
+        <div id="result" class="result-section mt-4 d-none">
+            <h3>Numerology Result</h3>
+            <p id="resultContent"></p>
+        </div>
+    </div>
+
+    <!-- About Numerology Section -->
+    <div class="container numerology-info">
+        <h2>Why Use Numerology?</h2>
+        <p>Numerology is the ancient study of the mystical relationship between numbers and events. Each number is believed to have its own unique vibration and meaning, offering insights into different aspects of life. Here are a few ways people use numerology:</p>
+        <ul>
+            <li><strong>Self-Discovery:</strong> Learn about your strengths, weaknesses, and personality traits to better understand yourself.</li>
+            <li><strong>Life Path Insights:</strong> Uncover potential opportunities and challenges on your life journey.</li>
+            <li><strong>Relationship Compatibility:</strong> Discover how your numbers align with those of your loved ones to improve your relationships.</li>
+            <li><strong>Career Guidance:</strong> Explore career paths that may align well with your personal numbers.</li>
+        </ul>
+        <p>Whether you’re looking for guidance or simply curious about how numbers influence your life, numerology can offer valuable insights.</p>
+        
+        <h1>Numerology Behavior by Numbers</h1>
+
+        <h2>1 (Leadership & Independence)</h2>
+        <p><strong>Personality:</strong> Ambitious, confident, self-reliant.</p>
+        <p><strong>Behavior:</strong> Natural leaders, driven by success, pioneering in their endeavors. They can be assertive and often prefer to work independently.</p>
+
+        <h2>2 (Harmony & Partnership)</h2>
+        <p><strong>Personality:</strong> Diplomatic, empathetic, cooperative.</p>
+        <p><strong>Behavior:</strong> Skilled in mediating and creating harmony in relationships. They are team players and value partnerships but can sometimes be overly sensitive or avoid confrontation.</p>
+
+        <h2>3 (Creativity & Expression)</h2>
+        <p><strong>Personality:</strong> Artistic, expressive, communicative.</p>
+        <p><strong>Behavior:</strong> Enthusiastic and full of energy, they express themselves creatively through various forms like writing, art, or speech. Sometimes they can be scattered in focus.</p>
+
+        <h2>4 (Stability & Order)</h2>
+        <p><strong>Personality:</strong> Practical, disciplined, hard-working.</p>
+        <p><strong>Behavior:</strong> Methodical and detail-oriented, they like structure and are dependable. They are often seen as reliable but can be rigid or overly serious at times.</p>
+
+        <h2>5 (Freedom & Adventure)</h2>
+        <p><strong>Personality:</strong> Dynamic, curious, adaptable.</p>
+        <p><strong>Behavior:</strong> They thrive on variety, change, and exploration. Often unconventional, they are spontaneous and enjoy new experiences but may resist routine and commitment.</p>
+
+        <h2>6 (Responsibility & Care)</h2>
+        <p><strong>Personality:</strong> Nurturing, compassionate, responsible.</p>
+        <p><strong>Behavior:</strong> Focused on family, home, and relationships, they take their responsibilities seriously. They are caring, but at times can be overprotective or controlling.</p>
+
+        <h2>7 (Introspection & Wisdom)</h2>
+        <p><strong>Personality:</strong> Analytical, introspective, spiritual.</p>
+        <p><strong>Behavior:</strong> They seek deeper truths and are often drawn to research, study, or spirituality. They can be introspective and prefer solitude but may come off as distant or secretive.</p>
+
+        <h2>8 (Power & Ambition)</h2>
+        <p><strong>Personality:</strong> Authoritative, goal-oriented, materialistic.</p>
+        <p><strong>Behavior:</strong> Ambitious and focused on achieving success, they excel in business and leadership roles. They seek control and power, though sometimes they can appear domineering or overly focused on material wealth.</p>
+
+        <h2>9 (Humanitarianism & Compassion)</h2>
+        <p><strong>Personality:</strong> Altruistic, idealistic, compassionate.</p>
+        <p><strong>Behavior:</strong> They have a strong desire to help others and are often involved in humanitarian efforts. They are tolerant and broad-minded but can be idealistic and emotionally intense.</p>
+
+    </div>
+
+    <script>
+        function calculateNumerology() {
+            const name = document.getElementById("name").value;
+            const dob = document.getElementById("dob").value;
+            let resultContent = "";
+
+            if (name && dob) {
+                const nameSum = Array.from(name.replace(/\s+/g, '')).reduce((sum, char) => sum + char.toLowerCase().charCodeAt(0) - 96, 0);
+                const dobSum = dob.split("-").reduce((sum, part) => sum + parseInt(part), 0);
+                const totalSum = nameSum + dobSum;
+
+                resultContent = `Your numerology number is <strong>${totalSum % 9 || 9}</strong>. This number represents certain characteristics that are believed to influence your personality, aspirations, and life path. Explore what your number reveals about you!`;
+            } else {
+                resultContent = "Please enter both your name and date of birth.";
+            }
+
+            document.getElementById("resultContent").innerHTML = resultContent;
+            document.getElementById("result").classList.remove("d-none");
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

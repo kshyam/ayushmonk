@@ -7,7 +7,7 @@ image: /images/blog/attar-ayurveda-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Attar-Ayurveda-Triphala-Ratio-Preservatives/dp/B07PG2ZWLR/ref=sr_1_30?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Attar-Ayurveda-Triphala-Ratio-Preservatives/dp/B07PG2ZWLR/ref=sr_1_30?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "425"
 star_rating: "4.4"
 ---

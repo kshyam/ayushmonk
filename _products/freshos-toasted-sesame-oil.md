@@ -7,7 +7,7 @@ image: /images/blog/freshos-toasted-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Freshos-Virgin-Pressed-Toasted-Sesame/dp/B096KHK5SH/ref=sr_1_44?crid=1GVBV0I1R8IFF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Freshos-Virgin-Pressed-Toasted-Sesame/dp/B096KHK5SH/ref=sr_1_44?crid=1GVBV0I1R8IFF&tag=m0150-21
 price: "460"
 star_rating: "4.4"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/kerala-ayurveda-chyavanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Chyavanprash-500-g/dp/B07CGNCPKT/ref=sr_1_20?crid=1A6EBHCVM05PF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Chyavanprash-500-g/dp/B07CGNCPKT/ref=sr_1_20?crid=1A6EBHCVM05PF&tag=m0150-21
 price: "216"
 star_rating: "4.1"
 ---

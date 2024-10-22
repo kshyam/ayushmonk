@@ -7,7 +7,7 @@ image: /images/blog/betala-fragrance-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/BETALA-FRAGRANCE-Non-Charcoal-fragrance-mediation/dp/B07DWWRK29/ref=sr_1_88?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/BETALA-FRAGRANCE-Non-Charcoal-fragrance-mediation/dp/B07DWWRK29/ref=sr_1_88?crid=274T8B0U72I18&tag=m0150-21
 price: "470"
 star_rating: "4.0"
 ---

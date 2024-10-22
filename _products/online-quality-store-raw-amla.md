@@ -6,7 +6,7 @@ image: /images/blog/online-quality-store-raw-amla.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Online-Quality-Store-Natural-Dried/dp/B07MCGTCKR/ref=sr_1_15?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Online-Quality-Store-Natural-Dried/dp/B07MCGTCKR/ref=sr_1_15?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "171"
 star_rating: "4.1"
 ---

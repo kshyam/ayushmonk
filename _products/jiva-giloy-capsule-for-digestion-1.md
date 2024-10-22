@@ -6,7 +6,7 @@ image: /images/blog/jiva-guduchi-capsule-for-digestion.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Jiva-Giloy-Capsule-Respiatory-Detoxification/dp/B093KTSXX8/ref=sr_1_4_sspa?crid=1TX1M06Q0LCMB&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Jiva-Giloy-Capsule-Respiatory-Detoxification/dp/B093KTSXX8/ref=sr_1_4_sspa?crid=1TX1M06Q0LCMB&tag=m0150-21
 price: "202"
 star_rating: "4.2"
 ---

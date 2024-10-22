@@ -7,7 +7,7 @@ image: /images/blog/neutra-leaf-organic-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Neutra-Leaf-Metabolism-Multivitamin-Antioxidant/dp/B0BPXV7CY9/ref=sr_1_20?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Neutra-Leaf-Metabolism-Multivitamin-Antioxidant/dp/B0BPXV7CY9/ref=sr_1_20?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "190"
 star_rating: "4.0"
 ---

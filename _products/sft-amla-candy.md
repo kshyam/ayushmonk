@@ -7,7 +7,7 @@ image: /images/blog/sft-amla-candy.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/SFT-Amla-Candy-Dried-Chatpata/dp/B09P3XG8S9/ref=sr_1_29?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/SFT-Amla-Candy-Dried-Chatpata/dp/B09P3XG8S9/ref=sr_1_29?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "168"
 star_rating: "4.0"
 ---

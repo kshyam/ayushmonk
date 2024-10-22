@@ -7,7 +7,7 @@ image: /images/blog/namhya-diabetes-care-tea-with-super-herb-paneer-dodi-and-oth
 layout: product
 permalink: /blog/:title/
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Namhya-Diabetic-Care-Ayurvedic-Paneer/dp/B08HQM2KCN/ref=tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Namhya-Diabetic-Care-Ayurvedic-Paneer/dp/B08HQM2KCN/ref=tag=m0150-21
 price: "548"
 star_rating: "4.3"
 ---

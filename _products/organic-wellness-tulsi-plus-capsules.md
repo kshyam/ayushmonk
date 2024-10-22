@@ -7,7 +7,7 @@ image: /images/blog/organic-wellness-tulsi-plus-capsules.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Organic-Wellness-Heal-Tulsi-capsules/dp/B07XSCNJHK/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.7e1eecd7-c48a-4b8f-8c52-e997a55c30e1%3Aamzn1.sym.7e1eecd7-c48a-4b8f-8c52-e997a55c30e1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Organic-Wellness-Heal-Tulsi-capsules/dp/B07XSCNJHK/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.7e1eecd7-c48a-4b8f-8c52-e997a55c30e1%3Aamzn1.sym.7e1eecd7-c48a-4b8f-8c52-e997a55c30e1&tag=m0150-21
 price: "259"
 star_rating: "5.0"
 ---

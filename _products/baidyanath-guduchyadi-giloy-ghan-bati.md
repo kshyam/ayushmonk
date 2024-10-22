@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-guduchi-ghan-bati.jpg
 layout: product
 permalink: product/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Baidyanath-Guduchyadi-Vitality-Immunity-Booster/dp/B08RK7V8T3/ref=sr_1_4_sspa?crid=2RC2ILXDK0KYX&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Baidyanath-Guduchyadi-Vitality-Immunity-Booster/dp/B08RK7V8T3/ref=sr_1_4_sspa?crid=2RC2ILXDK0KYX&tag=m0150-21
 price: "104"
 star_rating: "4.4"
 ---

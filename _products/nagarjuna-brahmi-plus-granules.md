@@ -7,7 +7,7 @@ image: /images/blog/nagarjuna-brahmi-plus-granules.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/NAGARJUNA-Brahmi-Smrithi-Granules-Nourisher/dp/B07JPKFMKP/ref=sr_1_29?crid=U72N30JP0KKO&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/NAGARJUNA-Brahmi-Smrithi-Granules-Nourisher/dp/B07JPKFMKP/ref=sr_1_29?crid=U72N30JP0KKO&tag=m0150-21
 price: "579"
 star_rating: "4.2"
 ---

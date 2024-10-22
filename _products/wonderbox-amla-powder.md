@@ -7,7 +7,7 @@ image: /images/blog/wonderbox-amla-powder.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/WonderBox-Natural-Drinking-Gooseberry-Preservatives/dp/B0D9JG55C7/ref=sr_1_30?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/WonderBox-Natural-Drinking-Gooseberry-Preservatives/dp/B0D9JG55C7/ref=sr_1_30?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "239"
 star_rating: "4.7"
 ---

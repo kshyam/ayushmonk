@@ -6,7 +6,7 @@ image: /images/blog/kapiva-neem-juice.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Kapiva-Neem-Juice-1-L/dp/B01M6DA1S5/ref=sr_1_7?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kapiva-Neem-Juice-1-L/dp/B01M6DA1S5/ref=sr_1_7?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "299"
 star_rating: "4.2"
 ---

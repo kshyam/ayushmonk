@@ -7,7 +7,7 @@ image: /images/blog/conscious-food-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Conscious-Food-Antioxidant-Anti-Inflammatory-Iron-Pounded/dp/B09GG619RJ/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Conscious-Food-Antioxidant-Anti-Inflammatory-Iron-Pounded/dp/B09GG619RJ/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
 price: "95"
 star_rating: "4.4"
 ---

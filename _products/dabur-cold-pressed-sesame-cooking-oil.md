@@ -7,7 +7,7 @@ image: /images/blog/dabur-cold-pressed-sesame-cooking-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Dabur-Cold-Pressed-Sesame-Gingelly/dp/B095XC1T9F/ref=sr_1_11?crid=1GVBV0I1R8IFF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Dabur-Cold-Pressed-Sesame-Gingelly/dp/B095XC1T9F/ref=sr_1_11?crid=1GVBV0I1R8IFF&tag=m0150-21
 price: "531"
 star_rating: "4.3"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/maharishi-guggul-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Maharishi-Ayurveda-Guggul-Tablets-Cholesterol-Detoxification/dp/B09X74BZK7/ref=sr_1_12?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Maharishi-Ayurveda-Guggul-Tablets-Cholesterol-Detoxification/dp/B09X74BZK7/ref=sr_1_12?crid=274T8B0U72I18&tag=m0150-21
 price: "256"
 star_rating: "4.2"
 ---

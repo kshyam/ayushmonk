@@ -7,7 +7,7 @@ image: /images/blog/aj-agri-exports-indian-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/AJ-AGRI-EXPORTS-Indian-Guggal/dp/B09HQM7BXV/ref=sr_1_93?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/AJ-AGRI-EXPORTS-Indian-Guggal/dp/B09HQM7BXV/ref=sr_1_93?crid=274T8B0U72I18&tag=m0150-21
 price: "301"
 star_rating: "4.0"
 ---

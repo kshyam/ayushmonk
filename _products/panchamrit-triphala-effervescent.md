@@ -7,7 +7,7 @@ image: /images/blog/panchamrit-triphala-effervescent.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Panchamrit-Triphala-Effervescent-Prebiotics-Constipation/dp/B0BH4RY137/ref=sr_1_38?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Panchamrit-Triphala-Effervescent-Prebiotics-Constipation/dp/B0BH4RY137/ref=sr_1_38?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "358"
 star_rating: "4.1"
 ---

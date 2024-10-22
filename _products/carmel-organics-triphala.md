@@ -7,7 +7,7 @@ image: /images/blog/carmel-organics-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/CARMEL-ORGANICS-Triphala-Powder-Certified/dp/B08FTCFGSR/ref=sr_1_2_sspa?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/CARMEL-ORGANICS-Triphala-Powder-Certified/dp/B08FTCFGSR/ref=sr_1_2_sspa?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "251"
 star_rating: "4.2"
 ---

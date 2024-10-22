@@ -8,7 +8,7 @@ image: /images/blog/bliss-welness-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Bliss-Welness-BioPiperine-Antioxidant-Supplement/dp/B09FGWLT38/ref=sr_1_59_sspa?crid=1TX1M06Q0LCMB&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Bliss-Welness-BioPiperine-Antioxidant-Supplement/dp/B09FGWLT38/ref=sr_1_59_sspa?crid=1TX1M06Q0LCMB&tag=m0150-21
 price: "264"
 star_rating: "4.5"
 ---

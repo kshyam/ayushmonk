@@ -7,7 +7,7 @@ image: /images/blog/boroplus-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/BoroPlus-Aloe-Vera-Gel-Green/dp/B09VCC8NRG/ref=sr_1_15?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/BoroPlus-Aloe-Vera-Gel-Green/dp/B09VCC8NRG/ref=sr_1_15?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "152"
 star_rating: "4.2"
 ---

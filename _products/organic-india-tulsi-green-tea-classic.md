@@ -8,7 +8,7 @@ image: /images/blog/organic-india-tulsi-green-tea-classic.jpg
 layout: product
 permalink: /products/:title
 category: "Immunity"
-buy_now_link: https://www.amazon.in/Organic-India-Tulsi-Green-Bags/dp/B00AHUER16/?sr=1-5&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Organic-India-Tulsi-Green-Bags/dp/B00AHUER16/?sr=1-5&tag=m0150-21
 price: "189"
 star_rating: "4"
 ---

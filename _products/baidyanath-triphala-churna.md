@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-triphala-churna.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Baidyanath-Triphala-Churn-500-Pack/dp/B01MD29FI9/ref=sr_1_3_sspa?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Baidyanath-Triphala-Churn-500-Pack/dp/B01MD29FI9/ref=sr_1_3_sspa?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "304"
 star_rating: "4.0"
 ---

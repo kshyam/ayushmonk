@@ -7,7 +7,7 @@ image: /images/blog/naturalist-lakadong-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Naturalist-Lakadong-Turmeric-Anti-inflammatory-Antioxidant/dp/B0B44G2XKR/ref=sr_1_35?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Naturalist-Lakadong-Turmeric-Anti-inflammatory-Antioxidant/dp/B0B44G2XKR/ref=sr_1_35?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "319"
 star_rating: "4.1"
 ---

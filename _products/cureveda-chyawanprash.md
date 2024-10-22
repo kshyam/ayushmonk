@@ -7,7 +7,7 @@ image: /images/blog/cureveda-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/CurevedaTM-Pureprash-Immunity-Support-Chyawanprash/dp/B07L15ZT4M/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/CurevedaTM-Pureprash-Immunity-Support-Chyawanprash/dp/B07L15ZT4M/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=m0150-21
 price: "515"
 star_rating: "4.2"
 ---

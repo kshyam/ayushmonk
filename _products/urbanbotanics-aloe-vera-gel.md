@@ -7,7 +7,7 @@ image: /images/blog/urbanbotanics-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/UrbanBotanics-Pure-Aloe-Vera-Paraben/dp/B07GPT37YB/ref=sr_1_5?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/UrbanBotanics-Pure-Aloe-Vera-Paraben/dp/B07GPT37YB/ref=sr_1_5?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "309"
 star_rating: "4.3"
 ---

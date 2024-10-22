@@ -7,7 +7,7 @@ image: /images/blog/organic-tattva-organic-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Organic-Tattva-Sesame-Oil-1L/dp/B01N2BEBD1/ref=sr_1_19?crid=A4KOR1T28SZX&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Organic-Tattva-Sesame-Oil-1L/dp/B01N2BEBD1/ref=sr_1_19?crid=A4KOR1T28SZX&tag=m0150-21
 price: "562"
 star_rating: "4.3"
 ---

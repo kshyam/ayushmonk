@@ -7,7 +7,7 @@ image: /images/blog/dabur-triphala-churna.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Triphala-Churna-Ayurvedic-Remedy-Intestinal/dp/B00IS24QPC/ref=sr_1_11?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Triphala-Churna-Ayurvedic-Remedy-Intestinal/dp/B00IS24QPC/ref=sr_1_11?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "183"
 star_rating: "4.1"
 ---

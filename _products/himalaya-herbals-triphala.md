@@ -7,7 +7,7 @@ image: /images/blog/himalaya-herbals-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Himalaya-Wellness-Herbs-Triphala-Bowel/dp/B002WIOCW0/ref=sr_1_5?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Himalaya-Wellness-Herbs-Triphala-Bowel/dp/B002WIOCW0/ref=sr_1_5?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "171"
 star_rating: "4.2"
 ---

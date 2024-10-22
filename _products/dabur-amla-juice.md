@@ -7,7 +7,7 @@ image: /images/blog/dabur-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/DABUR-Amla-Ayurvedic-Juice-Health/dp/B087DJ4WM2/ref=sr_1_2_sspa?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/DABUR-Amla-Ayurvedic-Juice-Health/dp/B087DJ4WM2/ref=sr_1_2_sspa?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "174"
 star_rating: "4.2"
 ---

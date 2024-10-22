@@ -6,7 +6,7 @@ image: /images/blog/harc-herbal-canada-tulsi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Harc-Herbal-Canada-Ghanvati-Immunity/dp/B0B5XXLMVW/ref=sr_1_3_sspa?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Harc-Herbal-Canada-Ghanvati-Immunity/dp/B0B5XXLMVW/ref=sr_1_3_sspa?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "149"
 star_rating: "5.0"
 ---

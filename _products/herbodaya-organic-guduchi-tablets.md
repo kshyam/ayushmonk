@@ -8,7 +8,7 @@ image: /images/blog/herbodaya-organic-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Herbodaya-Guduchi-Immunity-Wellness-Boosters/dp/B084X7DVZH/ref=sr_1_35?crid=1TX1M06Q0LCMB&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Herbodaya-Guduchi-Immunity-Wellness-Boosters/dp/B084X7DVZH/ref=sr_1_35?crid=1TX1M06Q0LCMB&tag=m0150-21
 price: "130"
 star_rating: "5.0"
 ---

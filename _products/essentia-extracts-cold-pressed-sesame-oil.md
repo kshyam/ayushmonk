@@ -7,7 +7,7 @@ image: /images/blog/essentia-extracts-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/ESSENTIA-EXTRACTS-Cold-Pressed-Sesame-Pressed/dp/B08SMPDR4F/ref=sr_1_38?crid=A4KOR1T28SZX&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/ESSENTIA-EXTRACTS-Cold-Pressed-Sesame-Pressed/dp/B08SMPDR4F/ref=sr_1_38?crid=A4KOR1T28SZX&tag=m0150-21
 price: "399"
 star_rating: "4.3"
 ---

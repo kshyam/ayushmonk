@@ -6,7 +6,7 @@ image: /images/blog/greenleaf-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Green-Leaf-Pure-Aloe-Vera/dp/B00DRDZ5KC/ref=sr_1_20_mod_primary_new?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Green-Leaf-Pure-Aloe-Vera/dp/B00DRDZ5KC/ref=sr_1_20_mod_primary_new?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "380"
 star_rating: "4.4"
 ---

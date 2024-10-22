@@ -6,7 +6,7 @@ image: /images/blog/vilaas-chatpata-amla-candy.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Vilaas-Chatpata-Natural-VitaminC-BoostDigestion/dp/B0DDH4CTS5/ref=sr_1_25?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Vilaas-Chatpata-Natural-VitaminC-BoostDigestion/dp/B0DDH4CTS5/ref=sr_1_25?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "199"
 star_rating: "5.0"
 ---

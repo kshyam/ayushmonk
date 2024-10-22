@@ -6,7 +6,7 @@ image: /images/blog/anveshan-turmeric-latte.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Anveshan-Turmeric-Ayurvedic-Ashwagandha-Immunity/dp/B09MV198QG/ref=sr_1_29?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Anveshan-Turmeric-Ayurvedic-Ashwagandha-Immunity/dp/B09MV198QG/ref=sr_1_29?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "318"
 star_rating: "4.2"
 ---

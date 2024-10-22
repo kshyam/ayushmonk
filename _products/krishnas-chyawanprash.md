@@ -7,7 +7,7 @@ image: /images/blog/krishna-s-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/KRISHNAS-HERBAL-AYURVEDA-Chyawanprash-Preservative/dp/B08R7KKTJB/ref=sr_1_1_sspa?crid=1A6EBHCVM05PF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/KRISHNAS-HERBAL-AYURVEDA-Chyawanprash-Preservative/dp/B08R7KKTJB/ref=sr_1_1_sspa?crid=1A6EBHCVM05PF&tag=m0150-21
 price: "460"
 star_rating: "4.0"
 ---

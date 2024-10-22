@@ -6,7 +6,7 @@ image: /images/blog/oshea-herbals-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Oshea-Herbals-Nourishes-Hydrates-Multipurpose/dp/B0D45J179P/ref=sr_1_1_sspa?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Oshea-Herbals-Nourishes-Hydrates-Multipurpose/dp/B0D45J179P/ref=sr_1_1_sspa?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "275"
 star_rating: "4.3"
 ---

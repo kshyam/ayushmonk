@@ -7,7 +7,7 @@ image: /images/blog/jiva-triphala-tablets.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Jiva-Ayurvedic-Formulation-Constipation-Digestion/dp/B077QQ81BZ/ref=sr_1_16?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Jiva-Ayurvedic-Formulation-Constipation-Digestion/dp/B077QQ81BZ/ref=sr_1_16?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "272"
 star_rating: "4.1"
 ---

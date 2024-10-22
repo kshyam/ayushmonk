@@ -7,7 +7,7 @@ image: /images/blog/suryaketu-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/SURYA-KETU-Suryaketu-Chyawanprash-kg/dp/B0BSVH51G2/ref=sr_1_52?crid=1A6EBHCVM05PF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/SURYA-KETU-Suryaketu-Chyawanprash-kg/dp/B0BSVH51G2/ref=sr_1_52?crid=1A6EBHCVM05PF&tag=m0150-21
 price: "1359"
 star_rating: "4.3"
 ---

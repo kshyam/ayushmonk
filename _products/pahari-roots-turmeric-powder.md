@@ -6,7 +6,7 @@ image: /images/blog/pahari-roots-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Pahari-Roots-Lakadong-Turmeric-Meghalaya/dp/B085GHHKVC/ref=sr_1_10?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Pahari-Roots-Lakadong-Turmeric-Meghalaya/dp/B085GHHKVC/ref=sr_1_10?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "419"
 star_rating: "4.5"
 ---

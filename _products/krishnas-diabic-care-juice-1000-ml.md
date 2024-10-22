@@ -6,7 +6,7 @@ image: /images/blog/krishnas-diabic-care-juice-1000-ml-blend-of-11-herbs-methi-a
 layout: product
 permalink: /blog/:title/
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Krishnas-Diabic-Care-Juice-Guduchi/dp/B07B6NKPFT/ref=tag=ayushmonk-21?th=1
+buy_now_link: https://www.amazon.in/Krishnas-Diabic-Care-Juice-Guduchi/dp/B07B6NKPFT/ref=tag=m0150-21?th=1
 price: "389"
 star_rating: "4.2"
 ---

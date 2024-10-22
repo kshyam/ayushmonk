@@ -6,7 +6,7 @@ image: /images/blog/baidyanath-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Baidyanath-Amla-juice-1-L/dp/B0891RPWQH/ref=sr_1_14?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Baidyanath-Amla-juice-1-L/dp/B0891RPWQH/ref=sr_1_14?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "171"
 star_rating: "4.1"
 ---

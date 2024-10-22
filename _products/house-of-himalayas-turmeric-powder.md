@@ -6,7 +6,7 @@ image: /images/blog/house-of-himalayas-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/House-Himalayas-Himalayan-Turmeric-Sustainably/dp/B0D7PRDMXQ/ref=sr_1_45?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/House-Himalayas-Himalayan-Turmeric-Sustainably/dp/B0D7PRDMXQ/ref=sr_1_45?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "184"
 star_rating: "5.0"
 ---

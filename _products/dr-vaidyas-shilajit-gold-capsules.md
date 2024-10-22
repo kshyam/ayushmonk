@@ -7,7 +7,7 @@ image: /images/blog/dr-vaidya’s-shilajit-gold-capsules.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Shilajit-Capsules-Ayurvedic-Vitalizer-Synthetic/dp/B0CRSQH8WX/ref=sr_1_37?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Shilajit-Capsules-Ayurvedic-Vitalizer-Synthetic/dp/B0CRSQH8WX/ref=sr_1_37?crid=1YY2DLXEMCWUZ&tag=m0150-21
 price: "879"
 star_rating: "4"
 ---

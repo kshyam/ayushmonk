@@ -8,7 +8,7 @@ permalink: products/:title
 category: Shilajit
 buy_now_link: "   \t
   ﻿https://www.amazon.in/GYMNEX-Vigour-Maxx-Shilajit-Capsules/dp/B0CYCH2NH4/ref\
-  =sr_1_16?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21"
+  =sr_1_16?crid=1YY2DLXEMCWUZ&tag=m0150-21"
 price: "275"
 star_rating: "4"
 ---

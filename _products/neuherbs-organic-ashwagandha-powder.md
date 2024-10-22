@@ -6,7 +6,7 @@ image: /images/blog/neuherbs-organic-ashwagandha-powder.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Neuherbs-Ashwagandha-Ayurvedic-Supplement-Certified/dp/B0BF9J6JV3/ref=sr_1_16?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Neuherbs-Ashwagandha-Ayurvedic-Supplement-Certified/dp/B0BF9J6JV3/ref=sr_1_16?crid=1GYTAEQXSPQJD&tag=m0150-21
 price: "189"
 star_rating: "4.2"
 ---

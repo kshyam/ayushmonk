@@ -7,7 +7,7 @@ image: /images/blog/organic-india-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Gonutrio-Organic-India-Triphala-Powder/dp/B00K5KC2E2/ref=sr_1_6?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Gonutrio-Organic-India-Triphala-Powder/dp/B00K5KC2E2/ref=sr_1_6?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "216"
 star_rating: "4.2"
 ---

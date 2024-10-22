@@ -7,7 +7,7 @@ image: /images/blog/zandu-shilajit-gold-plus.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Zandu-Shilajit-Scientifically-Himalayan-Ayurvedic/dp/B0CHFR2YYK/ref=sr_1_15?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Zandu-Shilajit-Scientifically-Himalayan-Ayurvedic/dp/B0CHFR2YYK/ref=sr_1_15?crid=1YY2DLXEMCWUZ&tag=m0150-21
 price: "356"
 star_rating: "4"
 ---

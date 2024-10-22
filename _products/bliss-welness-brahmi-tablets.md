@@ -7,7 +7,7 @@ image: /images/blog/bliss-welness-brahmi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Bliss-Welness-Ayurvedic-Shankpushpi-Development/dp/B08G1F9TNG/ref=sr_1_25?crid=U72N30JP0KKO&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Bliss-Welness-Ayurvedic-Shankpushpi-Development/dp/B08G1F9TNG/ref=sr_1_25?crid=U72N30JP0KKO&tag=m0150-21
 price: "599"
 star_rating: "4.2"
 ---

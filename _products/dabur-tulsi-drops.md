@@ -6,7 +6,7 @@ image: /images/blog/dabur-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/DABUR-Tulsi-Drops-50-Extra/dp/B0868XBJN7/ref=sr_1_5?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/DABUR-Tulsi-Drops-50-Extra/dp/B0868XBJN7/ref=sr_1_5?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "146"
 star_rating: "4.3"
 ---

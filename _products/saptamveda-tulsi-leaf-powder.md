@@ -6,7 +6,7 @@ image: /images/blog/saptamveda-tulsi-leaf-powder.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/SAPTAMVEDA-Consumption-Detoxifying-Cleansing-Immunity/dp/B08KHQCLPR/ref=sr_1_38?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/SAPTAMVEDA-Consumption-Detoxifying-Cleansing-Immunity/dp/B08KHQCLPR/ref=sr_1_38?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "199"
 star_rating: "4.0"
 ---

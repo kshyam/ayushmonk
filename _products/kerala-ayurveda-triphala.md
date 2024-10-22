@@ -7,7 +7,7 @@ image: /images/blog/kerala-ayurveda-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Triphala-Tablet-100/dp/B07PBJNS5X/ref=sr_1_4_sspa?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Triphala-Tablet-100/dp/B07PBJNS5X/ref=sr_1_4_sspa?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "213"
 star_rating: "4.2"
 ---

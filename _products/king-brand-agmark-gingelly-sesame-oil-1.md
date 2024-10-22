@@ -7,7 +7,7 @@ image: /images/blog/king-brand-agmark-gingelly-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/KING-BRAND-Agmark-Gingelly-Sesame/dp/B09YTS4H69/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&crid=1GVBV0I1R8IFF&cv_ct_cx=sesame+oil&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/KING-BRAND-Agmark-Gingelly-Sesame/dp/B09YTS4H69/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&crid=1GVBV0I1R8IFF&cv_ct_cx=sesame+oil&tag=m0150-21
 price: "256"
 star_rating: "4.2"
 ---

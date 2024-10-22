@@ -7,7 +7,7 @@ image: /images/blog/prarthana-guggul-powder.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/PRARTHANA-Premium-Charcoal-Pollution-Agarbatti/dp/B09N7DGMHC/ref=sr_1_102?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/PRARTHANA-Premium-Charcoal-Pollution-Agarbatti/dp/B09N7DGMHC/ref=sr_1_102?crid=274T8B0U72I18&tag=m0150-21
 price: "329"
 star_rating: "4.0"
 ---

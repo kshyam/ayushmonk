@@ -7,7 +7,7 @@ image: /images/blog/tata-simply-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Tata-Simply-Better-Cholesterol-Multipurpose/dp/B0CZLKFBB1/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.324128d2-2348-4bb9-a5fc-f58dc0a894e8%3Aamzn1.sym.324128d2-2348-4bb9-a5fc-f58dc0a894e8&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Tata-Simply-Better-Cholesterol-Multipurpose/dp/B0CZLKFBB1/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.324128d2-2348-4bb9-a5fc-f58dc0a894e8%3Aamzn1.sym.324128d2-2348-4bb9-a5fc-f58dc0a894e8&tag=m0150-21
 price: "329"
 star_rating: "4.4"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/veda-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Premium-Jaggery-Chyawanprash-Immunity-Antioxidants/dp/B085XGZRZK/ref=sr_1_19?crid=1A6EBHCVM05PF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Premium-Jaggery-Chyawanprash-Immunity-Antioxidants/dp/B085XGZRZK/ref=sr_1_19?crid=1A6EBHCVM05PF&tag=m0150-21
 price: "890"
 star_rating: "4.1"
 ---

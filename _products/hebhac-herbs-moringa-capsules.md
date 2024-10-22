@@ -7,7 +7,7 @@ image: /images/blog/hebhac-herbs-moringa-capsules.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Hebhac-Herbs-Capsules-Immunity-Metabolism-Nutritional/dp/B08XNWY2PW/ref=sr_1_19?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Hebhac-Herbs-Capsules-Immunity-Metabolism-Nutritional/dp/B08XNWY2PW/ref=sr_1_19?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "389"
 star_rating: "4.4"
 ---

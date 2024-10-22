@@ -6,7 +6,7 @@ image: /images/blog/dabur-shilajit-double-gold.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/DABUR-Shilajit-Capsules-Stamina-Rejuvenation/dp/B07DSY5R7G/ref=sr_1_11?crid=1YY2DLXEMCWUZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/DABUR-Shilajit-Capsules-Stamina-Rejuvenation/dp/B07DSY5R7G/ref=sr_1_11?crid=1YY2DLXEMCWUZ&tag=m0150-21
 price: "595"
 star_rating: "4"
 ---

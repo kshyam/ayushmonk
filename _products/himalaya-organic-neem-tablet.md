@@ -7,7 +7,7 @@ image: /images/blog/himalaya-organic-neem-tablet.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Himalaya-Organic-Neem-Pack-60/dp/B0CHS93XVL/ref=sr_1_1_sspa?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Himalaya-Organic-Neem-Pack-60/dp/B0CHS93XVL/ref=sr_1_1_sspa?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "637"
 star_rating: "4.2"
 ---

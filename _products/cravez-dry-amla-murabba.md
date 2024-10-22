@@ -7,7 +7,7 @@ image: /images/blog/cravez-dry-amla-murabba.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Cravez-Sugar-Free-Amla-Murabba/dp/B0BS9PQKDQ/ref=sr_1_10?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Cravez-Sugar-Free-Amla-Murabba/dp/B0BS9PQKDQ/ref=sr_1_10?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "241"
 star_rating: "4.3"
 ---

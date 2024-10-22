@@ -6,7 +6,7 @@ image: /images/blog/herbal-hills-organic-brahmi-powder.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Herbal-Organic-Brahmi-monnieri-Support/dp/B081V24SFC/ref=sr_1_40?crid=U72N30JP0KKO&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Herbal-Organic-Brahmi-monnieri-Support/dp/B081V24SFC/ref=sr_1_40?crid=U72N30JP0KKO&tag=m0150-21
 price: "165"
 star_rating: "4.0"
 ---

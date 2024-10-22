@@ -8,7 +8,7 @@ image: /images/blog/conscious-food-organic-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Conscious-Food-Sesame-Oil-500/dp/B085L5S5PY/ref=sr_1_25?crid=1GVBV0I1R8IFF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Conscious-Food-Sesame-Oil-500/dp/B085L5S5PY/ref=sr_1_25?crid=1GVBV0I1R8IFF&tag=m0150-21
 price: "350"
 star_rating: "4.4"
 ---

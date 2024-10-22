@@ -6,7 +6,7 @@ image: /images/blog/neuwganic-tulsi-powder.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Neuwganic-Organic-Powder-Certified-Chutney/dp/B0CFBJVRF4/ref=sr_1_41?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Neuwganic-Organic-Powder-Certified-Chutney/dp/B0CFBJVRF4/ref=sr_1_41?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "173"
 star_rating: "4.3"
 ---

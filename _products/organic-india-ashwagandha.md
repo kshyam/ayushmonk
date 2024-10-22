@@ -7,7 +7,7 @@ image: /images/blog/organic-india-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/ORGANIC-INDIA-Ashwagandha-Capsules-180/dp/B08ZXQZVYR/ref=sr_1_13?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/ORGANIC-INDIA-Ashwagandha-Capsules-180/dp/B08ZXQZVYR/ref=sr_1_13?crid=1GYTAEQXSPQJD&tag=m0150-21
 price: "603"
 star_rating: "4.5"
 ---

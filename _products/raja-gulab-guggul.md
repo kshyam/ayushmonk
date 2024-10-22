@@ -7,7 +7,7 @@ image: /images/blog/raja-gulab-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/RAJA-GULAB-Indian-Guggal-Commiphora/dp/B0C4CJDJMN/ref=sr_1_44?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/RAJA-GULAB-Indian-Guggal-Commiphora/dp/B0C4CJDJMN/ref=sr_1_44?crid=274T8B0U72I18&tag=m0150-21
 price: "380"
 star_rating: "5.0"
 ---

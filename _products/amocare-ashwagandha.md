@@ -8,7 +8,7 @@ image: /images/blog/amocare-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Amocare-Ashwagandha-Testosterone-Strawberry-Gluten-Free/dp/B0CRKYTM3Y/ref=sr_1_3_sspa?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Amocare-Ashwagandha-Testosterone-Strawberry-Gluten-Free/dp/B0CRKYTM3Y/ref=sr_1_3_sspa?crid=1GYTAEQXSPQJD&tag=m0150-21
 price: "497"
 star_rating: "4.9"
 ---

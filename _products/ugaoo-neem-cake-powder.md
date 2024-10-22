@@ -6,7 +6,7 @@ image: /images/blog/ugaoo-neem-cake-powder.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Ugaoo-Neem-Cake-Powder-Plants/dp/B09CZCXVGY/ref=sr_1_30?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Ugaoo-Neem-Cake-Powder-Plants/dp/B09CZCXVGY/ref=sr_1_30?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "388"
 star_rating: "4.0"
 ---

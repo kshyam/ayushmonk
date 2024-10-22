@@ -6,7 +6,7 @@ image: /images/blog/pure-himalayan-shilajit-gold-resin.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Bold-Care-Himalayan-Effective-metabolism/dp/B0D8KQNLK7/ref=sr_1_4_sspa?crid=1B5JGJXHVNEH1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Bold-Care-Himalayan-Effective-metabolism/dp/B0D8KQNLK7/ref=sr_1_4_sspa?crid=1B5JGJXHVNEH1&tag=m0150-21
 price: "899"
 star_rating: "5"
 ---

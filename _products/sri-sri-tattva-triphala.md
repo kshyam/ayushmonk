@@ -7,7 +7,7 @@ image: /images/blog/sri-sri-tattva-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Sri-Tattva-Triphala-500Mg-Tablet/dp/B07P8YD47Z/ref=sr_1_31?crid=3AE0V1J1E19HZ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Sri-Tattva-Triphala-500Mg-Tablet/dp/B07P8YD47Z/ref=sr_1_31?crid=3AE0V1J1E19HZ&tag=m0150-21
 price: "285"
 star_rating: "4.3"
 ---

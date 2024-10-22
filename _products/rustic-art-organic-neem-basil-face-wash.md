@@ -7,7 +7,7 @@ image: /images/blog/rustic-art-organic-neem-basil-face-wash.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Rustic-Art-Concentrate-Anti-Bacterial-Anti-Fungal/dp/B07R5KB8PM/ref=sr_1_36?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Rustic-Art-Concentrate-Anti-Bacterial-Anti-Fungal/dp/B07R5KB8PM/ref=sr_1_36?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "180"
 star_rating: "4.1"
 ---

@@ -7,7 +7,7 @@ image: /images/blog/orgrain-india-organic-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Orgrain-India-Certified-Turmeric-Powder-300/dp/B0813SSKZ1/ref=sr_1_31?crid=1IBX4K52DVNNJ&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Orgrain-India-Certified-Turmeric-Powder-300/dp/B0813SSKZ1/ref=sr_1_31?crid=1IBX4K52DVNNJ&tag=m0150-21
 price: "284"
 star_rating: "4.2"
 ---

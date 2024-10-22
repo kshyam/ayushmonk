@@ -7,7 +7,7 @@ image: /images/blog/muscleblaze-koshaveda-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/MuscleBlaze-Performance-Ashwagandha-Standardized-Withanolides/dp/B08KZX1SF2/ref=sr_1_15?crid=1GYTAEQXSPQJD&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/MuscleBlaze-Performance-Ashwagandha-Standardized-Withanolides/dp/B08KZX1SF2/ref=sr_1_15?crid=1GYTAEQXSPQJD&tag=m0150-21
 price: "309"
 star_rating: "4.2"
 ---

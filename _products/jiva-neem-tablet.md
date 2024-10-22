@@ -7,7 +7,7 @@ image: /images/blog/jiva-neem-tablet.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Jiva-Neem-Tablets-Pack-2/dp/B01FZCYJYK/ref=sr_1_8?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Jiva-Neem-Tablets-Pack-2/dp/B01FZCYJYK/ref=sr_1_8?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "324"
 star_rating: "4.2"
 ---

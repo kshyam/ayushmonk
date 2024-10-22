@@ -7,7 +7,7 @@ image: /images/blog/two-brothers-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Brothers-Organic-Moringa-Chemical-Lab-Tested/dp/B084G36VKK/ref=sr_1_14?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Brothers-Organic-Moringa-Chemical-Lab-Tested/dp/B084G36VKK/ref=sr_1_14?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "265"
 star_rating: "4.4"
 ---

@@ -6,7 +6,7 @@ image: /images/blog/elovera-aloe-vera-moisturising-cream.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Elovera-Moisturising-Cream-75-g/dp/B08H63V4DQ/ref=sr_1_3_sspa?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Elovera-Moisturising-Cream-75-g/dp/B08H63V4DQ/ref=sr_1_3_sspa?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "194"
 star_rating: "4.4"
 ---

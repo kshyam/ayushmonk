@@ -8,7 +8,7 @@ image: /images/blog/himalaya-pure-herbs-guduchi-strengthens-immunity-wellness-gi
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Himalaya-Wellness-Herbs-Guduchi-Immunity/dp/B00B8ROM1M/ref=sr_1_7?crid=2RC2ILXDK0KYX&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Himalaya-Wellness-Herbs-Guduchi-Immunity/dp/B00B8ROM1M/ref=sr_1_7?crid=2RC2ILXDK0KYX&tag=m0150-21
 price: "189"
 star_rating: "4.3"
 ---

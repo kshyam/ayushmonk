@@ -7,7 +7,7 @@ image: /images/blog/khadi-omorose-neem-oil.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Khadi-Omorose-Pure-Coldpressed-Carrier/dp/B073PBQ137/ref=sr_1_26?crid=1U65A0ZJY2B5Y&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Khadi-Omorose-Pure-Coldpressed-Carrier/dp/B073PBQ137/ref=sr_1_26?crid=1U65A0ZJY2B5Y&tag=m0150-21
 price: "155"
 star_rating: "4.1"
 ---

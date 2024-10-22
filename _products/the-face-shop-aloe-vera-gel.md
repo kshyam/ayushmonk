@@ -7,7 +7,7 @@ image: /images/blog/the-face-shop-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Face-Shop-Non-Sticky-Transparent-Soothing/dp/B01L2CI2DQ/ref=sr_1_12?crid=1XMIOQ4WPBG6X&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Face-Shop-Non-Sticky-Transparent-Soothing/dp/B01L2CI2DQ/ref=sr_1_12?crid=1XMIOQ4WPBG6X&tag=m0150-21
 price: "392"
 star_rating: "4.5"
 ---

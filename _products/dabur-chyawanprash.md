@@ -6,7 +6,7 @@ image: /images/blog/dabur-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Dabur-Chyawanprash-Free-Honey-50/dp/B07DKJ818C/ref=sr_1_5?crid=1A6EBHCVM05PF&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Dabur-Chyawanprash-Free-Honey-50/dp/B07DKJ818C/ref=sr_1_5?crid=1A6EBHCVM05PF&tag=m0150-21
 price: "315"
 star_rating: "4.4"
 ---

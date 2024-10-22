@@ -6,7 +6,7 @@ image: /images/blog/kapiva-wild-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Kapiva-Amla-Juice-Digestion-Immunity/dp/B01MFH172B/ref=sr_1_6?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Kapiva-Amla-Juice-Digestion-Immunity/dp/B01MFH172B/ref=sr_1_6?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "189"
 star_rating: "4.2"
 ---

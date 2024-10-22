@@ -7,7 +7,7 @@ image: /images/blog/vansaar-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Vansaar-Boosts-immunity-naturally-Pressed/dp/B01L6ZCVAY/ref=sr_1_20?crid=9NCKR3RZI9QI&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Vansaar-Boosts-immunity-naturally-Pressed/dp/B01L6ZCVAY/ref=sr_1_20?crid=9NCKR3RZI9QI&tag=m0150-21
 price: "189"
 star_rating: "4.2"
 ---

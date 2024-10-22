@@ -6,7 +6,7 @@ image: /images/blog/saptamveda-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/SAPTAMVEDA-Immunity-Drumstick-Multi-vitamin-Anti-Oxidant/dp/B08KJDXT14/ref=sr_1_7?crid=JPSHXC1IUKVG&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/SAPTAMVEDA-Immunity-Drumstick-Multi-vitamin-Anti-Oxidant/dp/B08KJDXT14/ref=sr_1_7?crid=JPSHXC1IUKVG&tag=m0150-21
 price: "249"
 star_rating: "4.0"
 ---

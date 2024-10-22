@@ -7,7 +7,7 @@ image: /images/blog/omkara-hills-panch-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Omkara-Hills-Extracts-Natural-Immunity/dp/B09RV973BQ/ref=sr_1_23_sspa?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Omkara-Hills-Extracts-Natural-Immunity/dp/B09RV973BQ/ref=sr_1_23_sspa?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "215"
 star_rating: "4.8"
 ---

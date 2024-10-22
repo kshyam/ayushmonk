@@ -6,7 +6,7 @@ image: /images/blog/dr.-jpg-organic-panch-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/JPG-Organic-Extract-Natural-Booster/dp/B0DB25BBHF/ref=sr_1_55?crid=1WSOVR85O2K5K&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/JPG-Organic-Extract-Natural-Booster/dp/B0DB25BBHF/ref=sr_1_55?crid=1WSOVR85O2K5K&tag=m0150-21
 price: "299"
 star_rating: "4.5"
 ---

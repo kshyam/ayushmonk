@@ -7,7 +7,7 @@ image: /images/blog/rasayanam-ashwagandha-ksm-66-500-mg-extra-strength-natural-f
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Rasayanam-Ashwagandha-Strength-Formulation-Somnifera/dp/B0983S9XDM?th=1&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Rasayanam-Ashwagandha-Strength-Formulation-Somnifera/dp/B0983S9XDM?th=1&tag=m0150-21
 price: "697"
 star_rating: "4"
 ---

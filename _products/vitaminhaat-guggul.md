@@ -6,7 +6,7 @@ image: /images/blog/vitaminhaat-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Guggul-Extract-Suddha-Guggulu-Capsules/dp/B09CLGVGKL/ref=sr_1_69?crid=274T8B0U72I18&tag=ayushmonk-21
+buy_now_link: https://www.amazon.in/Guggul-Extract-Suddha-Guggulu-Capsules/dp/B09CLGVGKL/ref=sr_1_69?crid=274T8B0U72I18&tag=m0150-21
 price: "474"
 star_rating: "5.0"
 ---
