@@ -1,5 +1,5 @@
 ---
-title: Aviraj Guggal Dhoop Batti
+title: Aviraj Guggul Dhoop Batti
 description: Enhance the sacredness of your pooja, meditation, or spiritual
   rituals with the Aviraj Guggal Dhoop Batti, a premium quality wet dhoop stick
   infused with the rich and calming fragrance of Guggal.
