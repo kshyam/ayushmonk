@@ -14,7 +14,7 @@ star_rating: "4.2"
 ### Product Title:
 Organic India Moringa Powder – 100g | Nutrient-Dense Superfood for Energy, Immunity, and Overall Health
 
-### Marketing Description:
+### Description:
 
 **Boost Your Health Naturally with Organic India Moringa Powder – The Ultimate Superfood!**
 
