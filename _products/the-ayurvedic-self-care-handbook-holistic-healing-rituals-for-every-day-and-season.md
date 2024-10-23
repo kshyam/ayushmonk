@@ -1,8 +1,8 @@
 ---
 title: "The Ayurvedic Self-Care Handbook: Holistic Healing Rituals for Every Day
-  and Season"
+  and Season - Audible Free Book"
 description: "Feeling burned out, unmotivated, or stuck? The Ayurvedic Self-Care
-  Handbook is here to help. "
+  Handbook is here to help."
 image: /images/blog/the-ayurvedic-self-care-handbook.jpg
 layout: product
 permalink: products/:title
