@@ -1,9 +1,8 @@
 ---
 title: The Complete Book Of Ayurvedic Home Remedies Ayurvedic Book
-description: Discover the transformative power of ancient Indian healing with
-  The Complete Book of Ayurvedic Home Remedies. This comprehensive guide brings
-  the timeless knowledge of Ayurveda to your home, offering simple and effective
-  remedies to promote balance, vitality, and holistic wellness.
+description: This comprehensive guide brings the timeless knowledge of Ayurveda
+  to your home, offering simple and effective remedies to promote balance,
+  vitality, and holistic wellness.
 image: /images/blog/the-complete-book-of-ayurvedic-home-remedies.jpg
 layout: product
 permalink: products/:title
