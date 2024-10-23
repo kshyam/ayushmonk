@@ -14,7 +14,7 @@ star_rating: "4.0"
 ### Product Title:
 BETALA FRAGRANCE Guggal Flavour Dhoop Sticks with Stand – Natural Aromatic Incense for Meditation, Relaxation & Spiritual Rituals
 
-### Marketing Description:
+### Description:
 
 **Elevate Your Space with the Soothing Aroma of BETALA FRAGRANCE Guggal Dhoop Sticks!**
 
