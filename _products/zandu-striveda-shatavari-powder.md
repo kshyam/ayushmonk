@@ -6,7 +6,7 @@ description: Made from pure and potent Shatavari, an Ayurvedic herb trusted for
 image: /images/blog/zandu-striveda-shatavari-powder.jpg
 layout: product
 permalink: products/:title
-category: Sharavati
+category: Shatavari
 buy_now_link: https://www.amazon.in/StriVeda-Satavari-Lactation-Supplement-210/dp/B07LDGWL77/ref=sr_1_3_sspa?crid=3QWSY64EZC63C&tag=m0150-21
 price: "207"
 star_rating: "4.0"
