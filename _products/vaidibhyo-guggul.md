@@ -13,7 +13,7 @@ star_rating: "5.0"
 **Product Title:**
 Vaidibhyo® Luxury Guggul Havan Cups - 15 Pcs | Herbal | Pure Fragrance for Meditation | Purify Home Atmosphere
 
-** Description:**
+**Description:**
 Immerse yourself in the serene and purifying ambiance with Vaidibhyo® Luxury Guggul Havan Cups. Crafted with natural herbal ingredients, including pure Guggul, these havan cups are designed to elevate your meditation sessions and create a spiritual atmosphere. Their calming fragrance purifies the home environment, promoting mental clarity and inner peace. Perfect for daily use, rituals, and meditation practices, each cup offers a simple and mess-free way to perform a traditional havan.
 
 **Benefits:**
