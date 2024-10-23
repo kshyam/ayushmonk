@@ -14,7 +14,7 @@ star_rating: "4.0"
 ### Product Title:
 PRARTHANA Combo Pack of Gugal and Loban Premium Dhoop Powder | 2 Jars (200gm Each) – Total 400gm | Charcoal-Free, Pollution-Free Dhoop Powder for Pooja & Meditation
 
-### Marketing Description:
+### Description:
 
 **Experience the Essence of Purity and Tradition with PRARTHANA Gugal and Loban Premium Dhoop Powder!**
 
