@@ -13,7 +13,7 @@ star_rating: "5.0"
 ### Product Title:
 Aastha Guggul Sambrani Dhoop Cup Combo (Pack of 10) | 12 Cups per Box with Holding Plate | Made with 100% Pure Guggul & Panchagavya Samagri | Pure Vedic Pooja Samagri for Divine Rituals
 
-### Marketing Description:
+### Description:
 
 **Immerse Yourself in Divine Fragrance with Aastha Guggul Sambrani Dhoop Cups – Crafted for Purity and Sacredness!**
 
