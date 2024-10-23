@@ -14,7 +14,7 @@ star_rating: "4.3"
 **Product Title:**
 Himalaya Herbals Shuddha Guggulu Capsules | Natural Weight Management & Cholesterol Support | 100% Pure Guggul Extract
 
-** Description:**
+**Description:**
 Himalaya Herbals Shuddha Guggulu Capsules are a natural, ayurvedic supplement crafted to promote healthy weight management and support cholesterol levels. Formulated with pure Guggul extract (Commiphora Mukul), known for its therapeutic properties in Ayurveda, these capsules aid in detoxification, help maintain healthy lipid levels, and boost overall metabolic functions. Ideal for those looking to balance their body weight naturally and improve heart health.
 
 **Benefits:**
