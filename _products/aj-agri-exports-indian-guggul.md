@@ -14,7 +14,7 @@ star_rating: "4.0"
 ### Product Title:
 AJ AGRI EXPORTS Indian Guggal – Indian Guggul (Commiphora Mukul) – Boswellia Serrata Guggal – Mukul Myrrh Resin for Ayurvedic & Spiritual Uses
 
-### Marketing Description:
+### Description:
 
 **Experience the Power of Ancient Remedies with AJ AGRI EXPORTS Indian Guggal (Guggul)!**
 
