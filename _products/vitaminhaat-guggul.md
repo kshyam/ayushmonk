@@ -13,7 +13,7 @@ star_rating: "5.0"
 ### Product Title:
 Vitaminhaat Guggul Extract Supplement – Commiphora Mukul with 10% Guggulsterones – 500 mg, Natural Cholesterol & Weight Management, Anti-Inflammatory, Supports Heart Health – 60 Capsules
 
-### Marketing Description:
+### Description:
 
 **Revitalize Your Health with Vitaminhaat Guggul Extract – The Ancient Ayurvedic Remedy for Modern Wellness!**
 
