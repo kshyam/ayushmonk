@@ -6,7 +6,7 @@ description: Shatavari (Asparagus racemosus) has been used for centuries in
 image: /images/blog/just-jaivik-organic-shatavari-powder.jpg
 layout: product
 permalink: products/:title
-category: Sharavati
+category: Shatavari
 buy_now_link: https://www.amazon.in/Just-Jaivik-Organic-Shatavari-Powder/dp/B01N5XXAHQ/ref=sr_1_4_sspa?crid=3QWSY64EZC63C&tag=m0150-21
 price: "269"
 star_rating: "4.0"
