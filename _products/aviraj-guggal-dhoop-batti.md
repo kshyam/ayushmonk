@@ -14,7 +14,7 @@ star_rating: "5.0"
 ### Product Title:
 Aviraj Guggal Dhoop Batti for Pooja – Combo Pack of 12 Boxes | Wet Dhoop Sticks with Guggul Fragrance | Perfect for Pooja, Meditation, & Spiritual Rituals
 
-### Marketing Description:
+### Description:
 
 **Create a Divine Atmosphere with Aviraj Guggal Dhoop Batti – The Perfect Companion for Your Spiritual Rituals!**
 
