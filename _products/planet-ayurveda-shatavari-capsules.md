@@ -15,7 +15,7 @@ star_rating: "5.0"
 **Planet Ayurveda Shatavari Capsules | 100% Pure Herbal Supplement | Women’s Wellness & Hormonal Balance | Supports Lactation, Menopause, and Immunity**
 
 ### Description:
-Support your health naturally with *Planet Ayurveda Shatavari Capsules*, a 100% pure herbal supplement formulated to enhance women’s wellness. Made from premium quality **Shatavari (Asparagus racemosus)** extract, these capsules are known for their ability to balance hormones, support lactation, and ease menopausal symptoms. 
+Support your health naturally with *Planet Ayurveda Shatavari Capsules*, a 100% pure herbal supplement formulated to enhance women’s wellness. Made from premium quality **Shatavari (Asparagus racemosus)** extract, these capsules are known for their ability to balance hormones, support lactation, and ease menopausal symptoms.
 
 As a trusted Ayurvedic remedy, Shatavari is revered for promoting female reproductive health and boosting immunity, while also acting as a rejuvenative tonic. Whether you're a nursing mother, going through menopause, or looking to strengthen your immune system, *Planet Ayurveda Shatavari Capsules* provide the perfect natural solution for women’s overall health.
 
