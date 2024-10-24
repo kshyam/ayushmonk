@@ -15,7 +15,7 @@ star_rating: "5.0"
 **Anantayu Shatavari Kalpa Granules (With Kesar & Elaichi) | Ayurvedic Lactation Supplement | 400g | Supports Lactation & Women’s Wellness**
 
 ### Description:
-Boost your health naturally with *Anantayu Shatavari Kalpa Granules*, a premium Ayurvedic lactation supplement enriched with the goodness of **Kesar (Saffron)** and **Elaichi (Cardamom)**. Formulated to support nursing mothers, these granules are made from **Shatavari (Asparagus racemosus)**, a renowned herb in Ayurveda known for promoting healthy breast milk production while rejuvenating the body.
+Boost your health naturally with *Anantayu Shatavari Kalpa Granules*, a premium Ayurvedic lactation supplement enriched with the goodness of **Kesar (Saffron)** and **Elaichi (Cardamom)**. Formulated to support nursing mothers, these granules are made from **Shatavari (Asparagus racemosus)**, a renowned herb in Ayurveda known for promoting healthy breast milk production while rejuvenating the body. 
 
 The blend of Shatavari, Kesar, and Elaichi not only helps in increasing lactation but also provides nourishment, strengthens the immune system, and enhances overall vitality. Ideal for women during pregnancy and postpartum, *Anantayu Shatavari Kalpa* is a delicious and effective way to support women’s health.
 
