@@ -1,5 +1,5 @@
 ---
-title: 2024-10-14-daily routine plan to help you adopt a holistic health lifestyle
+title: Daily routine plan to help you adopt a holistic health lifestyle
 description: Remember, consistency is key. Start with small changes and
   gradually work your way up to a holistic health lifestyle. Be patient, and
   don't be too hard on yourself
