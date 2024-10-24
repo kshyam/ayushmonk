@@ -32,26 +32,34 @@
                 document.getElementById('input').value = '';
 
                 // Prepare the message for the GPT-3 API
-                const response = await fetch('https://api.openai.com/v1/completions', {
+                const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
-                        'Authorization': 'Bearer GFB77UyZ8fdetSx85qhC8MmqcUCAM9pBv5tESU4n2bYFvgTKECv5bVEaEKMHsRR2wCQCBvnIuRT3BlbkFJlCSrxM_PxfSYHRE3wU7VAARMTUSuQelsepCOYaQZxiSjucQKxI3sxnuX8EJiU3JAmR1ip5BcsA'  // Replace with your OpenAI API key
+                        'Authorization': 'Bearer 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'  // Replace with your OpenAI API key
                     },
-                    body: JSON.stringify({
-                        model: "text-davinci-003",  // Using GPT-3's davinci model
-                        prompt: `The user is asking for Ayurvedic help. Their message is: "${input}". Provide an Ayurvedic response.`,
-                        max_tokens: 150,
-                        temperature: 0.7,
-                    })
+                    body: JSON.stringify(
+                      {
+                        "messages": [
+                          {
+                            "role": "user",
+                            "content": "Explain the importance of fast language models"
+                          }
+                        ],
+                        "model": "mixtral-8x7b-32768"
+                      }
+                    
+                    )
                 });
 
-                const data = await response.json();
-                const botReply = data.choices[0].text.trim();
+                // const data = await response.json();
+                console.log(response.content);
+                
+                // const botReply = data.choices[0].text.trim();
 
-                // Display chatbot response
-                addMessage('Bot', botReply, 'bot');
-                chatbox.scrollTop = chatbox.scrollHeight;
+                // // Display chatbot response
+                // addMessage('Bot', botReply, 'bot');
+                // chatbox.scrollTop = chatbox.scrollHeight;
             }
         }
 
