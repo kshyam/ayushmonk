@@ -1,37 +1,38 @@
 ---
-title: KILLI Trikatu Churna
-description: Revitalize your digestive system and metabolism with KILLI
-  Thirikadugam (Trikatu Churna), a traditional Ayurvedic blend of three powerful
-  herbs.
-image: /images/blog/killi-trikatu-churna.jpg
+title: Himalaya Trikatu Tablets
+description: Enhance your digestive wellness with Himalaya Trikatu Digestive
+  Wellness Tablets, a potent Ayurvedic formulation crafted from a powerful
+  combination of Black Pepper (Piper nigrum), Long Pepper (Pippali), and Dry
+  Ginger (Zingiber officinale).
+image: /images/blog/himalaya-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/KILLI-Thirikadugam-Powder-100g-Pack/dp/B07FC4YYGC/ref=sr_1_4_sspa?crid=28URIFD9O0F0A&tag=m0150-21
-price: "620"
-star_rating: "4.3"
+buy_now_link: https://www.amazon.in/Himalaya-Trikatu-Digestive-Wellness-Tablets/dp/B01K7PR87U/ref=sr_1_5?crid=28URIFD9O0F0A&tag=m0150-21
+price: "167"
+star_rating: "4.2"
 ---
 ### Product Title:
-**KILLI Thirikadugam | Trikatu Churna | Traditional Ayurvedic Thirukaduga Powder | Digestive & Metabolic Support | Blend of Three Peppers (Black Pepper, Long Pepper, Dry Ginger)**
+**Himalaya Trikatu Digestive Wellness Tablets | Natural Digestive & Metabolic Support | Blend of Black Pepper, Long Pepper & Ginger | 100% Herbal Supplement**
 
 ### Description:
-Revitalize your digestive system and metabolism with *KILLI Thirikadugam (Trikatu Churna)*, a traditional Ayurvedic blend of three powerful herbs—**Black Pepper (Piper nigrum), Long Pepper (Pippali), and Dry Ginger (Zingiber officinale)**. Known as **Thirukaduga** in Tamil, this potent combination is designed to stimulate digestive fire (Agni), detoxify the body, and enhance nutrient absorption, making it an essential part of any natural wellness routine.
+Enhance your digestive wellness with *Himalaya Trikatu Digestive Wellness Tablets*, a potent Ayurvedic formulation crafted from a powerful combination of **Black Pepper (Piper nigrum), Long Pepper (Pippali), and Dry Ginger (Zingiber officinale)**. Known for their effectiveness in improving digestion and metabolism, these natural herbs stimulate digestive enzymes, relieve indigestion, and promote better absorption of nutrients.
 
-Whether you are looking to relieve digestive issues like bloating, indigestion, or sluggish metabolism, *KILLI Thirikadugam* provides a natural and effective solution. Additionally, it supports respiratory health, helping clear congestion and balance kapha dosha.
+Whether you suffer from sluggish digestion, bloating, or slow metabolism, *Himalaya Trikatu Tablets* offer a natural, herbal solution to keep your digestive system in balance. They also support detoxification, helping eliminate toxins and promote overall wellness.
 
 #### Key Benefits:
-- **Digestive Support**: Stimulates digestive enzymes to improve digestion and relieve discomfort like bloating and indigestion.
-- **Boosts Metabolism**: Enhances fat metabolism, promoting healthy weight management and reducing sluggishness.
-- **Natural Detox**: Cleanses the digestive tract, removes toxins, and supports better nutrient absorption.
-- **Respiratory Health**: Balances kapha dosha, helping clear congestion and support healthy lung function.
-- **100% Natural**: Made from pure, natural ingredients without any artificial preservatives or additives.
+- **Improves Digestion**: Stimulates digestive enzymes, helping break down food efficiently and relieving common digestive issues like gas, bloating, and indigestion.
+- **Boosts Metabolism**: Enhances metabolic activity, supporting weight management and reducing sluggishness.
+- **Detoxifies**: Aids in eliminating toxins from the body, improving nutrient absorption and overall gut health.
+- **Respiratory Health**: Supports respiratory function by balancing kapha dosha and clearing congestion.
+- **100% Herbal Formula**: Made from natural ingredients without synthetic additives or preservatives, offering a safe and effective supplement for digestive health.
 
 #### How to Use:
-- **Dosage**: Mix 1/2 to 1 teaspoon of *KILLI Thirikadugam* with warm water, honey, or ghee after meals, or as recommended by your healthcare provider.
-- **For Digestion & Metabolism**: Use daily to enhance digestion and metabolism, promoting overall health and vitality.
-- **For Respiratory Support**: Use during seasonal changes to support clear respiratory pathways and reduce congestion.
+- **Dosage**: Take 1-2 *Himalaya Trikatu Tablets* twice daily with water after meals, or as directed by your healthcare provider.
+- **For Digestive Support**: Use daily to maintain healthy digestion, relieve discomfort, and enhance nutrient absorption.
+- **For Metabolism**: Regular use boosts metabolism and supports healthy weight management.
 
-Embrace the natural power of Ayurveda with *KILLI Thirikadugam (Trikatu Churna)* and experience improved digestion, better metabolism, and a stronger immune system.
+Discover the ancient wisdom of Ayurveda with *Himalaya Trikatu Digestive Wellness Tablets*, your natural ally for a balanced and healthy digestive system.
 
 #### #Hashtags:
-#KILLIThirikadugam #TrikatuChurna #ThirukadugaPowder #DigestiveHealth #AyurvedicRemedy #ThreePeppersBlend #BoostMetabolism #NaturalDetox #RespiratorySupport #PureAndNatural #TraditionalAyurveda #HolisticWellness
+#HimalayaTrikatu #DigestiveWellness #TrikatuTablets #HerbalDigestiveSupport #AyurvedicRemedy #BoostMetabolism #NaturalDetox #RespiratorySupport #GutHealth #PureAndNatural #DigestiveHealth #HolisticWellness
