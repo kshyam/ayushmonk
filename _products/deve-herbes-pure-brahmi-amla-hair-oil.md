@@ -1,9 +1,9 @@
 ---
-title: Deve Herbes Pure Brahmi Amla Hair Oil
+title: Deve Herbes Pure Brahmi Oil
 description: Revitalize your hair naturally with Deve Herbes Pure Brahmi Amla
   Hair Oil, a powerful blend of Brahmi and Amla extracts known for their
   traditional Ayurvedic benefits.
-image: /images/blog/deve-herbes-pure-brahmi-amla-hair-oil.jpg
+image: /images/blog/deve-herbes-pure-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
