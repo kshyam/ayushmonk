@@ -1,9 +1,9 @@
 ---
-title: Dabur Brahmi Amla Hair Oil
+title: Dabur Brahmi Oil
 description: Revitalize your hair with Dabur Brahmi Amla Hair Oil, an iconic
   blend of Brahmi and Amla crafted to promote hair strength, length, and
   thickness.
-image: /images/blog/dabur-brahmi-amla-hair-oil.jpg
+image: /images/blog/dabur-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
