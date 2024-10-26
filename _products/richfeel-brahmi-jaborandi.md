@@ -1,9 +1,9 @@
 ---
-title: Richfeel Brahmi Jaborandi
+title: Richfeel Brahmi Oil
 description: Nourish and revitalize your hair with Richfeel Brahmi Jaborandi
   Hair Oil, an Ayurvedic formulation enriched with Brahmi and Jaborandi extracts
   to support hair growth, reduce hair fall, and improve scalp health.
-image: /images/blog/richfeel-brahmi-jaborandi.jpg
+image: /images/blog/richfeel-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
