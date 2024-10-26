@@ -1,9 +1,9 @@
 ---
-title: Sri Sri Tattva Brahmi Bhringaraj Taila
+title: Sri Sri Tattva Brahmi Oil
 description: Achieve strong, healthy hair with Sri Sri Tattva Brahmi Bhringaraj
   Taila, a powerful Ayurvedic blend of Brahmi and Bhringaraj formulated to
   support hair growth, nourish the scalp, and reduce hair fall.
-image: /images/blog/sri-sri-tattva-brahmi-bhringaraj-taila.jpg
+image: /images/blog/sri-sri-tattva-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
