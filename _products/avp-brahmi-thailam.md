@@ -1,9 +1,9 @@
 ---
-title: AVP Brahmi Thailam
+title: AVP Brahmi Oil
 description: Find natural relief and relaxation with AVP Brahmi Thailam Oil, a
   traditional Ayurvedic formulation designed to provide calming effects for the
   mind and body.
-image: /images/blog/avp-brahmi-thailam.jpg
+image: /images/blog/avp-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
