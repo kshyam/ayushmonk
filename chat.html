@@ -3,72 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ayurvedic Chatbot</title>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        #chatbox { width: 400px; height: 500px; border: 1px solid #ccc; padding: 10px; overflow-y: scroll; }
-        #input { width: 100%; padding: 10px; }
-        .message { margin: 10px 0; }
-        .message p { margin: 0; }
-        .user { color: blue; }
-        .bot { color: green; }
-    </style>
+    <title>Groq Chatbot</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+   
 </head>
 <body>
-    <h2>Ayurvedic Chatbot</h2>
+    <h2>Chat with Groq Bot</h2>
     <div id="chatbox"></div>
-    <input id="input" type="text" placeholder="Ask me anything about Ayurveda..." />
+    <input id="input" type="text" placeholder="Type your message..." />
     <button onclick="sendMessage()">Send</button>
 
     <script>
-        const chatbox = document.getElementById('chatbox');
+      async function sendMessage() {
+      const input = document.getElementById('input').value;
+      const chatbox = document.getElementById('chatbox');
 
-        async function sendMessage() {
-            const input = document.getElementById('input').value;
+      if (input) {
+          chatbox.innerHTML += `<p><b>You: ${input}</p></b>`;
+          document.getElementById('input').value = '';
 
-            if (input) {
-                // Display user message
-                addMessage('You', input, 'user');
-                document.getElementById('input').value = '';
-
-                // Prepare the message for the GPT-3 API
-                const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+          try {
+                const response = await fetch('http://127.0.0.1:5000/chat', {
                     method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'Authorization': 'Bearer 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'  // Replace with your OpenAI API key
-                    },
-                    body: JSON.stringify(
-                      {
-                        "messages": [
-                          {
-                            "role": "user",
-                            "content": "Explain the importance of fast language models"
-                          }
-                        ],
-                        "model": "mixtral-8x7b-32768"
-                      }
-                    
-                    )
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: input })
                 });
 
-                // const data = await response.json();
-                console.log(response.content);
-                
-                // const botReply = data.choices[0].text.trim();
+                // Check if the response is non-empty and in JSON format
+                if (response.ok && response.headers.get("content-type").includes("application/json")) {
+                    const data = await response.json();
+                    
+                    const mkdhtml = marked.parse(data.reply);
+                    chatbox.innerHTML += `<p><b>AyushMonk AI Bot:</b> ${mkdhtml}</p>`;
 
-                // // Display chatbot response
-                // addMessage('Bot', botReply, 'bot');
-                // chatbox.scrollTop = chatbox.scrollHeight;
+                } else {
+                    throw new Error('Invalid JSON response or empty data');
+                }
+            } catch (error) {
+                chatbox.innerHTML += `<p><b>Error:</b> ${error.message}</p>`;
             }
-        }
 
-        function addMessage(sender, message, senderClass) {
-            const messageElem = document.createElement('div');
-            messageElem.className = 'message';
-            messageElem.innerHTML = `<p class="${senderClass}"><b>${sender}:</b> ${message}</p>`;
-            chatbox.appendChild(messageElem);
+            chatbox.scrollTop = chatbox.scrollHeight;
         }
+    }
+
+        
     </script>
+
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+}
+
+#chatbox {
+    width: 90%;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: scroll;
+    background-color: #f9f9f9;
+}
+
+.message {
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 8px;
+    max-width: 90%;
+}
+
+.user {
+    background-color: #d1e7ff;
+    color: #0056b3;
+    align-self: flex-end;
+    text-align: right;
+}
+
+.bot {
+    background-color: #e9ffe1;
+    color: #287233;
+    align-self: flex-start;
+    text-align: left;
+}
+
+p {
+    margin: 0;
+    word-wrap: break-word;
+}
+
+input, button {
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #0056b3;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004494;
+}
+
+</style>
 </body>
 </html>
+

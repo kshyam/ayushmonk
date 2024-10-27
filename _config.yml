@@ -1,12 +1,12 @@
 # Site settings
 title: AyushMonk
-email: info@ayueshmonk.com
+email: info@ayushmonk.com
 description: >
   Holistic Wellness Platform
 
 baseurl: ""
 # the base hostname & protocol for your site
-url: "https://ayueshmonk.com" 
+url: "https://ayushmonk.com" 
 twitter_username: razorops
 
 # Build settings
