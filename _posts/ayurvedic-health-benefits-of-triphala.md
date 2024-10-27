@@ -133,6 +133,7 @@ Triphala’s high content of antioxidants, particularly from Amla, helps enhance
 
 Triphala is used to enhance skin clarity and radiance. Its detoxifying properties help cleanse the blood, reducing acne, blemishes, and promoting a glowing complexion. Regular use, both internally and topically, can help reduce signs of aging, such as wrinkles and dark spots, due to its antioxidant content.
 
+
 ### 5. **Supports Weight Loss**
 
 Triphala aids in weight management by improving digestion and metabolism. Its ability to detoxify and regulate fat metabolism helps in reducing excess weight. By improving digestion, it reduces bloating and promotes healthy fat utilization in the body.
