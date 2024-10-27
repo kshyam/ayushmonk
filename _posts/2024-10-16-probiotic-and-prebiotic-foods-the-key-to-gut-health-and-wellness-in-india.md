@@ -1,6 +1,5 @@
 ---
-title: "2024-10-16-Probiotic and Prebiotic Foods: The Key to Gut Health and
-  Wellness in India"
+title: "Probiotic and Prebiotic Foods: The Key to Gut Health and Wellness in India"
 description: Probiotics are live beneficial bacteria or yeasts that reside in
   our intestines and contribute to a healthy gut microbiome.
 image: /images/blog/probiotic-and-rebiotic-foods.jpg
