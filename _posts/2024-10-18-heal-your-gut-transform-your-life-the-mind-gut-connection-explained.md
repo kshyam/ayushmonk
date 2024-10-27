@@ -1,6 +1,5 @@
 ---
-title: "2024-10-18-Heal Your Gut, Transform Your Life: The Mind-Gut Connection
-  Explained"
+title: "Heal Your Gut, Transform Your Life: The Mind-Gut Connection Explained"
 description: The Importance of Gut Health - Our digestive system is home to
   trillions of microbes, primarily bacteria, which make up the gut microbiome
 image: /images/blog/importance-of-gut-health.jpeg
