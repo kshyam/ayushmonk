@@ -6,7 +6,7 @@ description: Discover the authentic taste and healing power of Ayurveda with
 image: /images/blog/6rasa-kashaya-herbal-tea.jpg
 layout: product
 permalink: products/:title
-category: 6rasa Kashaya Herbal Tea
+category: Herbal Tea
 buy_now_link: https://www.amazon.in/6rasa-Kashaya-Ayurvedic-Ashwagandha-Cardamom/dp/B08QJLSLVC/ref=sr_1_2_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
 price: "500"
 star_rating: "4.3"
