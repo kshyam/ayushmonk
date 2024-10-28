@@ -1,5 +1,5 @@
 ---
-title: 2024-10-05 The Benefits of Organic Herbal Teas A Holistic Approach to Hydration
+title: The Benefits of Organic Herbal Teas A Holistic Approach to Hydration
 description: "In our pursuit of a healthier, more balanced lifestyle, we often
   overlook one of the simplest yet most beneficial habits: hydration. "
 image: /images/blog/the-benefits-of-organic-herbal-teas-a-holistic-approach-to-hydration.webp
