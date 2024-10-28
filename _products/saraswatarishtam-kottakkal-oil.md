@@ -1,12 +1,12 @@
 ---
-title: Saraswatarishtam Kottakkal oil
+title: Saraswatarishtam Kottakkal Panchakarma Oil
 description: Boost your cognitive function and mental clarity with Kottakkal
   Arya Vaidya Sala Saraswatarishtam, a powerful Ayurvedic tonic specially
   formulated to support brain health and enhance memory.
 image: /images/blog/saraswatarishtam-kottakkal-oil.jpg
 layout: product
 permalink: products/:title
-category: Panchakarma-Oil
+category: Panchakarma Oil
 buy_now_link: https://www.amazon.in/Vaidya-Kottakkal-Saraswatarishtam-Sukanthi-Throat/dp/B09C83LDJS/ref=sr_1_10?crid=3MOZWBLMDBDVJ&tag=m0150-21
 price: "1449"
 star_rating: "4.3"
