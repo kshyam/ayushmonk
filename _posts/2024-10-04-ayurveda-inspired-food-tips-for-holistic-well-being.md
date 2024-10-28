@@ -1,5 +1,5 @@
 ---
-title: 2024-10-04 Ayurveda Inspired Food Tips For Holistic Well-Being
+title: Ayurveda Inspired Food Tips For Holistic Well-Being
 description: "Ayurveda, an ancient holistic approach to health, emphasizes
   balance in all aspects of life, particularly in diet. "
 image: /images/blog/ayurveda-inspired-food-tips-for-holistic-well-being.webp
