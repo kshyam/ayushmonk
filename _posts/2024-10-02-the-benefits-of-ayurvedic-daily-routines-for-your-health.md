@@ -1,5 +1,5 @@
 ---
-title: 2024-10-02 The Benefits of Ayurvedic Daily Routines for Your Health
+title: The Benefits of Ayurvedic Daily Routines for Your Health
 description: Ayurveda, an ancient Indian system of medicine, offers a holistic
   approach to health that is as relevant today as it was thousands of years ago.
 image: /images/blog/the-benefits-of-ayurvedic-daily-routines-for-your-health.webp
