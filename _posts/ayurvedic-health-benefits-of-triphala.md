@@ -2,12 +2,12 @@
 title: "Ayurvedic Health Benefits of Triphala "
 description: "Triphala, a time-honored remedy in Ayurvedic medicine, is renowned
   for its powerful healing and rejuvenating properties. "
-image: /images/blog/ayurvedic-health-benefits-of-triphala-png.webp
+image: /images/blog/the-benefits-of-ayurvedic-daily-routines-for-your-health-1-.webp
 layout: post
 permalink: /blog/:title
 author: Shyam Mohan
 category: Triphala
-date: 2024-09-28T23:04:00.000Z
+date: 2024-10-03T04:34:00.000Z
 ---
 Triphala, a time-honored remedy in Ayurvedic medicine, is renowned for its powerful healing and rejuvenating properties. Made from the combination of three fruits—Amla (Indian Gooseberry), Haritaki (Terminalia Chebula), and Bibhitaki (Terminalia Bellirica)—Triphala has been used for thousands of years in India to promote overall health and well-being. Below, we explore the numerous health benefits of this ancient herbal blend.
 
