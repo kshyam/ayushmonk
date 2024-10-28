@@ -8,14 +8,11 @@ image: /images/blog/the-wellness-sense-a-practical-guide-to-your-physical-and-em
 layout: product
 permalink: products/:title
 category: Audible Free Book
-buy_now_link: https://www.amazon.in/dppui/pay-select?c=audible&tag=m0150-21
+buy_now_link: https://www.amazon.in/dppui/pay-select?c=audible&v=web&collectShippingAddress=true&actionCode=AINTM035091118001K&inAppBrowser=false&purchaseType=trial&HMAC2=hEfWXvd4a+0onP2RYLA97P2zA0RwtjWHKtZ1aCFpZuYRAAAAAGcfd3sAAAAC&MarketplaceID=AJO3FBRUE6J4S&membershipOnly=false&isHomestead=true&asin=B08KFQ1S9Y&addOnAsin=B0856Q26K3&borrowBundleUpsell=true&preferenceType=Audible&tag=m0150-21
 price: "0"
 star_rating: "4.7"
 ---
-### Product Title:
-**The Wellness Sense: A Practical Guide to Physical & Emotional Health | Integrate Ayurvedic & Yogic Wisdom for Holistic Wellbeing**
 
-### Description:
 Unlock a deeper understanding of your health with **The Wellness Sense**, a comprehensive guide blending Ayurvedic and Yogic principles to bring balance to body and mind. Authored by experts in holistic wellness, this book offers practical insights into managing physical and emotional health through ancient wisdom, helping you connect to your body’s natural rhythms. Perfect for anyone seeking a harmonious lifestyle, this guide demystifies Ayurveda and yoga, offering actionable steps to achieve wellness through diet, lifestyle changes, and mindfulness practices.
 
 Whether you're new to Ayurveda or a seasoned practitioner, *The Wellness Sense* empowers you to understand your unique constitution and make informed choices that align with your health goals.
