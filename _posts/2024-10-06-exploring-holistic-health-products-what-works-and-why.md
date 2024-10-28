@@ -1,5 +1,5 @@
 ---
-title: 2024-10-06 Exploring Holistic Health Products What Works and Why
+title: Exploring Holistic Health Products What Works and Why
 description: In recent years, holistic health products have surged in popularity
   as people seek natural solutions to support their well-being.
 image: /images/blog/exploring-holistic-health-products-what-works-and-why.webp
