@@ -6,10 +6,10 @@ about: Dr. G Venkateswarlu is Ayurvedic anorectal surgeon who graduated in BAMS
   and MS in Ayurvedic Surgery from Dr.NTR University of Health Sciences and won
   gold medal for his academic achievements.
 image: /images/blog/dr-g-venkateswarlu.jpg
-layout: consultant
+layout: consultants
 permalink: consultants/:title
-booking_url: Book Appointment
-price: Book Appointment
+booking_url: fdgf
+price: "500"
 ---
 Dr. G Venkateswarlu is Ayurvedic anorectal surgeon who graduated in BAMS and MS in Ayurvedic Surgery from Dr.NTR University of Health Sciences and won gold medal for his academic achievements. He also completed a master course in minimal invasive proctology From SIICP Bangalore. Having huge experience in conducting Ksharasutra treatment (Non-surgical treatment) for fistula in ano. Kshara karma in piles, fissure in ano, pilonidal sinus. Having experience in doing advanced minimally invasive techniques in anorectal cases like SLOFT, LIFT and FIXICITION in fistula cases. Dr.G.Venkateswarlu have attended and presented papers in various national-level anorectal conferences. In addition to the above, he claims vast in experience in leech therapy for management of Non healing ulcers.
 
