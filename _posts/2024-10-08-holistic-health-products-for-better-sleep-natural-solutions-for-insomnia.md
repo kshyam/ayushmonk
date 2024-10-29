@@ -1,6 +1,5 @@
 ---
-title: 2024-10-08 Holistic Health Products for Better Sleep Natural Solutions
-  for Insomnia
+title: Holistic Health Products for Better Sleep Natural Solutions for Insomnia
 description: In today's fast-paced world, sleep often becomes a casualty, with
   stress, screen time, and lifestyle factors contributing to sleep challenges.
 image: /images/blog/holistic-health-products-for-better-sleep-natural-solutions-for-insomnia.webp
