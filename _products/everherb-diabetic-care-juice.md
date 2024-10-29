@@ -1,12 +1,12 @@
 ---
-title: Everherb Diabetic care Juice
+title: Everherb Diabetic Care Juice
 description: Everherb Diabetic Care Juice by PharmEasy is a 100% Ayurvedic,
   sugar-free juice specially formulated to support blood sugar management with a
   powerful blend of 13 potent herbs.
 image: /images/blog/everherb-diabetic-care-juice.jpg
 layout: product
 permalink: products/:title
-category: Diabetic care
+category: Diabetic Care
 buy_now_link: https://www.amazon.in/EVERHERB-Diabetic-Juice-Potent-Ingredients/dp/B095SWXPF7/ref=sr_1_11?crid=SRO83XQ158A7&tag=m0150-21
 price: "356"
 star_rating: "4.5"
