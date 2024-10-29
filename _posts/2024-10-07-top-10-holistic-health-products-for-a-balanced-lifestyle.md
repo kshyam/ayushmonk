@@ -1,5 +1,5 @@
 ---
-title: 2024-10-07 Top 10 Holistic Health Products for a Balanced Lifestyle
+title: Top 10 Holistic Health Products for a Balanced Lifestyle
 description: As the pursuit of a balanced, holistic lifestyle gains popularity,
   the demand for natural health products that support the mind, body, and soul
   has grown.
