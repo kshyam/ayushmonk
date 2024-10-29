@@ -1,5 +1,5 @@
 ---
-title: "ZEROHARM HoloDiabetis - Blood Sugar Control Tablets - Diabetes care Tablets "
+title: "ZEROHARM HoloDiabetis - Blood Sugar Control Tablets - Diabetes Care Tablets "
 description: "Take control of your diabetes with ZEROHARM HoloDiabetis, a
   breakthrough in natural diabetes care. These 100% organic, "
 image: /images/blog/zeroharm-holodiabetis-blood-sugar-control-tablets-diabetes-care-tablets-with-nano-formulated-jamun-ashwagandha-shatavari-all-organic-100-bioavailable-60-vegetarian-tablets.webp
