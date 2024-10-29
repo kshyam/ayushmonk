@@ -1,5 +1,5 @@
 ---
-title: " Dr. G.Venkateswarlu"
+title: Dr. G.Venkateswarlu
 degree: BAMS, MS - Ayurveda
 experience: 19 Years Experience Overall
 about: Dr. G Venkateswarlu is Ayurvedic anorectal surgeon who graduated in BAMS
