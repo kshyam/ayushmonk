@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-mahayograj-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Baidyanath-Mahayograj-Guggulu-100-Tablets/dp/B097J2KKPX/ref=sr_1_19?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/3NP60tF
 price: "393"
 star_rating: "4.2"
 ---
