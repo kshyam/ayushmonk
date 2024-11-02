@@ -7,7 +7,7 @@ image: /images/blog/zandu-tulsi-ginger-mint-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Zandu-Infusion-Enriched-Ayurvedic-Ingredients/dp/B09BTZWVYM/ref=sr_1_5?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3C8oFya
 price: "186"
 star_rating: "4.1"
 ---
