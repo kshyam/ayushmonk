@@ -7,7 +7,7 @@ image: /images/blog/6rasa-kashaya-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/6rasa-Kashaya-Ayurvedic-Ashwagandha-Cardamom/dp/B08QJLSLVC/ref=sr_1_2_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3Yzz0dQ
 price: "500"
 star_rating: "4.3"
 ---
