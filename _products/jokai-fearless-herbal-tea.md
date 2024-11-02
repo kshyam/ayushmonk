@@ -7,7 +7,7 @@ image: /images/blog/jokai-fearless-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Fearless-Original-Natural-Exported-Worldwide/dp/B09LHN5S5G/ref=sr_1_22_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YzSajU
 price: "284"
 star_rating: "4.0"
 ---
