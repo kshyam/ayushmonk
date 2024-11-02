@@ -7,7 +7,7 @@ image: /images/blog/sunshinetea-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/TULSI-COUGH-calendula-echinacea-peppermint-root-cinnamon-black-pepper-turmeric-oregano-lemon/dp/B07877C7VP/ref=sr_1_12?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3CavUWo
 price: "250"
 star_rating: "4.3"
 ---
