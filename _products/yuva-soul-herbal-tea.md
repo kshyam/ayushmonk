@@ -7,7 +7,7 @@ image: /images/blog/yuva-soul-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/YUVA-SOUL-Lemongrass-25Grams-Chamomile/dp/B08THYNG54/ref=sr_1_36?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/4f70sac
 price: "258"
 star_rating: "5.0"
 ---
