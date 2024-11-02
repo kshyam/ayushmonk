@@ -8,7 +8,7 @@ image: /images/blog/18-herbs-organics-laxa-health-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/18-Herbs-Organics-Health-Laxa/dp/B08Y6L9K4J/ref=sr_1_24_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/48wX99z
 price: "760"
 star_rating: "4.0"
 ---
