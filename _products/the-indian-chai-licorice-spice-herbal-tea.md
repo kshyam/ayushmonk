@@ -6,7 +6,7 @@ image: /images/blog/the-indian-chai-licorice-spice-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Indian-Chai-Licorice-Vanilla-Immunity/dp/B07HMBTF7Q/ref=sr_1_26?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YxEgPj
 price: "299"
 star_rating: "4.6"
 ---
