@@ -6,7 +6,7 @@ image: /images/blog/baidyanath-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Baidyanath-Ayurvedant-Tulsi-Ginger-Turmeric/dp/B0CR7QQ3Q9/ref=sr_1_15?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YsE04d
 price: "84"
 star_rating: "5.0"
 ---
