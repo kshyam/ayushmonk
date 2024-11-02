@@ -6,7 +6,7 @@ image: /images/blog/tea-and-twigs-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Natural-Herbal-Tulsi-Ginger-Green/dp/B0D8W7R8YV/ref=sr_1_41?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/4eby4SX
 price: "429"
 star_rating: "5.0"
 ---
