@@ -7,7 +7,7 @@ image: /images/blog/online-quality-store-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Online-Quality-Store-Immunity-Booster/dp/B0CBP5FG1W/ref=sr_1_7?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YRHM7x
 price: "199"
 star_rating: "4.5"
 ---
