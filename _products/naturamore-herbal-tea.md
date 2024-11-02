@@ -7,7 +7,7 @@ image: /images/blog/naturamore-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Naturamore-Herbal-Licorice-Respiratory-Support/dp/B0DJDFPSZ8/ref=sr_1_10?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YM19Qu
 price: "249"
 star_rating: "4.7"
 ---
