@@ -7,7 +7,7 @@ image: /images/blog/jiva-ayurvedic-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Jiva-Ayurvedic-Caffeine-Antioxidants-Properties/dp/B0BNSYRRLZ/ref=sr_1_23_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/4ec7PM4
 price: "324"
 star_rating: "4.8"
 ---
