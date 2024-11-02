@@ -7,7 +7,7 @@ image: /images/blog/teabox-organic-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Teabox-Turmeric-Immunity-Boosting-Prevention/dp/B09JC4L8NN/ref=sr_1_32?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3NRP7ik
 price: "305"
 star_rating: "4.3"
 ---
