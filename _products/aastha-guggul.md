@@ -6,7 +6,7 @@ image: /images/blog/aastha-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Aastha-Sambrani-Holding-Panchagvya-Samagri/dp/B08JC4XXX1/ref=sr_1_97?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/3YRIKAH
 price: "897"
 star_rating: "5.0"
 ---
