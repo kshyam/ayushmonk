@@ -7,7 +7,7 @@ image: /images/blog/tearaja-anti-inflammatory-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Inflammatory-Herbal-Reduce-Inflammation-Ingredients/dp/B07TWRJT12/ref=sr_1_28?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3YxGaPP
 price: "449"
 star_rating: "4.1"
 ---
