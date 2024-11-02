@@ -7,7 +7,7 @@ image: /images/blog/grenera-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Grenera-Tulsi-Lemon-Mint-Infusion/dp/B01A6W8UOO/ref=sr_1_45?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3AewodB
 price: "161"
 star_rating: "4.0"
 ---
