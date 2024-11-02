@@ -6,7 +6,7 @@ image: /images/blog/organic-tattva-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/Organic-Tattva-Tulsi-Ginger-Bags/dp/B01N19Z4X2/ref=sr_1_38?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/40tMyKA
 price: "160"
 star_rating: "4.2"
 ---
