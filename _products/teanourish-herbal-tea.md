@@ -8,7 +8,7 @@ image: /images/blog/teanourish-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/TeaNOURISH-Darjeeling-Licorice-Digestion-INGREDIENTS/dp/B097MKZ146/ref=sr_1_25?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/4flmrtE
 price: "399"
 star_rating: "4.6"
 ---
