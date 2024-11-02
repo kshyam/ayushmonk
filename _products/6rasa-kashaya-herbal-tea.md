@@ -7,7 +7,7 @@ image: /images/blog/silaa-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://www.amazon.in/herbal-tea-Anti-tea-ayurveda-tea-calming-relaxing/dp/B0C2DG5Y99/ref=sr_1_3_sspa?crid=2X6ONFCQBN0WP&tag=m0150-21
+buy_now_link: https://amzn.to/3UBsVfX
 price: "99"
 star_rating: "4.7"
 ---
