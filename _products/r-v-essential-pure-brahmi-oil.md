@@ -7,7 +7,7 @@ image: /images/blog/r-v-essential-pure-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Essential-Brahmi-Bacopa-Monnieri-Natural/dp/B07H6FKKQW/ref=sr_1_26?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3CeSxcf
 price: "319"
 star_rating: "4.8"
 ---
