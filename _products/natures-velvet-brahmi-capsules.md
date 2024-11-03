@@ -7,7 +7,7 @@ image: /images/blog/nature-s-velvet-brahmi-capsules.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Natures-Lifecare-Monnieri-Extract-Capsules/dp/B07TZDSWVP/ref=sr_1_48?crid=3SVSYY56SANSS&tag=m0150-21
+buy_now_link: https://amzn.to/4fcSZ9u
 price: "328"
 star_rating: "4.2"
 ---
