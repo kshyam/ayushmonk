@@ -7,7 +7,7 @@ image: /images/blog/kerala-ayurveda-yogaraja-guggul-tablet.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Yogaraja-Gulgulu-Tablet/dp/B07R3ZJHJ3/ref=sr_1_54?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/4ebKSZt
 price: "142"
 star_rating: "4.1"
 ---
