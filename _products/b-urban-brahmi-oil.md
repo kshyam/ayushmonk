@@ -7,7 +7,7 @@ image: /images/blog/b-urban-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/B-URBAN-Undiluted-Essential-Therapeutic-Conditions/dp/B0B2R8ZJG1/ref=sr_1_49?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4ffWpsg
 price: "456"
 star_rating: "4.0"
 ---
