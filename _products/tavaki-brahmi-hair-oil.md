@@ -1,12 +1,12 @@
 ---
-title: Tavaki Brahmi Hair Oil
+title: Tavaki Brahmi Oil
 description: Revitalize your hair naturally with Tavaki Ayurvedic Brahmi Kuntal
   Telam Hair Oil, an authentic Ayurvedic blend created for both women and men.
-image: /images/blog/tavaki-brahmi-hair-oil.jpg
+image: /images/blog/tavaki-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Tavaki-Ayurvedic-Brahmi-Kuntal-Telam/dp/B0DGG7X4L1/ref=sr_1_80?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3CfsiTa
 price: "699"
 star_rating: "5.0"
 ---
