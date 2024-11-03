@@ -8,7 +8,7 @@ image: /images/blog/nat-habit-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Nat-Habit-Matsyakshi-Dasabuti-Prevents/dp/B0B7NMVYQ8/ref=sr_1_19?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4fb7dYj
 price: "323"
 star_rating: "4.4"
 ---
