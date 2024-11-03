@@ -6,7 +6,7 @@ image: /images/blog/herb-essential-organic-brahmi-powder.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Herb-Essential-Organic-monnieri-Preservative/dp/B07SL4VSK7/ref=sr_1_48?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/4fgbjyv
 price: "339"
 star_rating: "4.9"
 ---
