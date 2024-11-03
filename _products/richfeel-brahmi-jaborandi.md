@@ -7,7 +7,7 @@ image: /images/blog/richfeel-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Richfeel-Brahmi-Jaborandi-Nourishing-Hair/dp/B09CTZKQ7V/ref=sr_1_12?crid=SCXIDYS0PV1F&tag=m150-21
+buy_now_link: https://amzn.to/4fmxQJI
 price: "156"
 star_rating: "4.4"
 ---
