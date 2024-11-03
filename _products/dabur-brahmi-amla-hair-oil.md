@@ -7,7 +7,7 @@ image: /images/blog/dabur-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Dabur-Brahmi-Amla-Hair-Oil/dp/B096BRTXRQ/ref=sr_1_36?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4ecKzO7
 price: "121"
 star_rating: "4.1"
 ---
