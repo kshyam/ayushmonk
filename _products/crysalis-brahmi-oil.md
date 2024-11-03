@@ -6,7 +6,7 @@ image: /images/blog/crysalis-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Crysalis-Undiluted-Essential-Therapeutic-Conditions/dp/B09WKBXZR7/ref=sr_1_38?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3C8LeD1
 price: "288"
 star_rating: "4.1"
 ---
