@@ -6,7 +6,7 @@ image: /images/blog/shree-dhootpapeshwar-ltd.-brahmi-vati-suvarnayukta.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Shree-Dhootpapeshwar-Brahmi-Vati-Suvarnayukta/dp/B07Q2ZLTZ4/ref=sr_1_19?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/3UBu8UJ
 price: "1540"
 star_rating: "4.4"
 ---
