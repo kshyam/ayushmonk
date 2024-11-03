@@ -6,7 +6,7 @@ image: /images/blog/inlife-guggul-capsules.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/INLIFE-Guggul-Extract-Sterones-Supplement/dp/B07BGWWVYT/ref=sr_1_65?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/4fvV3Jr
 price: "314"
 star_rating: "4.1"
 ---
