@@ -7,7 +7,7 @@ image: /images/blog/allin-exporters-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Allin-Exporters-Brahmi-Oil-Undiluted/dp/B01GJTDOVM/ref=sr_1_52?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3YObPhj
 price: "342"
 star_rating: "4.0"
 ---
