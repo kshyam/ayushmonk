@@ -7,7 +7,7 @@ image: /images/blog/greenwood-essential-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Greenwood-Essential-Premium-Therapeutic-Aromatherapy/dp/B0859Y5259/ref=sr_1_96?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4efC2dp
 price: "299"
 star_rating: "4.0"
 ---
