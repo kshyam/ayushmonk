@@ -7,7 +7,7 @@ image: /images/blog/natures-velvet-guggul-capsules.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Natures-Velvet-Extract-Shuddha-Guggulu/dp/B00S2TCK54/ref=sr_1_18?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/3AoXMWd
 price: "369"
 star_rating: "4.4"
 ---
