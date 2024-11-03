@@ -7,7 +7,7 @@ image: /images/blog/jeena-sikho-brahmi-vati-tablets.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Jeena-Sikho-Brahmi-Vati-Tablets/dp/B0DCS1M215/ref=sr_1_24_sspa?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/4f52Gqq
 price: "433"
 star_rating: "5.0"
 ---
