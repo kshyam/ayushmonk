@@ -7,7 +7,7 @@ image: /images/blog/vansaar-brahmi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Vansaar-Brahmi-Tablets-Baidyanath-Relaxation/dp/B09D3VJD6B/ref=sr_1_27?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/3UwJQAn
 price: "199"
 star_rating: "4.1"
 ---
