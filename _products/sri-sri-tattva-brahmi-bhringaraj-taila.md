@@ -7,7 +7,7 @@ image: /images/blog/sri-sri-tattva-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Brahmi-Bhringaraj-Taila-Healthy-Hair/dp/B0D9H86RJH/ref=sr_1_20?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3ABR13j
 price: "252"
 star_rating: "5.0"
 ---
