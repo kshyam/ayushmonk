@@ -7,7 +7,7 @@ image: /images/blog/justhuman-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Justhuman-AyuGrowth-Fortifying-Clinically-Strengthens/dp/B0CSN6684D/ref=sr_1_51?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3UAATG1
 price: "1624"
 star_rating: "4.5"
 ---
