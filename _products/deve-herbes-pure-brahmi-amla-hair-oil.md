@@ -7,7 +7,7 @@ image: /images/blog/deve-herbes-pure-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Deve-Herbes-Naturally-Healthy-Therapeutic/dp/B00H9B9VZS/ref=sr_1_15?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4fg9wth
 price: "281"
 star_rating: "4.2"
 ---
