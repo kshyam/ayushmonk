@@ -6,7 +6,7 @@ image: /images/blog/vaidibhyo-guggul.jpg
 layout: product
 permalink: products/:title
 category: Guggul
-buy_now_link: https://www.amazon.in/Vaidibhyo%C2%AE-Luxury-Guggul-Havan-Cups/dp/B0DG36557T/ref=sr_1_4_sspa?crid=274T8B0U72I18&tag=m0150-21
+buy_now_link: https://amzn.to/3NOOh5R
 price: "261"
 star_rating: "5.0"
 ---
