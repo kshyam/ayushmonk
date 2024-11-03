@@ -7,7 +7,7 @@ image: /images/blog/earth-n-pure-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Earth-Pure-Undiluted-Natural-Therapeutic/dp/B083BJC7JJ/ref=sr_1_1_sspa?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3YT6Vjq
 price: "326"
 star_rating: "4.1"
 ---
