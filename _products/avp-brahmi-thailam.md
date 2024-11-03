@@ -7,7 +7,7 @@ image: /images/blog/avp-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/AVP-Thailam-Provides-Improves-Quality/dp/B0D295295J/ref=sr_1_11?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3NRw5Zf
 price: "140"
 star_rating: "5.0"
 ---
