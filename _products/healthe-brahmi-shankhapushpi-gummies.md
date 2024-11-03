@@ -7,7 +7,7 @@ image: /images/blog/healthe-brahmi-shankhapushpi-gummies.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/HealthE-Brahmi-Shankhapushpi-Gummies-Kids/dp/B0CVL1H789/ref=sr_1_23_sspa?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/3CcGoV9
 price: "389"
 star_rating: "4.4"
 ---
