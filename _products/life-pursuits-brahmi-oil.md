@@ -7,7 +7,7 @@ image: /images/blog/life-pursuits-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Life-Pursuits-Organic-Triphala-Hibiscus/dp/B08537YL1X/ref=sr_1_39?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/3YP8puL
 price: "449"
 star_rating: "4.3"
 ---
