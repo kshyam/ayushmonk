@@ -6,7 +6,7 @@ image: /images/blog/indē-wild-champi-brahmi-oil.jpg
 layout: product
 permalink: products/:title
 category: Brahmi Oil
-buy_now_link: https://www.amazon.in/Ind%C4%93-Wild-Champi-Brahmi-Bhringraj/dp/B0D5YSPYZX/ref=sr_1_56?crid=SCXIDYS0PV1F&tag=m0150-21
+buy_now_link: https://amzn.to/4hu27rT
 price: "854"
 star_rating: "5.0"
 ---
