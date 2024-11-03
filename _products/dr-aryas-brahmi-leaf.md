@@ -7,7 +7,7 @@ image: /images/blog/dr.-arya-s-brahmi-leaf.jpg
 layout: product
 permalink: products/:title
 category: Brahmi
-buy_now_link: https://www.amazon.in/Aryas-Brahmi-Bacopa-monnieri-1-100gm/dp/B0CVF5FDQP/ref=sr_1_12?crid=U72N30JP0KKO&tag=m0150-21
+buy_now_link: https://amzn.to/40vuhgb
 price: "148"
 star_rating: "4.7"
 ---
