@@ -1,7 +1,7 @@
 ---
 title: Dr. C Narmada
 degree: BAMS, MD - Ayurveda Medicine
-experience: 24 Years Experience Overall
+experience: 24 Years Experience
 about: " Dr. Narmada is an Ayurvedic doctor with more than 18 years of
   experience. She is a specialist in offering 'Swarna prashana' immunization
   medicine for children."

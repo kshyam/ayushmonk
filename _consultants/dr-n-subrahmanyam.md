@@ -1,7 +1,7 @@
 ---
 title: Dr. N Subrahmanyam
 degree: BAMS Ayurveda
-experience: 10 Years Experience Overall
+experience: 10 Years Experience
 about: Traditional Ayurvedic family, traditionally practicing last 19 years. And
   also running an ayurvedic magazine in the name of Amrutham from last 11 years.
 image: /images/blog/dr-n-subrahmanyam.jpg

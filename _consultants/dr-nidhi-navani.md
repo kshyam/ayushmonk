@@ -1,7 +1,7 @@
 ---
 title: " Dr. Nidhi Navani"
 degree: BAMS Ayurveda
-experience: 23 Years Experience Overall
+experience: 23 Years Experience
 about: She Needs No Introduction At Our KSAC Hospitals, Bengaluru Being The
   Senior Physician And  Resident Medical Officer.
 image: /images/blog/dr-nidhi-navani.jpg

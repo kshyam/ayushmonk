@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Holistic Wellness Blog
+title: Holistic Wellness Consultants
 description: Discover AyushMonk’s range of holistic wellness products including Ayurvedic herbal teas, essential oils, yoga accessories, detox supplements, organic skincare, and mindfulness journals. Enhance your well-being with our carefully curated essentials for a balanced lifestyle.
-canonical_url: "https://ayushmonk.com/blog"
+canonical_url: "https://ayushmonk.com/consultants"
 image: /images/holistic-wellness-products.jpeg
 ---
 
 
-    <style>
-        .consultant-card img {
-            max-width: 100%;
-            border-radius: 8px;
-        }
-        .appointment-btn {
-            margin-top: 10px;
-        }
-        .book-appointment-modal .modal-body {
-            padding: 20px;
-        }
-    </style>
+<style>
+    .consultant-card img {
+        max-width: 100%;
+        border-radius: 8px;
+    }
+    .appointment-btn {
+        margin-top: 10px;
+    }
+    .book-appointment-modal .modal-body {
+        padding: 20px;
+    }
+</style>
 
 
 <!-- Hero Section -->
@@ -40,9 +40,10 @@ image: /images/holistic-wellness-products.jpeg
                 <div class="card consultant-card h-100">
                     <img src="{{ consultant.image }}" alt="{{ consultant.name }}">
                     <div class="card-body">
-                        <h5 class="card-title">{{ consultant.name }}</h5>
-                        <p class="card-text">{{ consultant.experience }} years of experience</p>
-                        <p class="card-text">{{ consultant.degree }}</p>
+                        <h5 class="card-title">{{ consultant.title }}</h5>
+                        <p class="card-text">{{ consultant.degree }}<br>
+                        {{ consultant.experience }}</p>
+
                         <a href="{{ consultant.booking_url}}" target="_blank" class="btn btn-warning"> Book Appointment</a>
                         &nbsp;&nbsp;<a href="{{ site.baseurl }}{{ consultant.url }}">Read More</a>
                       

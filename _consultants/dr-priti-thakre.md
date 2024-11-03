@@ -1,7 +1,7 @@
 ---
 title: Dr. Priti Thakre
 degree: BAMS Ayurveda
-experience: 22 Years Experience Overall
+experience: 22 Years Experience
 about: Dr. Priti Thakre is a Ayurveda in KPHB, Hyderabad and has an experience
   of 22 years in this field. Dr. Priti Thakre practices at Chaudhari
   Clinic-Ayurvedic Infertility Treatment Center in KPHB, Hyderabad.

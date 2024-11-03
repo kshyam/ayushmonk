@@ -1,7 +1,7 @@
 ---
 title: Dr. Vani
 degree: "   BAMS, MD - Ayurveda Medicine"
-experience: 27 Years Experience Overall
+experience: 27 Years Experience
 about: Dr. Vani completed MD Ayurveda and she has an experience of 19 years
   treated thousands of patients suffering from Chronic diseases.
 image: /images/blog/dr-vani.jpg

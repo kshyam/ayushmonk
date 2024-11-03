@@ -1,7 +1,7 @@
 ---
 title: Dr. M. Narasimha
 degree: BAMS, MD - Ayurveda Medicine
-experience: 25 Years Experience Overall
+experience: 25 Years Experience
 about: Dr. M.Narasimha is the only leading Ayurvedic doctor in South India to
   practice exclusive male sexual disorders & male infertility problems. He is
   one of the very few leading doctors who treats Azoospermia cases successfully

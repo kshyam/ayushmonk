@@ -1,7 +1,7 @@
 ---
 title: Dr. Leela Saraja Krishna
 degree: BAMS, MS - Ayurveda
-experience: 15 Years Experience Overall
+experience: 15 Years Experience
 about: Dr. Leela Saraja Krishna is a Ayurveda in Kukatpally, Hyderabad and has
   an experience of 15 years in this field.
 image: /images/blog/dr-leela-saraja-krishna.webp

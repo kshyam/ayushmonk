@@ -1,7 +1,7 @@
 ---
 name: Dr. S Sarangapani
 degree: BAMS, MD - Ayurveda Medicine
-experience: 44 Years Experience Overall
+experience: 44 Years Experience
 about: Dr. S.Sarangapani is one of the few distinguished names in the
   contemporary Ayurvedic Medical World in Telangana and Andhra Pradesh.
 image: /images/blog/dr-s-sarangapani-ayurveda-hyderabad.jpg

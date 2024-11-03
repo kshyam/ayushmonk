@@ -1,7 +1,7 @@
 ---
 title: Dr. Muneeb Ahmed
 degree: MD - Ayurveda Medicine, BAMS
-experience: 15 Years Experience Overall
+experience: 15 Years Experience
 about: Dr Muneeb Ahmed, MD (Ayu), MSc (psychology), ccm, cch, is an ayurvedic
   physician is in practice specialized in all joint related disorders like
   osteoarthritis, rheumatoid arthritis, SLE, neuro problems like paralysis,

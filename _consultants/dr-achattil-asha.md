@@ -1,7 +1,7 @@
 ---
-title: " Dr. Achattil Asha"
+title: "Dr. Achattil Asha"
 degree: BAMS Ayurveda
-experience: 14 Years Experience Overall
+experience: 14 Years Experience
 about: Dr. Achattil Asha is Excellence in treating chronic ailments ,
   neurological, gynacological ,skin problems etc .....Psychological disorders
   like anxiety , depression etc  years of dedicated work and success in treating

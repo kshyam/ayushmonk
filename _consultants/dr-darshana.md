@@ -1,7 +1,7 @@
 ---
 title: Dr. Darshana
 degree: MS - Ayurvedic Gynecology & Obstetrics, BAMS
-experience: 13 Years Experience Overall
+experience: 13 Years Experience
 about: Specialist in Nadi Pariksha, Male and Female fertility treatment,
   Panchakarma, Nine months pregnancy care, Garba sanskar and Yoga, Pcos/Pcod,
   Fibroid, irregular/excessive bleeding disorders, Dysmenorrhea(Pain during

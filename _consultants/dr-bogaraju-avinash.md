@@ -1,7 +1,7 @@
 ---
 title: Dr. Bogaraju Avinash
 degree: BAMS Ayurveda
-experience: 7 Years Experience Overall
+experience: 7 Years Experience
 about: Dr. Bogaraju is an Ayurvedic physician dedicated to promoting health and
   well-being through the ancient wisdom of Ayurveda.
 image: /images/blog/dr-bogaraju-avinash.jpg
