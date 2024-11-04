@@ -7,7 +7,7 @@ image: /images/blog/truebasics-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/TrueBasics-Ashwagandha-Clinically-Researched-Ingredients/dp/B07V3MY9XJ/ref=sr_1_19?crid=1GYTAEQXSPQJD&tag=m0150-21
+buy_now_link: https://amzn.to/40sXIzr
 price: "869"
 star_rating: "4.2"
 ---
