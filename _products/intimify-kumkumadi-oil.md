@@ -7,7 +7,7 @@ image: /images/blog/intimify-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/INTIMIFY-Kumkumadi-Whitening-Lightening-Pigmentation/dp/B0BLKK9GN6/ref=sr_1_9?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/4fwoniX
 price: "193"
 star_rating: "4.4"
 ---
