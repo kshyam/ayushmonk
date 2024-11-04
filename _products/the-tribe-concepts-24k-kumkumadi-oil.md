@@ -7,7 +7,7 @@ image: /images/blog/the-tribe-concepts-24k-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Tribe-Concepts-24k-Kumkumadi-Thailam/dp/B08CJZDVKQ/ref=sr_1_2_sspa?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3NTLjNp
 price: "699"
 star_rating: "4.0"
 ---
