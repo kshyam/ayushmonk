@@ -7,7 +7,7 @@ image: /images/blog/ambrosial-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Ambrosial-Concentrated-Extract-Immunity-Relieves/dp/B09RWKLNRX/ref=sr_1_56?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/4fxID3E
 price: "299"
 star_rating: "4.0"
 ---
