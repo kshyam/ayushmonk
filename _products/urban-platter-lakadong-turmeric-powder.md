@@ -6,7 +6,7 @@ image: /images/blog/urban-platter-lakadong-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Urban-Platter-Organically-North-East-High-Curcumin/dp/B079P1LJG6/ref=sr_1_19?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/3YO6HKd
 price: "149"
 star_rating: "4.3"
 ---
