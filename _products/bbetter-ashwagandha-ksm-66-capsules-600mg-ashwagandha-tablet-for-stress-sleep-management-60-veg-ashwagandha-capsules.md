@@ -7,7 +7,7 @@ image: /images/blog/bbetter-ashwagandha-ksm-66-capsules-600mg-ashwagandha-tablet
 layout: post
 permalink: /blog/:title/
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/BBETTER-Ashwagandha-KSM66-Organic-Capsules/dp/B09D7KGYK2/ref=tag=m0150-21
+buy_now_link: https://amzn.to/4egeSDJ
 price: "925"
 star_rating: "4"
 ---
