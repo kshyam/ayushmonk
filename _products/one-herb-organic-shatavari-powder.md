@@ -7,7 +7,7 @@ image: /images/blog/one-herb-organic-shatavari-powder.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/One-Herb-Shatavari-Lactation-Menopause/dp/B08W329H32/ref=sr_1_40?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/4fxVqTI
 price: "299"
 star_rating: "4.0"
 ---
