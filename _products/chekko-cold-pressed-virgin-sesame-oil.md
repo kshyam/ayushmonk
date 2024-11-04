@@ -7,7 +7,7 @@ image: /images/blog/chekko-cold-pressed-virgin-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Chekko-Pressed-Gingelly-Haircare-Seasoning/dp/B08955PR2S/ref=sr_1_31?crid=1GVBV0I1R8IFF&tag=m0150-21
+buy_now_link: https://amzn.to/40x8BA5
 price: "2773"
 star_rating: "4.3"
 ---
