@@ -6,7 +6,7 @@ image: /images/blog/birju-mahavir-organic-amla.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Birju-Mahavir-Organic-Gooseberry-BMKB-214/dp/B07CZ2D3CS/ref=sr_1_26?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/3YAcSjH
 price: "399"
 star_rating: "4.0"
 ---
