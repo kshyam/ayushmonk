@@ -7,7 +7,7 @@ image: /images/blog/amway-nutrilite-tulsi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Amway-Tablet-Supports-Immunity-Tablets/dp/B0C2C8B6YJ/ref=sr_1_27?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/3Cd91BC
 price: "599"
 star_rating: "4.4"
 ---
