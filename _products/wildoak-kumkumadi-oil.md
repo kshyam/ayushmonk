@@ -7,7 +7,7 @@ image: /images/blog/wildoak-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/WildOak-Kumkumadi-Pigmentation-Circles-Formulation/dp/B0CV5R6TTW/ref=sr_1_23_sspa?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/4fcR9Fu
 price: "750"
 star_rating: "4.4"
 ---
