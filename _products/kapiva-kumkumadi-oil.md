@@ -6,7 +6,7 @@ image: /images/blog/kapiva-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Kapiva-Kumkumadi-Ayurvedic-Pigmentation-Tailam/dp/B0B7L52L6W/ref=sr_1_15?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/40vAkkC
 price: "599"
 star_rating: "4.1"
 ---
