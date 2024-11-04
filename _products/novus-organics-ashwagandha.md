@@ -7,7 +7,7 @@ image: /images/blog/novus-organics-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Novus-Organics-Ashwagandha-Single-origin-Rejuvenates/dp/B0D6RSV7RR/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
+buy_now_link: https://amzn.to/48BGeTf
 price: "785"
 star_rating: "4.8"
 ---
