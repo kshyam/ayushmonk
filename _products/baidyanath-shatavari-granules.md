@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-shatavari-granules.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Baidyanath-Shatavari-Granules-Women-500/dp/B09CMP4ZLK/ref=sr_1_6?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/4fgGNoo
 price: "280"
 star_rating: "4.1"
 ---
