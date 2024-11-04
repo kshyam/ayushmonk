@@ -7,7 +7,7 @@ image: /images/blog/organic-india-tulsi-ginger-turmeric-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://amzn.to/3NO5Suy
+buy_now_link: https://amzn.to/3NUo71m
 price: "370"
 star_rating: "4.3"
 ---
