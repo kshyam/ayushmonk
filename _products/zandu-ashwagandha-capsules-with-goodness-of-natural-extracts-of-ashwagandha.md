@@ -6,7 +6,7 @@ image: /images/blog/zandu-ashwagandha-capsules-with-goodness-of-natural-extracts
 layout: product
 permalink: /products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Zandu-Ashwagandha-Ayurvedic-Ginseng-wellness/dp/B07V3N431L/ref=1&tag=m0150-21
+buy_now_link: https://amzn.to/3YQSfBh
 price: "152"
 star_rating: "4.1"
 ---
