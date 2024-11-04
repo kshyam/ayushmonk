@@ -7,7 +7,7 @@ image: /images/blog/dhootapapeshwar-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Dhootpapeshwar-Swamala-Compound-500-g/dp/B01N7GDGP3/ref=sr_1_25?crid=1A6EBHCVM05PF&tag=m0150-21
+buy_now_link: https://amzn.to/40wOrq7
 price: "719"
 star_rating: "4.3"
 ---
