@@ -15,7 +15,7 @@ star_rating: "4.0"
 **CARMEL ORGANICS Shatavari Root Whole – 200g | Jaivik Bharat Certified | Pure Asparagus Racemosus | Non-GMO | No Preservatives or Additives**
 
 ### Description:
-Unlock the full potential of *CARMEL ORGANICS Shatavari Root Whole*, a pure and natural form of Asparagus Racemosus, commonly known as Shatavari. This 100% organic, Jaivik Bharat Certified product is perfect for those seeking a holistic approach to wellness, supporting reproductive health, hormonal balance, and vitality. 
+Unlock the full potential of *CARMEL Ohttps://www.amazon.in/CARMEL-ORGANICS-Shatavari-Chittamoothi-Preservatives/dp/B0CTK2FGJQ/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=m0150-21RGANICS Shatavari Root Whole*, a pure and natural form of Asparagus Racemosus, commonly known as Shatavari. This 100% organic, Jaivik Bharat Certified product is perfect for those seeking a holistic approach to wellness, supporting reproductive health, hormonal balance, and vitality. 
 
 Handpicked and carefully processed, these Shatavari roots are free from GMOs, preservatives, or additives, making them a safe and reliable choice for your health. Whether you’re looking to create herbal teas, powders, or traditional Ayurvedic remedies, *CARMEL ORGANICS Shatavari Root* offers versatile use with the highest quality of purity.
 
