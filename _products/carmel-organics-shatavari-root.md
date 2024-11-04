@@ -7,7 +7,7 @@ image: /images/blog/carmel-organics-shatavari-root.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/CARMEL-ORGANICS-Shatavari-Chittamoothi-Preservatives/dp/B0CTK2FGJQ/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=m0150-21
+buy_now_link: https://amzn.to/3ArGisb
 price: "269"
 star_rating: "4.0"
 ---
