@@ -7,7 +7,7 @@ image: /images/blog/truhabit-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/TruHabit-Kumkumadi-Glowing-Saffron-Whitening/dp/B0BJKGBGVQ/ref=sr_1_40?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3CoRfv6
 price: "299"
 star_rating: "4.2"
 ---
