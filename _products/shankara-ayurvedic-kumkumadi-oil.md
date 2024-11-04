@@ -7,7 +7,7 @@ image: /images/blog/shankara-ayurvedic-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Shankara-Kumkumadi-Oil-15ml/dp/B083J9VZK8/ref=sxin_12_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=m0150-21
+buy_now_link: https://amzn.to/3NUzEOu
 price: "1658"
 star_rating: "4.4"
 ---
