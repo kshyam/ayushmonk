@@ -7,7 +7,7 @@ image: /images/blog/zandu-tulsi-ginger-mint-herbal-tea.jpg
 layout: product
 permalink: products/:title
 category: Herbal Tea
-buy_now_link: https://amzn.to/3C8oFya
+buy_now_link: https://amzn.to/4fahzb6
 price: "186"
 star_rating: "4.1"
 ---
