@@ -6,7 +6,7 @@ image: /images/blog/avp-organic-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/AVP-Chyawanprash-Sugarfree-Ayurvedic-Revitalizer/dp/B0B5DWCFVP/ref=sr_1_4_sspa?crid=1A6EBHCVM05PF&tag=m0150-21
+buy_now_link: https://amzn.to/4hwIWh8
 price: "294"
 star_rating: "4.1"
 ---
