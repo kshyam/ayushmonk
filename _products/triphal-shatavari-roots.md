@@ -8,7 +8,7 @@ image: /images/blog/triphal-shatavari-roots.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/TRIPHAL-Shatavari-Yellow-Hormonal-Reproductive/dp/B0CPMCGW3V/ref=sr_1_21_sspa?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/3C8E0yC
 price: "310"
 star_rating: "5.0"
 ---
