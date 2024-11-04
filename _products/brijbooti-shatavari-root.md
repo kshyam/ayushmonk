@@ -8,7 +8,7 @@ image: /images/blog/brijbooti-shatavari-root.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/BrijBooti-Shatavari-Asparagus-Racemosus-Shatawar/dp/B07G77JVB9/ref=sr_1_7?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/48BJJJn
 price: "350"
 star_rating: "4.3"
 ---
