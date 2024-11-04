@@ -7,7 +7,7 @@ image: /images/blog/cura-ayurveda-shatavari-tablets.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Ayurveda-Shatavari-Wellness-Reproductive-Medicine/dp/B0CGD48KVL/ref=sr_1_46?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/40weSMt
 price: "199"
 star_rating: "5.0"
 ---
