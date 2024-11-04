@@ -6,7 +6,7 @@ image: /images/blog/sesa-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Kumkumadi-Provides-Moisturization-Dermatalogially-Suitable/dp/B0BZSJGFKB/ref=sr_1_22_sspa?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3YPiR5o
 price: "283"
 star_rating: "4.0"
 ---
