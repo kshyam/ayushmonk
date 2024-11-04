@@ -7,7 +7,7 @@ image: /images/blog/simply-earth-amba-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Simply-Earth-Immunity-Anti-Oxidant-Anti-Inflammatory/dp/B0CB3YSTHD/ref=sr_1_18?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/4fzJe5b
 price: "199"
 star_rating: "4.5"
 ---
