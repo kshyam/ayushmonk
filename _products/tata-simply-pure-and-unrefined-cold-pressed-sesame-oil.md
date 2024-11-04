@@ -7,7 +7,7 @@ image: /images/blog/anjali-cold-pressed-gingelly-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Anjali-Gingelly-Sesame-Oil-Lt/dp/B0837ST4ST/ref=sr_1_2_sspa?crid=A4KOR1T28SZX&tag=m0150-21
+buy_now_link: https://amzn.to/3C62VTt
 price: "1444"
 star_rating: "4.3"
 ---
