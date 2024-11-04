@@ -1,5 +1,5 @@
 ---
-title: "Kapiva Ashwagandha Gold Capsules, "
+title: Kapiva Ashwagandha Gold Capsules
 description: Kapiva Ashwagandha Gold Capsules are a premium blend of potent
   Nagori Ashwagandha,
 image: /images/blog/kapiva-ashwagandha-gold-capsules-183rd-day-harvested-potent-nagori-ashwagandha-with-gold-shilajit-helps-in-stress-management-improve-energy-and-stamina-for-men-and-women-60-capsules.webp
