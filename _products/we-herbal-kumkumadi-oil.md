@@ -7,7 +7,7 @@ image: /images/blog/we-herbal-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Oil-Properties-Sandalwood-Facial-Artificial/dp/B0C6GS4JK1/ref=sr_1_42?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3Cgxxly
 price: "1299"
 star_rating: "4.6"
 ---
