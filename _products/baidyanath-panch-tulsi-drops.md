@@ -6,7 +6,7 @@ image: /images/blog/baidyanath-panch-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Baidyanath-Antiviral-Antibacterial-Increases-resistance/dp/B09JWR8TK3/ref=sr_1_3_sspa?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/4fagNec
 price: "135"
 star_rating: "4.3"
 ---
