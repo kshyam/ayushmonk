@@ -6,7 +6,7 @@ image: /images/blog/inlife-tulsi-capsules.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Extract-Supplement-Immunity-Respiratory-Wellness/dp/B08DYC45PS/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
+buy_now_link: https://amzn.to/3UCtru2
 price: "284"
 star_rating: "4.2"
 ---
