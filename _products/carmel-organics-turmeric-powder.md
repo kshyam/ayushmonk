@@ -6,7 +6,7 @@ image: /images/blog/carmel-organics-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/CARMEL-ORGANICS-Organic-Turmeric-Powder/dp/B07RCH6YZ6/ref=sr_1_9?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/3AtFKlJ
 price: "199"
 star_rating: "4.3"
 ---
