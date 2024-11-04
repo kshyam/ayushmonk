@@ -7,7 +7,7 @@ image: /images/blog/pantai-norasingh-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Pantai-Sesame-Oil-200ml/dp/B00V4TY1AG/ref=sr_1_20?crid=1GVBV0I1R8IFF&tag=m0150-21
+buy_now_link: https://amzn.to/3NV58DS
 price: "525"
 star_rating: "4.7"
 ---
