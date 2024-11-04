@@ -7,7 +7,7 @@ image: /images/blog/soulflower-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi
-buy_now_link: https://www.amazon.in/Soulflower-Natural-Kumkumadi-Precious-Saffron/dp/B07VVK9W2K/ref=sxin_12_pa_sp_search_thematic_sspa?content-id=amzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97%3Aamzn1.sym.cd33fa60-47cd-49f3-80b8-24b1f0cbef97&tag=m0150-21
+buy_now_link: https://amzn.to/4fugp9X
 price: "999"
 star_rating: "4.1"
 ---
