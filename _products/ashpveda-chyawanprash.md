@@ -7,7 +7,7 @@ image: /images/blog/ashpveda-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Ashpveda-Amritprash-Ayurvedic-Chyawanprash-Ashwagandha/dp/B0B3DXYDP6/ref=sr_1_47?crid=1A6EBHCVM05PF&tag=m0150-21
+buy_now_link: https://amzn.to/48ygiYG
 price: "811"
 star_rating: "4.2"
 ---
