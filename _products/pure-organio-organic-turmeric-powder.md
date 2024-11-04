@@ -6,7 +6,7 @@ image: /images/blog/pure-organio-organic-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Pure-Organio-Turmeric-Organic-Curcumin/dp/B096P4GGW9/ref=sr_1_20?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/4emSZmg
 price: "305"
 star_rating: "4.4"
 ---
