@@ -7,7 +7,7 @@ image: /images/blog/myherb-shatavari-powder.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Shatavari-Asparagus-racemosus-Promotes-Women-227/dp/B08MD34HNT/ref=sr_1_30?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/4hrdroJ
 price: "269"
 star_rating: "4.2"
 ---
