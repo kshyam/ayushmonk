@@ -7,7 +7,7 @@ image: /images/blog/true-elements-raw-white-sesame-seeds.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/True-Elements-White-Sesame-Seeds/dp/B0C2KP5G56/ref=sr_1_2_sspa?crid=173YN8X11JPPK&tag=m0150-21
+buy_now_link: https://amzn.to/4enug1a
 price: "299"
 star_rating: "4.5"
 ---
