@@ -8,7 +8,7 @@ image: /images/blog/dabur-ashwagandha-capsules-immunity-booster.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/DABUR-Ashwagandha-Capsules-Immunity-Booster/dp/B087X9XS1K/ref=sr_1_15?tag=m0150-21&th=1
+buy_now_link: https://amzn.to/4fxJRvM
 price: "61"
 star_rating: "4"
 ---
