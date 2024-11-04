@@ -7,7 +7,7 @@ image: /images/blog/boldfit-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Boldfit-BOLDVEDA-Antioxidants-Immunity-Boosting/dp/B09BKTBVZM/ref=sr_1_13?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/3NSYvC9
 price: "149"
 star_rating: "4.0"
 ---
