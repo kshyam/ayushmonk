@@ -6,7 +6,7 @@ image: /images/blog/auravedic-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Auravedic-Kumkumadi-Glowing-Pigmentation-Removal/dp/B09NPQ69SS/ref=sr_1_17?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3C79J3e
 price: "340"
 star_rating: "4.1"
 ---
