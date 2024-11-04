@@ -6,7 +6,7 @@ image: /images/blog/kapiva-ashwagandha-gold-capsules-183rd-day-harvested-potent-
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Kapiva-Ashwagandha-Capsules-harvested-Management/dp/B0B3DS83YC/ref=sr_1_7?crid=3PBT1M0JOC2X2&tag=m0150-21&th=1
+buy_now_link: https://amzn.to/3NOJHVc
 price: "449"
 star_rating: "4"
 ---
