@@ -7,7 +7,7 @@ image: /images/blog/avp-ayurvedic-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/AVP-Ayurvedic-Brightening-Pigmentation-Sandalwood/dp/B0CTHLG1DM/ref=sr_1_3_sspa?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3NQD3xN
 price: "689"
 star_rating: "4.1"
 ---
