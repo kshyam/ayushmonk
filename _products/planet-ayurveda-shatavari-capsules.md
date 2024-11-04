@@ -7,7 +7,7 @@ image: /images/blog/planet-ayurveda-shatavari-capsules.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Planet-Ayurveda-Shatavari-Capsules-Female/dp/B09KNLT14H/ref=sr_1_52?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/48wOmVj
 price: "1154"
 star_rating: "5.0"
 ---
