@@ -7,7 +7,7 @@ image: /images/blog/jiva-chyawanprash-goodness-of-ayurveda-100-pure-and-natural-
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Jiva-Chyawanprash-Goodness-Vitamin-C-Rejuvinator/dp/B077QQ8TZ2/ref=tag=m0150-21?th=1
+buy_now_link: https://amzn.to/3Cgcwr1
 price: "349"
 star_rating: "4.2"
 ---
