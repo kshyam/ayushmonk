@@ -7,7 +7,7 @@ image: /images/blog/anveshan-wood-pressed-black-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Anveshan-Pressed-Sesame-Wooden-Chekku/dp/B084S9STM8/ref=sr_1_6?crid=A4KOR1T28SZX&tag=m0150-21
+buy_now_link: https://amzn.to/48HqWN6
 price: "599"
 star_rating: "4.4"
 ---
