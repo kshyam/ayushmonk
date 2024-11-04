@@ -7,7 +7,7 @@ image: /images/blog/herb-essential-shatavari-powder.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Herb-Essential-Pure-Shatavari-Powder/dp/B07DCP8TL2/ref=sr_1_27?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/3YOE5QR
 price: "295"
 star_rating: "4.0"
 ---
