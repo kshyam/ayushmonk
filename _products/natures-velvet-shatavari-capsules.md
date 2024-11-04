@@ -7,7 +7,7 @@ image: /images/blog/natures-velvet-shatavari-capsules.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Natures-Velvet-Extract-Shatavari-Tablet/dp/B00S2TC5GS/ref=sr_1_48?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/3UAQMfO
 price: "386"
 star_rating: "4.3"
 ---
