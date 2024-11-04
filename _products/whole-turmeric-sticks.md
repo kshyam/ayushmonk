@@ -6,7 +6,7 @@ image: /images/blog/whole-turmeric-sticks.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/Whole-Turmeric-Sticks-250g-Organically-Grown/dp/B0B578FJTQ/ref=sr_1_26?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/3AhBXIe
 price: "229"
 star_rating: "5.0"
 ---
