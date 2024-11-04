@@ -7,7 +7,7 @@ image: /images/blog/dhootapapeshwar-shatavari-granules.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Dhootapapeshwar-Shatavari-kalpa-Granules-600/dp/B07Q38CXB9/ref=sr_1_8?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/4f7xNSc
 price: "424"
 star_rating: "4.3"
 ---
