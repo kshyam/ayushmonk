@@ -7,7 +7,7 @@ image: /images/blog/pokonut-24k-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Pokonut-Kumkumadi-Infused-Saffron-Glowing/dp/B0CG3KM2DT/ref=sr_1_28?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/40qXk4q
 price: "309"
 star_rating: "4.7"
 ---
