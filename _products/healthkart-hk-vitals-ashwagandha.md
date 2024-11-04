@@ -6,7 +6,7 @@ image: /images/blog/healthkart-hk-vitals-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/HealthKart-Ashwagandha-Extract-60-Capsules/dp/B01N5HXPGW/ref=sr_1_29?crid=1GYTAEQXSPQJD&tag=m0150-21
+buy_now_link: https://amzn.to/3YNzNtd
 price: "349"
 star_rating: "4.2"
 ---
