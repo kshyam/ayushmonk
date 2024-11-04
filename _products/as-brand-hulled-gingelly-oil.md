@@ -6,7 +6,7 @@ image: /images/blog/sesone-tosuto-premium-toasted-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Sesone-Tosuto-additives-preservatives-Artificial/dp/B0BNL48TW7/ref=sr_1_32?crid=A4KOR1T28SZX&tag=m0150-21
+buy_now_link: https://amzn.to/3NUimki
 price: "440"
 star_rating: "4.7"
 ---
