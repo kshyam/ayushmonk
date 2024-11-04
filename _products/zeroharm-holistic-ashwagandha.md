@@ -7,7 +7,7 @@ image: /images/blog/zeroharm-holistic-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/ZEROHARM-Holistic-Ashwagandha-Anti-Inflammation-Bioavailable/dp/B09N1LQ5ZM/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6%3Aamzn1.sym.5f0af06c-b5c9-4e71-bd04-2954cdf89bd6&tag=m0150-21
+buy_now_link: https://amzn.to/4fgRJCf
 price: "521"
 star_rating: "4.3"
 ---
