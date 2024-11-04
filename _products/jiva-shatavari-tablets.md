@@ -7,7 +7,7 @@ image: /images/blog/jiva-shatavari-tablets.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Jiva-Shatavari-120Tablets-strengthens-reproductive/dp/B08N6JZTVW/ref=sr_1_31?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/3AoSIkK
 price: "428"
 star_rating: "4.2"
 ---
