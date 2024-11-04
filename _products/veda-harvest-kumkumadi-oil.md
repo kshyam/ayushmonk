@@ -7,7 +7,7 @@ image: /images/blog/veda-harvest-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/kumkumadi-Kumkumadi-brightening-Prevents-pigmentation/dp/B0CP66KWRR/ref=sr_1_8?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/4fbxGVE
 price: "349"
 star_rating: "4.4"
 ---
