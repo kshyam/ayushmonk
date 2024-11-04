@@ -7,7 +7,7 @@ image: /images/blog/himalaya-tulsi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Himalaya-Wellness-Herbs-Tulasi-Respiratory/dp/B006WXFZC2/ref=sr_1_7?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/3UCthCW
 price: "183"
 star_rating: "4.3"
 ---
