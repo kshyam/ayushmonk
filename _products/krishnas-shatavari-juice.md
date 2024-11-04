@@ -7,7 +7,7 @@ image: /images/blog/krishna-s-shatavari-juice.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Krishnas-Herbal-Ayurveda-SHATAVARI-JUICE/dp/B07B3TP8MN/ref=sr_1_36?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/3ACEcFX
 price: "220"
 star_rating: "4.1"
 ---
