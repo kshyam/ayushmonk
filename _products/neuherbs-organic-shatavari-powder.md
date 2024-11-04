@@ -7,7 +7,7 @@ image: /images/blog/neuherbs-organic-shatavari-powder.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Neuherbs-Shatavari-Ayurvedic-Supplement-Reproductive/dp/B0BF9WT254/ref=sr_1_9?crid=3QWSY64EZC63C&tag=m0150-21
+buy_now_link: https://amzn.to/40rECcU
 price: "189"
 star_rating: "4.1"
 ---
