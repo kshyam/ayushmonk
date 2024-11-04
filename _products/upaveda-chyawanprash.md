@@ -7,7 +7,7 @@ image: /images/blog/upaveda-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Upaveda-Chyawanprash-Immunity-Enhances-Strength/dp/B0C393N9GQ/ref=sr_1_51?crid=1A6EBHCVM05PF&tag=m0150-21
+buy_now_link: https://amzn.to/3YPOJa4
 price: "470"
 star_rating: "4.3"
 ---
