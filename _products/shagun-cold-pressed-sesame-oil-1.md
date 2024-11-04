@@ -7,7 +7,7 @@ image: /images/blog/shagun-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Shagun-Pressed-Gingelly-Cooking-Massage/dp/B0CFV1DH6X/ref=sr_1_8?crid=1GVBV0I1R8IFF&tag=m0150-21
+buy_now_link: https://amzn.to/3NV5ri0
 price: "348"
 star_rating: "4.1"
 ---
