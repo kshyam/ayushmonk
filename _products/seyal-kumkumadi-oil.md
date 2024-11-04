@@ -7,7 +7,7 @@ image: /images/blog/seyal-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Seyal-Kumkumadi-Saffron-Manjistha-Therapeutic/dp/B086244BH4/ref=sr_1_43?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/3YOmJns
 price: "389"
 star_rating: "4.0"
 ---
