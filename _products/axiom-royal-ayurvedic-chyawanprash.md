@@ -6,7 +6,7 @@ image: /images/blog/axiom-royal-ayurvedic-chyawanprash.jpg
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Axiom-Ayurvedic-Chyawanprash-Certified-Artificial/dp/B08P4ZZPPX/ref=sr_1_24_sspa?crid=1A6EBHCVM05PF&tag=m0150-21
+buy_now_link: https://amzn.to/4fbFgQi
 price: "1499"
 star_rating: "4.2"
 ---
