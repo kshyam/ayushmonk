@@ -7,7 +7,7 @@ image: /images/blog/ayantara-himalayan-ashwagandha.jpg
 layout: product
 permalink: products/:title
 category: Ashwagandha
-buy_now_link: https://www.amazon.in/Ayantara-Himalayan-Ashwagandha-Preservatives-Effective/dp/B0CLB79MCQ/ref=sr_1_58_sspa?crid=1GYTAEQXSPQJD&tag=m0150-21
+buy_now_link: https://amzn.to/3YQnVqs
 price: "450"
 star_rating: "4.8"
 ---
