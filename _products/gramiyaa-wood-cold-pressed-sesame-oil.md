@@ -7,7 +7,7 @@ image: /images/blog/gramiyaa-wood-cold-pressed-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Gramiyaa-Pressed-Black-Sesame-Peanut/dp/B07TJJ3HDS/ref=sr_1_12?crid=A4KOR1T28SZX&tag=m0150-21
+buy_now_link: https://amzn.to/3AeCWcc
 price: "616"
 star_rating: "4.8"
 ---
