@@ -7,7 +7,7 @@ image: /images/blog/anantayu-shatavari-granules.jpg
 layout: product
 permalink: products/:title
 category: Shatavari
-buy_now_link: https://www.amazon.in/Anantayu-Shatavari-Ayurvedic-Lactation-Supplement/dp/B0D8VQS44L/ref=sr_1_50?crid=1RR0SQTKSAHO6&tag=m0150-21
+buy_now_link: https://amzn.to/48xtqgI
 price: "359"
 star_rating: "5.0"
 ---
