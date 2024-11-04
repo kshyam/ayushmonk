@@ -7,7 +7,7 @@ image: /images/blog/imc-shri-tulsi.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/SHRI-TULSI-20ML-pack-3/dp/B08BPJYJ2K/ref=sr_1_8_mod_primary_new?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/3NQrCG2
 price: "485"
 star_rating: "4.4"
 ---
