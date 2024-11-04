@@ -6,7 +6,7 @@ image: /images/blog/jiva-tulsi-drops.jpg
 layout: product
 permalink: products/:title
 category: Tulsi
-buy_now_link: https://www.amazon.in/Jiva-Panch-Tulsi-Drops-Immunity/dp/B093KRQ7MS/ref=sr_1_29?crid=1WSOVR85O2K5K&tag=m0150-21
+buy_now_link: https://amzn.to/4ftmgwo
 price: "200"
 star_rating: "4.2"
 ---
