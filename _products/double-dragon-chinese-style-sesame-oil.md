@@ -7,7 +7,7 @@ image: /images/blog/double-dragon-chinese-style-sesame-oil.jpg
 layout: product
 permalink: products/:title
 category: Sesame
-buy_now_link: https://www.amazon.in/Double-Dragon-Sesame-Oil-Bottle/dp/B089RJSLG8/ref=sr_1_30?crid=1GVBV0I1R8IFF&tag=m0150-21
+buy_now_link: https://amzn.to/4hqT370
 price: "729"
 star_rating: "4.6"
 ---
