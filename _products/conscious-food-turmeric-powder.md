@@ -7,7 +7,7 @@ image: /images/blog/first-bud-turmeric-powder.jpg
 layout: product
 permalink: products/:title
 category: Turmeric
-buy_now_link: https://www.amazon.in/First-Bud-Organics-Lakadong-Turmeric/dp/B081YJZG9P/ref=sr_1_7?crid=1IBX4K52DVNNJ&tag=m0150-21
+buy_now_link: https://amzn.to/3YOTmkG
 price: "319"
 star_rating: "4.3"
 ---
