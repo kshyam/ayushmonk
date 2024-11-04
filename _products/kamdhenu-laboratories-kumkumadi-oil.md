@@ -7,7 +7,7 @@ image: /images/blog/kamdhenu-laboratories-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/Kamdhenu-Kumkumadi-Taila-50ml-oil/dp/B082ZHN99W/ref=sr_1_7?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/48yMnzG
 price: "393"
 star_rating: "4.2"
 ---
