@@ -6,7 +6,7 @@ image: /images/blog/tac-kumkumadi-oil.jpg
 layout: product
 permalink: products/:title
 category: Kumkumadi Oil
-buy_now_link: https://www.amazon.in/TAC-Kumkumadi-Anti-Ageing-Pigmentation-Sandalwood/dp/B09RWL87BR/ref=sr_1_13?crid=18A5C0Q4K6NJM&tag=m0150-21
+buy_now_link: https://amzn.to/48wmosJ
 price: "699"
 star_rating: "4.0"
 ---
