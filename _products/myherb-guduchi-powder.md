@@ -7,7 +7,7 @@ image: /images/blog/myherb-guduchi-powder.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Guduchi-Powder-Tinospora-cordifolia-Metabolism/dp/B08MTZPL1C/ref=sr_1_10?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/3UyOH48
 price: "145"
 star_rating: "4.1"
 ---
