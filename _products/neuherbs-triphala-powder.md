@@ -7,7 +7,7 @@ image: /images/blog/neuherbs-triphala-powder.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Neuherbs-Ayurvedic-Intestinal-Constipation-Supplement/dp/B0BFB65WWN/ref=sr_1_40?crid=3AE0V1J1E19HZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YsnLUI
 price: "189"
 star_rating: "4.3"
 ---
