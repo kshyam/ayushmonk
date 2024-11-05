@@ -8,7 +8,7 @@ image: /images/blog/erthri-moringa-tablets.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/ERTHRI-Drumstick-Immunity-Digestion-Appetite/dp/B0D1KLRRHW/ref=sr_1_16?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/3YCQlmx
 price: "499"
 star_rating: "4.8"
 ---
