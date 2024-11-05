@@ -6,7 +6,7 @@ image: /images/blog/jain-dried-amla-powder.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Powder-Natural-Indian-Gooseberry-Anti-Oxidant/dp/B015Y1AHHK/ref=sr_1_41?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/3NRqVwr
 price: "522"
 star_rating: "4.1"
 ---
