@@ -8,7 +8,7 @@ image: /images/blog/zandu-organic-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Zandu-Ayurvedic-Immunity-Infections-Vegetarian/dp/B0CVQ86PNL/ref=sr_1_2_sspa?crid=2RC2ILXDK0KYX&tag=m0150-21
+buy_now_link: https://amzn.to/3Cbm2vF
 price: "149"
 star_rating: "4.5"
 ---
