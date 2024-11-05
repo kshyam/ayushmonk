@@ -6,7 +6,7 @@ image: /images/blog/maharishi-ayurveda-organic-neem-tablets.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Maharishi-Ayurveda-Purifier-Improves-Detoxification/dp/B09WN5ZG39/ref=sr_1_4_sspa?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/3CdFBmR
 price: "254"
 star_rating: "4.1"
 ---
