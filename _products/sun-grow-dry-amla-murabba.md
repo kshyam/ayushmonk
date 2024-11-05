@@ -7,7 +7,7 @@ image: /images/blog/sun-grow-dry-amla-murabba.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Sun-Grow-Natural-Murabba-Ingredient/dp/B07WXPSQ6R/ref=sr_1_28?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/48ACHVj
 price: "399"
 star_rating: "4.0"
 ---
