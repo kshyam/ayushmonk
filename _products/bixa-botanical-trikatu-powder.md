@@ -7,7 +7,7 @@ image: /images/blog/bixa-botanical-trikatu-powder.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Preparation-Supports-Digestion-Metabolic-Functions/dp/B07JLV61QB/ref=sr_1_12?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4ekWQ2W
 price: "535"
 star_rating: "4.0"
 ---
