@@ -7,7 +7,7 @@ image: /images/blog/online-quality-store-neem-powder.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Online-Quality-Store-organic-azadirachta/dp/B07HJ4X324/ref=sr_1_20?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/3YypSXe
 price: "76"
 star_rating: "4.1"
 ---
