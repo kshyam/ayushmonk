@@ -7,7 +7,7 @@ image: /images/blog/miduty-stress-and-anxiety-relief-capsules.jpg
 layout: product
 permalink: products/:title
 category: Stress and Anxiety
-buy_now_link: https://www.amazon.in/Miduty-Palak-Notes-Anxiety-supplement/dp/B0CG5N4BSL/ref=sr_1_11?crid=1W9ZDFHSL4M4F&tag=m0150-21
+buy_now_link: https://amzn.to/3YRN7gd
 price: "1349"
 star_rating: "4.4"
 ---
