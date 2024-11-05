@@ -7,7 +7,7 @@ image: /images/blog/dharamchand-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Dharamchand-Triphala-Ratio-Baheda-%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AB%E0%A4%B2%E0%A4%BE/dp/B0BY989QGG/ref=sr_1_49?crid=3AE0V1J1E19HZ&tag=m0150-21
+buy_now_link: https://amzn.to/3NS2zCP
 price: "425"
 star_rating: "4.1"
 ---
