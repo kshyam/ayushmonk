@@ -6,7 +6,7 @@ image: /images/blog/wellness-mantra-amritanand-stress-and-anxiety-capsules.jpg
 layout: product
 permalink: products/:title
 category: Stress and Anxiety
-buy_now_link: https://www.amazon.in/Wellness-AmritAnand-Ayurvedic-Ashwagandha-Jatamansi/dp/B0BYZQW7KM/ref=sr_1_7?crid=1W9ZDFHSL4M4F&tag=m0150-21
+buy_now_link: https://amzn.to/3AEVORw
 price: "459"
 star_rating: "4.5"
 ---
