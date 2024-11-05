@@ -7,7 +7,7 @@ image: /images/blog/raayancha-herbals-trikatu-churna.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Digestive-problems-ayurvedic-ingredients-combination/dp/B08W3NDXZH/ref=sr_1_8?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4hvAa2N
 price: "160"
 star_rating: "4.0"
 ---
