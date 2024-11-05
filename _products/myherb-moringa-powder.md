@@ -7,7 +7,7 @@ image: /images/blog/myherb-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Natural-Organic-Moringa-Powder-Protein/dp/B08MCDTGHQ/ref=sr_1_6?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/3CnAccS
 price: "195"
 star_rating: "4.6"
 ---
