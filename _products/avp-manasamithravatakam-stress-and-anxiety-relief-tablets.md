@@ -7,7 +7,7 @@ image: /images/blog/avp-manasamithravatakam-stress-and-anxiety-relief-tablets.jp
 layout: product
 permalink: products/:title
 category: Stress and Anxiety
-buy_now_link: https://www.amazon.in/AVP-Manasamithravatakam-Tablet-Metabolic-Rejuvinates/dp/B0CK8K2C2H/ref=sr_1_3_sspa?crid=1W9ZDFHSL4M4F&tag=m0150-21
+buy_now_link: https://amzn.to/48DjgeB
 price: "1700"
 star_rating: "4.7"
 ---
