@@ -6,7 +6,7 @@ image: /images/blog/organic-india-neem-capsules.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Organic-India-OI-NC60-NEEM-90-Count/dp/B003PGCU4A/ref=sr_1_5?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/3NUE6fZ
 price: "209"
 star_rating: "4.4"
 ---
