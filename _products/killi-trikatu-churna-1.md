@@ -7,7 +7,7 @@ image: /images/blog/killi-trikatu-churna.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/KILLI-Thirikadugam-Powder-100g-Pack/dp/B07FC4YYGC/ref=sr_1_50_sspa?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/3NVE47w
 price: "620"
 star_rating: "4.3"
 ---
