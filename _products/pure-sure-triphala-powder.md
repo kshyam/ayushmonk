@@ -7,7 +7,7 @@ image: /images/blog/pure-sure-triphala-powder.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Pure-Sure-Organic-Triphala-Powder/dp/B08JHVN4M3/ref=sr_1_54?crid=85VQ340XNKNX&tag=m0150-21
+buy_now_link: https://amzn.to/48S9GF3
 price: "150"
 star_rating: "4.1"
 ---
