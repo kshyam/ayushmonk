@@ -7,7 +7,7 @@ image: /images/blog/carmel-organics-neem-leaves-powder.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/CARMEL-ORGANICS-Certified-Azadirachta-Preservative/dp/B08DJ5L58W/ref=sr_1_9?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/3YRekQ3
 price: "255"
 star_rating: "4.4"
 ---
