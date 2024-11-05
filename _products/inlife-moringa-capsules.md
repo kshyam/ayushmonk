@@ -7,7 +7,7 @@ image: /images/blog/inlife-moringa-capsules.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/INLIFE-Moringa-Oleifera-Extract-Supplement/dp/B07M9L79ZZ/ref=sr_1_24_sspa?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/40siL58
 price: "284"
 star_rating: "4.0"
 ---
