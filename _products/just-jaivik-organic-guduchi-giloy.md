@@ -7,7 +7,7 @@ image: /images/blog/just-jaivik-organic-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Just-Jaivik-Tinospora-Cordifolia-Supplements/dp/B07SB6MC3S/ref=sr_1_4_sspa?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/3AtOOqI
 price: "208"
 star_rating: "4.1"
 ---
