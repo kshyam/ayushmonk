@@ -6,7 +6,7 @@ image: /images/blog/nutrela-moringa-tablets.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/NUTRELA-1000-Moringa-Immunity-Digestion/dp/B0CZF5LSD5/ref=sr_1_28?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/4fyHl8Q
 price: "170"
 star_rating: "4.0"
 ---
