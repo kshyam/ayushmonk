@@ -7,7 +7,7 @@ image: /images/blog/killi-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Guduchi-Seenthil-Chittamruthu-Amruthaballi-Powder/dp/B00WMMB0KI/ref=sr_1_42?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/3Ysqspi
 price: "340"
 star_rating: "5.0"
 ---
