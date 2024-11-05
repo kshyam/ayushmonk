@@ -7,7 +7,7 @@ image: /images/blog/botnik-essentials-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/BOTNIK-ESSENTIALS-100-Organic-Triphala/dp/B07R9K59YR/ref=sr_1_44?crid=3AE0V1J1E19HZ&tag=m0150-21
+buy_now_link: https://amzn.to/48zGL8s
 price: "251"
 star_rating: "4.0"
 ---
