@@ -7,7 +7,7 @@ image: /images/blog/maharishi-ayurveda-triphala.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Maharishi-Ayurveda-Digestion-Constipation-Ayurvedic/dp/B0BZV8Y135/ref=sr_1_1_sspa?crid=3AE0V1J1E19HZ&tag=m0150-21
+buy_now_link: https://amzn.to/4hx6QsN
 price: "199"
 star_rating: "4.2"
 ---
