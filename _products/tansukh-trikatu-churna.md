@@ -7,7 +7,7 @@ image: /images/blog/tansukh-trikatu-churna.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/TANSUKH-Trikatu-Thirikadugam-Combination-peppers/dp/B08578SDN5/ref=sr_1_2_sspa?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/3YyDCB6
 price: "239"
 star_rating: "4.2"
 ---
