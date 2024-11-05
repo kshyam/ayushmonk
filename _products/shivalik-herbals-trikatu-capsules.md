@@ -7,7 +7,7 @@ image: /images/blog/shivalik-herbals-trikatu-capsules.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Trikatu-Special-Urinary-Infection-Problems/dp/B07FXTBR25/ref=sr_1_45?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4hCHmdM
 price: "729"
 star_rating: "5.0"
 ---
