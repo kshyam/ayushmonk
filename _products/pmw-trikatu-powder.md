@@ -6,7 +6,7 @@ image: /images/blog/pmw-trikatu-powder.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Grade-Quality-Trikatu-Powder-Packed/dp/B07D3XC8LX/ref=sr_1_17?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/3YAA8hF
 price: "199"
 star_rating: "4.3"
 ---
