@@ -7,7 +7,7 @@ image: /images/blog/pure-nutrition-organic-moringa.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Pure-Nutrition-Organic-Moringa-1200mg/dp/B0D58N5F3B/ref=sr_1_30?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/4fsswVL
 price: "330"
 star_rating: "4.8"
 ---
