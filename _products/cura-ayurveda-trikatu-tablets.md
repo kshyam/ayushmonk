@@ -6,7 +6,7 @@ image: /images/blog/cura-ayurveda-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Ayurveda-Respiratory-Metabolism-Digestive-Capsules_Boost/dp/B0CFTZ6WYT/ref=sr_1_15?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/3AvTAUB
 price: "199"
 star_rating: "5.0"
 ---
