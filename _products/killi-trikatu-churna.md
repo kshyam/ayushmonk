@@ -8,7 +8,7 @@ image: /images/blog/himalaya-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Himalaya-Trikatu-Digestive-Wellness-Tablets/dp/B01K7PR87U/ref=sr_1_5?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4fu8rxE
 price: "167"
 star_rating: "4.2"
 ---
