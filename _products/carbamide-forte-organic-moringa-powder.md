@@ -7,7 +7,7 @@ image: /images/blog/carbamide-forte-organic-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/100-Organic-Moringa-Powder-Certified/dp/B09NNGLHTP/ref=sr_1_13?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/4hARVO9
 price: "218"
 star_rating: "4.2"
 ---
