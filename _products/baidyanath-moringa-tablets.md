@@ -7,7 +7,7 @@ image: /images/blog/baidyanath-moringa-tablets.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Baidyanath-maintaining-wellness-Metabolism-Digestion/dp/B0B1VFG7CV/ref=sr_1_9?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/3UDO75b
 price: "147"
 star_rating: "4.1"
 ---
