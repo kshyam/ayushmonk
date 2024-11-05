@@ -6,7 +6,7 @@ image: /images/blog/origine-naturespired-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Naturespired-Digestive-Supplement-Naturally-Multivitamin/dp/B09JWJHPBZ/ref=sr_1_19?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/40DOJvr
 price: "178"
 star_rating: "4.0"
 ---
