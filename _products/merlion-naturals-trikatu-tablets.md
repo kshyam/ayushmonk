@@ -7,7 +7,7 @@ image: /images/blog/merlion-naturals-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Merlion-Naturals-Trikatu-Tablets-Pippali/dp/B08KMRVW3K/ref=sr_1_10?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4f9HtMf
 price: "284"
 star_rating: "4.5"
 ---
