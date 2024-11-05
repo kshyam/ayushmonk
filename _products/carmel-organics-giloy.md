@@ -6,7 +6,7 @@ image: /images/blog/carmel-organics-guduchi.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Certified-Amruthavalli-Tinospora-cordifolia-Preservative/dp/B08CHGD429/ref=sr_1_9?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/4f9ClYn
 price: "265"
 star_rating: "4.0"
 ---
