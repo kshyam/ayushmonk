@@ -7,7 +7,7 @@ image: /images/blog/neuherbs-organic-moringa-powder.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Neuherbs-Drumstick-Antioxidant-Digestion-Certified/dp/B0D9Q8F954/ref=sr_1_32?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/3YsmBIQ
 price: "199"
 star_rating: "4.1"
 ---
