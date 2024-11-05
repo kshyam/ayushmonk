@@ -7,7 +7,7 @@ image: /images/blog/dabur-trikatu-churna.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Dabur-Trikatu-Churna-100-g/dp/B097SXGD25/ref=sr_1_14?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/3NXo3y5
 price: "130"
 star_rating: "4.0"
 ---
