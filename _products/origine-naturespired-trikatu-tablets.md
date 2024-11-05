@@ -6,7 +6,7 @@ image: /images/blog/origine-naturespired-trikatu-tablets.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://amzn.to/40DOJvr
+buy_now_link: https://amzn.to/4hBbjLe
 price: "178"
 star_rating: "4.0"
 ---
