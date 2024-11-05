@@ -6,7 +6,7 @@ image: /images/blog/siddhayu-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Siddhayu-Tablets-Baidyanath-Immunity-Purification/dp/B09K5H22QL/ref=sr_1_22_sspa?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/40toAPK
 price: "119"
 star_rating: "4.2"
 ---
