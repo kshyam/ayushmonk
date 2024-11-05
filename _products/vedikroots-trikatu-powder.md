@@ -7,7 +7,7 @@ image: /images/blog/vedikroots-trikatu-powder.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Vedikroots-Trikatu-Powder-Ingredients-Enhancing/dp/B0C9J7WP1J/ref=sr_1_6?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4fQUvOH
 price: "299"
 star_rating: "4.5"
 ---
