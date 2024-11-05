@@ -6,7 +6,7 @@ image: /images/blog/zandu-amla-juice.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Zandu-Herbs-Health-Juice-1000ml/dp/B08MLP4S4G/ref=sr_1_37?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/4fxAOuP
 price: "193"
 star_rating: "4.1"
 ---
