@@ -7,7 +7,7 @@ image: /images/blog/ecoherb-guduchi-tablets.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/ECOHERB-Guduchi-Ghanvati-immunity-strengthens/dp/B0CFYVZ1YB/ref=sr_1_34?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/3YSkAHq
 price: "144"
 star_rating: "4.5"
 ---
