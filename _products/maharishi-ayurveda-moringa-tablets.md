@@ -7,7 +7,7 @@ image: /images/blog/maharishi-ayurveda-moringa-tablets.jpg
 layout: product
 permalink: products/:title
 category: Moringa
-buy_now_link: https://www.amazon.in/Maharishi-Ayurveda-Digestion-Cholestrol-Inflammatory/dp/B09W2GYXHN/ref=sr_1_29?crid=JPSHXC1IUKVG&tag=m0150-21
+buy_now_link: https://amzn.to/40zmZrF
 price: "152"
 star_rating: "4.0"
 ---
