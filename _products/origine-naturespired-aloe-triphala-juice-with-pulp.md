@@ -6,7 +6,7 @@ image: /images/blog/origine-naturespired-aloe-triphala-juice-with-pulp.jpg
 layout: product
 permalink: products/:title
 category: Triphala
-buy_now_link: https://www.amazon.in/Naturespired-Constipation-Digestion-Ayurvedic-including/dp/B09JZQ6Z56/ref=sr_1_59_sspa?crid=3AE0V1J1E19HZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YRrxZ1
 price: "279"
 star_rating: "5.0"
 ---
