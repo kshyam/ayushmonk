@@ -6,7 +6,7 @@ image: /images/blog/saptamveda-amla-powder.jpg
 layout: product
 permalink: products/:title
 category: Amla
-buy_now_link: https://www.amazon.in/Saptamveda-Premium-Gooseberry-Drinking-Nourishment/dp/B08KHMJYFT/ref=sr_1_17?crid=9NCKR3RZI9QI&tag=m0150-21
+buy_now_link: https://amzn.to/4hz79mU
 price: "159"
 star_rating: "4.0"
 ---
