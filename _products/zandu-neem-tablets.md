@@ -6,7 +6,7 @@ image: /images/blog/zandu-neem-tablets.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Zandu-Ayurvedic-Purifying-Properties-Vegetarian/dp/B0CVQ85MQ9/ref=sr_1_39?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/48ERm24
 price: "149"
 star_rating: "4.7"
 ---
