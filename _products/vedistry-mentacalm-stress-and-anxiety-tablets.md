@@ -6,7 +6,7 @@ image: /images/blog/vedistry-mentacalm-stress-and-anxiety-tablets.jpg
 layout: product
 permalink: products/:title
 category: Stress and Anxiety
-buy_now_link: https://www.amazon.in/Mentacalm-tablets-Ayurvedic-calmness-Ashwagandha/dp/B0BZPK4GJH/ref=sr_1_12?crid=1W9ZDFHSL4M4F&tag=m0150-21
+buy_now_link: https://amzn.to/4fp486S
 price: "484"
 star_rating: "4.6"
 ---
