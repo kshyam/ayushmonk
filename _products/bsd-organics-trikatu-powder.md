@@ -8,7 +8,7 @@ image: /images/blog/bsd-organics-trikatu-powder.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/BSD-Organics-Natural-Thirikadugam-katutraya/dp/B07L9YT42N/ref=sr_1_23?crid=28URIFD9O0F0A&tag=m0150-21
+buy_now_link: https://amzn.to/4fApuht
 price: "293"
 star_rating: "5.0"
 ---
