@@ -7,7 +7,7 @@ image: /images/blog/kairali-neem-soap.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Kairali-Neem-Soap-100-G/dp/B01DVUAQE0/ref=sr_1_41?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/48DXBTr
 price: "148"
 star_rating: "4.3"
 ---
