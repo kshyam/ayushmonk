@@ -7,7 +7,7 @@ image: /images/blog/jain-guduchi-powder.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Jain-Guduchi-Tinospora-Cordifolia-Powder/dp/B075NNH3WH/ref=sr_1_15?crid=1TX1M06Q0LCMB&tag=m0150-21
+buy_now_link: https://amzn.to/4efBVhF
 price: "298"
 star_rating: "4.1"
 ---
