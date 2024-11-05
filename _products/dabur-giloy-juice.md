@@ -7,7 +7,7 @@ image: /images/blog/dabur-guduchi-juice.jpg
 layout: product
 permalink: products/:title
 category: Guduchi
-buy_now_link: https://www.amazon.in/Dabur-Giloy-Juice-Antioxidants-Detoxification/dp/B08C5T5Q3V/ref=sr_1_1_sspa?crid=2RC2ILXDK0KYX&tag=m0150-21
+buy_now_link: https://amzn.to/4fAqu5d
 price: "216"
 star_rating: "4.2"
 ---
