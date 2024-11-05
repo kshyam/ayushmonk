@@ -7,7 +7,7 @@ image: /images/blog/organic-wellness-trikatu-capsules.jpg
 layout: product
 permalink: products/:title
 category: Trikatu
-buy_now_link: https://www.amazon.in/Organic-Wellness-Trikatu-Nutritional-Supplements/dp/B01N113OEI/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.a51cfe49-81e0-4609-a5fa-40aaeb88bb2c%3Aamzn1.sym.a51cfe49-81e0-4609-a5fa-40aaeb88bb2c&tag=m0150-21
+buy_now_link: https://amzn.to/3CehDYM
 price: "229"
 star_rating: "4.2"
 ---
