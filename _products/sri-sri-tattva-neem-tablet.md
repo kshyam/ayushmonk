@@ -6,7 +6,7 @@ image: /images/blog/sri-sri-tattva-neem-tablet.jpg
 layout: product
 permalink: products/:title
 category: Neem
-buy_now_link: https://www.amazon.in/Sri-Tattva-Neem-Tablet-300mg/dp/B07JGQQS5R/ref=sr_1_33?crid=1U65A0ZJY2B5Y&tag=m0150-21
+buy_now_link: https://amzn.to/4fBgBEH
 price: "338"
 star_rating: "4.3"
 ---
