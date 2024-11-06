@@ -7,7 +7,7 @@ image: /images/blog/jovees-aloe-vera-multipurpose-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Jovees-Aloe-Vera-Multipurpose-Gel/dp/B09F9TR2DP/ref=sr_1_2_sspa?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/4hEkCK4
 price: "281"
 star_rating: "4.1"
 ---
