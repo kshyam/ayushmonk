@@ -6,7 +6,7 @@ image: /images/blog/vansaar-45-diab-balance-juice-1l-ayurvedic-diabetic-care-jui
 layout: product
 permalink: /blog/:title/
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Vansaar-Balance-Juice-Enriched-Karela/dp/B0BSLG1R2B/ref=tag=m0150-21?th=1
+buy_now_link: https://amzn.to/3UEgwrK
 price: "499"
 star_rating: "4.2"
 ---
