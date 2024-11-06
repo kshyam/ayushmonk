@@ -7,7 +7,7 @@ image: /images/blog/krishna-s-herbal-ayurveda-diabetic-care-juice.jpg
 layout: product
 permalink: products/:title
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/KRISHNAs-HERBAL-AYURVEDA-Juice-2000-Guduchi/dp/B07ZF876YX/ref=sr_1_4_sspa?crid=SRO83XQ158A7&tag=m0150-21
+buy_now_link: https://amzn.to/3YT0HzJ
 price: "855"
 star_rating: "4.2"
 ---
