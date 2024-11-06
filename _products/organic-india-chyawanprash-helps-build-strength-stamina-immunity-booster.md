@@ -7,7 +7,7 @@ image: /images/blog/organic-india-chyawanprash-helps-build-strength-and-stamina-
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/Organic-India-Chyawanprash-500Grm-Pack/dp/B01N4DWLKU/ref=tag=m0150-21&th=1?th=1
+buy_now_link: https://amzn.to/3UCP25L
 price: "523"
 star_rating: "4.3"
 ---
