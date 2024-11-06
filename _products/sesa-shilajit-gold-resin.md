@@ -7,7 +7,7 @@ image: /images/blog/koshaveda-shilajit-pro-gold-by-muscleblaze.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Koshaveda-Shilajit-MuscleBlaze-Fortified-Ashwagandha/dp/B0CVN9TQQW/ref=sr_1_10?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YC6msT
 price: "569"
 star_rating: "4"
 ---
