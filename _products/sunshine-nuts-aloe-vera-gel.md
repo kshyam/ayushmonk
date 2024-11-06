@@ -7,7 +7,7 @@ image: /images/blog/sunshine-nuts-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Sunshine-Nuts-Ultimate-Glowing-Women/dp/B0CWHGCMSQ/ref=sr_1_18?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/3UDVE3I
 price: "141"
 star_rating: "4.3"
 ---
