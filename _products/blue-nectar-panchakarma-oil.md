@@ -7,7 +7,7 @@ image: /images/blog/blue-nectar-panchakarma-oil.jpg
 layout: product
 permalink: products/:title
 category: Panchakarma Oil
-buy_now_link: https://www.amazon.in/Blue-Nectar-Ayurvedic-Massage-Muscles/dp/B01N2H7FWY/ref=sr_1_3_sspa?crid=3DV4CRBXMUHYV&tag=m0150-21
+buy_now_link: https://amzn.to/4hEeW34
 price: "736"
 star_rating: "4.0"
 ---
