@@ -7,7 +7,7 @@ image: /images/blog/indoze-pure-shilajit-gold-capsules.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Indoze-Shilajit-Capsules-Ashwagandha-Ingredients/dp/B0D35QPP76/ref=sr_1_32?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YAB2L0
 price: "499"
 star_rating: "4"
 ---
