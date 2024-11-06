@@ -6,7 +6,7 @@ image: /images/blog/cureveda-herbal-pureprash-immunity-booster-for-all-age-group
 layout: product
 permalink: products/:title
 category: Chyawanprash
-buy_now_link: https://www.amazon.in/CurevedaTM-Pureprash-Immunity-Support-Chyawanprash/dp/B07L15ZT4M/ref=tag=m0150-21
+buy_now_link: https://amzn.to/4ffRRBS
 price: "492"
 star_rating: "4.2"
 ---
