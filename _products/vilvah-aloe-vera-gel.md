@@ -6,7 +6,7 @@ image: /images/blog/vilvah-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Multipurpose-Non-Sticky-Spreads-Instantly-Absorbs/dp/B09QYVY62H/ref=sr_1_17?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/40C3m2a
 price: "390"
 star_rating: "4.3"
 ---
