@@ -7,7 +7,7 @@ image: /images/blog/kerala-ayurveda-bala-panchakarma-oil.jpg
 layout: product
 permalink: products/:title
 category: Panchakarma Oil
-buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Bala-Thailam-200/dp/B07R4W14P3/ref=sr_1_8?crid=3DV4CRBXMUHYV&tag=m0150-21
+buy_now_link: https://amzn.to/4ehtCSA
 price: "204"
 star_rating: "4.3"
 ---
