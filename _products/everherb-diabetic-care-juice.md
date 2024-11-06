@@ -7,7 +7,7 @@ image: /images/blog/everherb-diabetic-care-juice.jpg
 layout: product
 permalink: products/:title
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/EVERHERB-Diabetic-Juice-Potent-Ingredients/dp/B095SWXPF7/ref=sr_1_11?crid=SRO83XQ158A7&tag=m0150-21
+buy_now_link: https://amzn.to/4fAoOsB
 price: "356"
 star_rating: "4.5"
 ---
