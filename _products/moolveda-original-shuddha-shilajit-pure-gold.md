@@ -7,7 +7,7 @@ image: /images/blog/moolveda-original-shuddha-shilajit-pure-gold.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Moolveda-Original-Shilajit-Improves-Performance/dp/B0CV9D6JLM/ref=sr_1_53?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/48CkDtX
 price: "319"
 star_rating: "4.7"
 ---
