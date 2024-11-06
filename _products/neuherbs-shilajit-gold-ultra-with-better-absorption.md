@@ -7,7 +7,7 @@ image: /images/blog/neuherbs-shilajit-gold-ultra-with-better-absorption.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Neuherbs-Shilajit-Absorption-Ayurvedic-Capsules/dp/B0CB3F1945/ref=sr_1_29?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YF7Pyq
 price: "426"
 star_rating: "4"
 ---
