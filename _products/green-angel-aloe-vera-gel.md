@@ -7,7 +7,7 @@ image: /images/blog/green-angel-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Green-Angel-Aloekin-Natural-Aloevera/dp/B0DGDBB8TT/ref=sr_1_21_sspa?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/3UF4O06
 price: "299"
 star_rating: "5.0"
 ---
