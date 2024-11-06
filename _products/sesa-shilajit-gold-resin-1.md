@@ -6,9 +6,7 @@ image: /images/blog/sesa-shilajit-gold-resin.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: "   \t
-  https://www.amazon.in/Shilajit-Certificate-Included-Immunity-Ayurvedic/dp/B0C\
-  PM234M9/ref=sr_1_12?crid=1YY2DLXEMCWUZ&tag=m0150-21"
+buy_now_link: https://amzn.to/3ChJp6M
 price: "1075"
 star_rating: "4"
 ---
