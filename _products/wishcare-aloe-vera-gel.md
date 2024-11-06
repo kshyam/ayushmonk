@@ -6,7 +6,7 @@ image: /images/blog/wishcare-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/WishCare%C2%AE-Pure-Natural-Aloe-Vera/dp/B07YJTNKLH/ref=sr_1_11?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/3NXxtJW
 price: "270"
 star_rating: "4.3"
 ---
