@@ -7,7 +7,7 @@ image: /images/blog/kerala-ayurveda-sahacharadi-panchakarma-oil.jpg
 layout: product
 permalink: products/:title
 category: Panchakarma Oil
-buy_now_link: https://www.amazon.in/Kerala-Ayurveda-Sahacharadi-Thailam-450/dp/B07P9K4G8C/ref=sr_1_5?crid=3DV4CRBXMUHYV&tag=m0150-21
+buy_now_link: https://amzn.to/3YExEPn
 price: "376"
 star_rating: "4.1"
 ---
