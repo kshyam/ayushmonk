@@ -7,7 +7,7 @@ image: /images/blog/tata-1mg-tejasya-shilajit-gold-capsule.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Shilajit-Supports-Strength-Vitality-Capsules/dp/B0CSFY5QDH/ref=sr_1_20?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/3YABWXU
 price: "287"
 star_rating: "4"
 ---
