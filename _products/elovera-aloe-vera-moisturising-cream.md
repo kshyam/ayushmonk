@@ -7,7 +7,7 @@ image: /images/blog/indus-valley-bio-organic-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/Organic-Multipurpose-Extract-Depigmentation-Natural/dp/B0D819KS8V/ref=sr_1_4_sspa?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/4eiEvUb
 price: "454"
 star_rating: "4.1"
 ---
