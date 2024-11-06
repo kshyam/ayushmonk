@@ -7,7 +7,7 @@ image: /images/blog/inproveda-shilajit-gold.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Shilajit-Capsules-Contains-Ashwagandha-Ayurvedic/dp/B0D2PC8KVH/ref=sr_1_34?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/4hyh1NP
 price: "386"
 star_rating: "4"
 ---
