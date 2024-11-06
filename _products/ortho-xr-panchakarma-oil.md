@@ -7,7 +7,7 @@ image: /images/blog/ortho-xr-panchakarma-oil.jpg
 layout: product
 permalink: products/:title
 category: Panchakarma Oil
-buy_now_link: https://www.amazon.in/Ortho-XR-Massage-Special-Shoulder-Arthritis/dp/B0D2WKKST2/ref=sr_1_6?crid=3DV4CRBXMUHYV&tag=m0150-21
+buy_now_link: https://amzn.to/3UG1lOy
 price: "290"
 star_rating: "4.3"
 ---
