@@ -7,7 +7,7 @@ image: /images/blog/sugaheal-diabetic-care-tablets.jpg
 layout: product
 permalink: products/:title
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Clinically-Ayurvedic-maintains-Haemoglobin-Hypoglycemia/dp/B08C7Y4VW6/ref=sr_1_1_sspa?crid=SRO83XQ158A7&tag=m0150-21
+buy_now_link: https://amzn.to/3AxsBIh
 price: "569"
 star_rating: "4.3"
 ---
