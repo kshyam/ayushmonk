@@ -6,7 +6,7 @@ image: /images/blog/kazima-aloe-vera-gel.jpg
 layout: product
 permalink: products/:title
 category: Aloe Vera
-buy_now_link: https://www.amazon.in/KAZIMA-Aloe-Vera-Gel-Raw/dp/B071S4941T/ref=sr_1_6?crid=1XMIOQ4WPBG6X&tag=m0150-21
+buy_now_link: https://amzn.to/3UB4Nu4
 price: "205"
 star_rating: "4.1"
 ---
