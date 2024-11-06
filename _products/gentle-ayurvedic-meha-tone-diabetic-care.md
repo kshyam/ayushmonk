@@ -7,7 +7,7 @@ image: /images/blog/gentle-ayurvedic-meha-tone-diabetic-care.jpg
 layout: product
 permalink: products/:title
 category: Diabetic Care
-buy_now_link: https://www.amazon.in/Gentle-Ayurvedic-Meha-Tone/dp/B0C9ZNF2MN/ref=sr_1_12?crid=SRO83XQ158A7&tag=m0150-21
+buy_now_link: https://amzn.to/48BaVrI
 price: "526"
 star_rating: "4.3"
 ---
