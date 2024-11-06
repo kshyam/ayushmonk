@@ -7,7 +7,7 @@ image: /images/blog/fytika-shuddh-shilajit-gold-and-silver-resin.jpg
 layout: product
 permalink: products/:title
 category: Shilajit
-buy_now_link: https://www.amazon.in/Shilajit-Ayurvedic-Himalayan-Ashwagandha-Gokshura/dp/B0D7SJZXJ3/ref=sr_1_22_sspa?crid=1YY2DLXEMCWUZ&tag=m0150-21
+buy_now_link: https://amzn.to/4fzh3TF
 price: "750"
 star_rating: "4"
 ---
