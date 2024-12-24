@@ -77,3 +77,41 @@
 </script>
 
 <meta name="google-adsense-account" content="ca-pub-4088406505945385">
+
+
+<style>
+    /* Chat Icon */
+    #chat-icon {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        width: 60px;
+        height: 60px;
+        background-color: #0078d7;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 28px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        z-index: 1000;
+    }
+
+    #chat-icon:hover {
+        background-color: #005bb5;
+    }
+</style>
+
+<div id="chat-icon" onclick="openChat()">
+    💬
+</div>
+
+<script>
+    // Function to open the chat URL
+    function openChat() {
+        const chatUrl = "/chat"; // Replace with your chat URL
+        window.open(chatUrl, "_blank"); // Open in a new tab
+    }
+</script>

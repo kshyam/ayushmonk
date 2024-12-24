@@ -1,18 +1,36 @@
+---
+layout: page
+title: Holistic Wellness Products | Ayurvedic, Organic & Mindfulness Essentials | AyushMonk
+description: Discover AyushMonk’s range of holistic wellness products including Ayurvedic herbal teas, essential oils, yoga accessories, detox supplements, organic skincare, and mindfulness journals. Enhance your well-being with our carefully curated essentials for a balanced lifestyle.
+canonical_url: "https://ayushmonk.com"
+image: /images/holistic-wellness-products.jpeg
+---
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Groq Chatbot</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-   
 </head>
 <body>
-    <h2>Chat with Groq Bot</h2>
+
+<div class="container chatbox-wrap">
+    <br>
+
+    <h1>Ask questions related to Ayurveda!</h1>
+    <br>
     <div id="chatbox"></div>
     <input id="input" type="text" placeholder="Type your message..." />
     <button onclick="sendMessage()">Send</button>
+    <br>
+    <br>
+
+</div>   
+
+
+
 
     <script>
       async function sendMessage() {
@@ -20,7 +38,7 @@
       const chatbox = document.getElementById('chatbox');
 
       if (input) {
-          chatbox.innerHTML += `<p><b>You: ${input}</p></b>`;
+          chatbox.innerHTML += `<p style="color: blue;text-transform:uppercase"><b>You: ${input}</p></b>`;
           document.getElementById('input').value = '';
 
           try {
@@ -35,7 +53,7 @@
                     const data = await response.json();
                     
                     const mkdhtml = marked.parse(data.reply);
-                    chatbox.innerHTML += `<p><b>AyushMonk AI Bot:</b> ${mkdhtml}</p>`;
+                    chatbox.innerHTML += `<p style="color: red;margin-top: 10px;"><b>AM BOT:</b> ${mkdhtml}</p>`;
 
                 } else {
                     throw new Error('Invalid JSON response or empty data');
@@ -92,8 +110,8 @@ p {
     word-wrap: break-word;
 }
 
-input, button {
-    width: 90%;
+input {
+    width: 50%;
     padding: 10px;
     margin-top: 10px;
     font-size: 16px;
@@ -102,6 +120,16 @@ input, button {
 }
 
 button {
+    width: 50%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.chatbox-wrap button {
+    width: 10%;
     background-color: #0056b3;
     color: white;
     cursor: pointer;

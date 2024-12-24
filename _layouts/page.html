@@ -5,6 +5,10 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       {% seo %}
       {% include favicon.html %}
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
 
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
       <link rel='stylesheet' href="{{ site.baseurl }}/css/style.css" />
@@ -15,8 +19,92 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
 
+
+      <style>
+        #installPrompt {
+          display: none;
+          position: fixed;
+          bottom: 10px;
+          left: 10px;
+          right: 10px;
+          background: #fff;
+          border: 1px solid #ccc;
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+          padding: 10px;
+          z-index: 1000;
+          text-align: center;
+        }
+        #installPrompt button {
+          background: #007bff;
+          color: #fff;
+          border: none;
+          padding: 10px 20px;
+          cursor: pointer;
+        }
+        #installPrompt button:hover {
+          background: #0056b3;
+        }
+      </style>
+
+
   </head>
   <body>
+    <div id="installPrompt">
+      <p>Add this site to your home screen for quick access!</p>
+      <button id="installBtn">Add to Home Screen</button>
+    </div>
+    
+    <script>
+      // Detect if the device is iOS
+      const isIos = () => {
+        const userAgent = window.navigator.userAgent.toLowerCase();
+        return /iphone|ipad|ipod/.test(userAgent);
+      };
+    
+      // Check if the user is on iOS Safari
+      const isInStandaloneMode = () => ('standalone' in window.navigator) && window.navigator.standalone;
+    
+      // Handle iOS Add to Home Screen prompt
+      if (isIos() && !isInStandaloneMode()) {
+        const installPrompt = document.getElementById('installPrompt');
+        installPrompt.style.display = 'block';
+        document.getElementById('installBtn').addEventListener('click', () => {
+          alert('To add this website to your home screen, tap the Share icon and select "Add to Home Screen".');
+          installPrompt.style.display = 'none';
+        });
+      }
+    
+      // Handle Android Add to Home Screen prompt
+      let deferredPrompt;
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+    
+        const installPrompt = document.getElementById('installPrompt');
+        installPrompt.style.display = 'block';
+        document.getElementById('installBtn').addEventListener('click', async () => {
+          installPrompt.style.display = 'none';
+          if (deferredPrompt) {
+            deferredPrompt.prompt();
+            const { outcome } = await deferredPrompt.userChoice;
+            if (outcome === 'accepted') {
+              console.log('User accepted the install prompt');
+            } else {
+              console.log('User dismissed the install prompt');
+            }
+            deferredPrompt = null;
+          }
+        });
+      });
+    
+      // Hide the prompt if the app is already installed
+      window.addEventListener('appinstalled', () => {
+        console.log('App has been installed');
+        const installPrompt = document.getElementById('installPrompt');
+        installPrompt.style.display = 'none';
+      });
+    </script>
+    
     <!-- navbar -->
     {% include header.html %}
     <!-- Page content -->
