@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Holistic Wellness Products | Ayurvedic, Organic & Mindfulness Essentials | AyushMonk
 description: Discover AyushMonk’s range of holistic wellness products including Ayurvedic herbal teas, essential oils, yoga accessories, detox supplements, organic skincare, and mindfulness journals. Enhance your well-being with our carefully curated essentials for a balanced lifestyle.
 canonical_url: "https://ayushmonk.com"
@@ -7,139 +7,220 @@ image: /images/holistic-wellness-products.jpeg
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-</head>
-<body>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-<div class="container chatbox-wrap">
-    <br>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
 
-    <h1>Ask questions related to Ayurveda!</h1>
-    <br>
-    <div id="chatbox"></div>
-    <input id="input" type="text" placeholder="Type your message..." />
-    <button onclick="sendMessage()">Send</button>
-    <br>
-    <br>
-
-</div>   
-
-
-
-
-    <script>
-      async function sendMessage() {
-      const input = document.getElementById('input').value;
-      const chatbox = document.getElementById('chatbox');
-
-      if (input) {
-          chatbox.innerHTML += `<p style="color: blue;text-transform:uppercase"><b>You: ${input}</p></b>`;
-          document.getElementById('input').value = '';
-
-          try {
-                const response = await fetch('http://127.0.0.1:5000/chat', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ message: input })
-                });
-
-                // Check if the response is non-empty and in JSON format
-                if (response.ok && response.headers.get("content-type").includes("application/json")) {
-                    const data = await response.json();
-                    
-                    const mkdhtml = marked.parse(data.reply);
-                    chatbox.innerHTML += `<p style="color: red;margin-top: 10px;"><b>AM BOT:</b> ${mkdhtml}</p>`;
-
-                } else {
-                    throw new Error('Invalid JSON response or empty data');
-                }
-            } catch (error) {
-                chatbox.innerHTML += `<p><b>Error:</b> ${error.message}</p>`;
-            }
-
-            chatbox.scrollTop = chatbox.scrollHeight;
-        }
-    }
-
-        
-    </script>
 
 
 <style>
-  body {
-    font-family: Arial, sans-serif;
+body {
+background-color: #f9f6f1;
 }
-
-#chatbox {
-    width: 90%;
-    height: 500px;
-    border: 1px solid #ccc;
-    padding: 10px;
-    overflow-y: scroll;
-    background-color: #f9f9f9;
+p {font-size: 18px;}
+.chat-container {
+max-width: 90%;
+margin: 20px auto;
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-
+.chat-header {
+background-color: hsl(47, 79%, 51%);
+color: white;
+padding: 5px;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+}
+.chat-body {
+padding: 15px;
+height: 600px;
+overflow-y: auto;
+}
+.chat-footer {
+padding: 10px;
+background-color: #f1f1f1;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+}
 .message {
-    margin: 10px 0;
-    padding: 8px;
-    border-radius: 8px;
-    max-width: 90%;
+margin-bottom: 15px;
+}
+.message.user {
+text-align: right;
+}
+.message.bot {
+text-align: left;
+}
+.message .text {
+display: inline-block;
+padding: 10px 15px;
+border-radius: 20px;
+max-width: 75%;
+}
+.message.user .text {
+background-color:  hsl(47, 79%, 51%);
+color: white;
+}
+.message.bot .text {
+background-color: #EFEFEF;
+color: #333;
 }
 
-.user {
-    background-color: #d1e7ff;
-    color: #0056b3;
-    align-self: flex-end;
-    text-align: right;
+
+.typing-indicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 0 2px;
+  background-color: #8bc34a;
+  border-radius: 50%;
+  animation: blink 1.5s infinite;
+}
+.typing-indicator:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.typing-indicator:nth-child(3) {
+  animation-delay: 0.4s;
+}
+@keyframes blink {
+  0%, 100% {
+      opacity: 0.2;
+  }
+  50% {
+      opacity: 1;
+  }
 }
 
-.bot {
-    background-color: #e9ffe1;
-    color: #287233;
-    align-self: flex-start;
-    text-align: left;
-}
-
-p {
-    margin: 0;
-    word-wrap: break-word;
-}
-
-input {
-    width: 50%;
-    padding: 10px;
-    margin-top: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-button {
-    width: 50%;
-    padding: 10px;
-    margin-top: 10px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-}
-
-.chatbox-wrap button {
-    width: 10%;
-    background-color: #0056b3;
-    color: white;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #004494;
-}
 
 </style>
-</body>
-</html>
+
+<div class="chat-container">
+<div class="chat-header">
+</div>
+<div class="chat-body" id="chatBody">
+<div class="message bot">
+<div class="text">Hello! I'm here to answer your Ayurvedic questions. How can I assist you today?</div>
+</div>
+</div>
+<div class="chat-footer">
+<form id="chatForm" class="d-flex align-items-center">
+
+<select id="language-dropdown" class="form-select">
+<option value="english">English</option>
+<option value="hindi">Hindi</option>
+<option value="bengali">Bengali</option>
+<option value="telugu">Telugu</option>
+<option value="marathi">Marathi</option>
+<option value="urdu">Urdu</option>
+<option value="punjabi">Punjabi</option>
+<option value="nepali">Nepali</option>
+</select> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<script>
+$(document).ready(function() {
+$('#language-dropdown').select2({
+placeholder: "Search for a language",
+allowClear: true
+});
+});
+</script>
+
+<br>
+<br>
+<br>
+<input type="text" class="form-control" id="userInput" placeholder="Type your question here..." required>
+<button type="submit" class="btn btn-success ms-2">Send</button>
+</form>
+</div>
+</div>
+
+<script>
+  const chatBody = document.getElementById('chatBody');
+  const chatForm = document.getElementById('chatForm');
+  const userInput = document.getElementById('userInput');
+  const languageSelect = document.getElementById('language-dropdown');
+
+  chatForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const selectedLanguage = languageSelect.value;
+    const userMessage = selectedLanguage + ' ' + userInput.value.trim();
+
+
+    if (userMessage) {
+      appendMarkdownMessage('user', userMessage);
+      userInput.value = '';
+
+      showTypingIndicator();
+
+      try {
+        const response = await fetch('https://chat-app-latest-241f.onrender.com/api/chat', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ message: userMessage, language: selectedLanguage }),
+        });
+
+        if (response.ok) {
+          const data = await response.json();
+          removeTypingIndicator();
+          appendMarkdownMessage('bot', data.reply);
+        } else {
+          removeTypingIndicator();
+          appendMarkdownMessage('bot', 'Sorry, something went wrong. Please try again later.');
+        }
+      } catch (error) {
+        removeTypingIndicator();
+        appendMarkdownMessage('bot', 'Unable to connect to the server. Please check your connection.');
+      }
+    }
+  });
+
+
+
+  function appendMarkdownMessage(sender, markdownText) {
+    const messageDiv = document.createElement('div');
+    messageDiv.classList.add('message', sender);
+
+    const textSpan = document.createElement('div');
+    textSpan.classList.add('text');
+    // textSpan.innerHTML = marked(markdownText);
+    textSpan.innerHTML = marked.parse(markdownText);
+
+    messageDiv.appendChild(textSpan);
+    chatBody.appendChild(messageDiv);
+    chatBody.scrollTop = chatBody.scrollHeight;
+  }
+
+  
+
+  function showTypingIndicator() {
+      typingIndicator = document.createElement('div');
+      typingIndicator.classList.add('message', 'bot');
+
+      const typingDots = document.createElement('div');
+      typingDots.classList.add('text');
+      typingDots.innerHTML = '<span class="typing-indicator"></span><span class="typing-indicator"></span><span class="typing-indicator"></span>';
+
+      typingIndicator.appendChild(typingDots);
+      chatBody.appendChild(typingIndicator);
+      chatBody.scrollTop = chatBody.scrollHeight;
+  }
+
+  function removeTypingIndicator() {
+      if (typingIndicator) {
+          chatBody.removeChild(typingIndicator);
+          typingIndicator = null;
+      }
+  }
+
+</script>
+
 
