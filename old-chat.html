@@ -111,6 +111,27 @@ color: #333;
 </div>
 <div class="chat-footer">
 <form id="chatForm" class="d-flex align-items-center">
+
+<select id="language-dropdown" class="form-select">
+<option value="english">English</option>
+<option value="hindi">Hindi</option>
+<option value="bengali">Bengali</option>
+<option value="telugu">Telugu</option>
+<option value="marathi">Marathi</option>
+<option value="urdu">Urdu</option>
+<option value="punjabi">Punjabi</option>
+<option value="nepali">Nepali</option>
+</select> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<script>
+$(document).ready(function() {
+$('#language-dropdown').select2({
+placeholder: "Search for a language",
+allowClear: true
+});
+});
+</script>
+
 <br>
 <br>
 <br>
