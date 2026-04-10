@@ -120,5 +120,18 @@ image: /images/holistic-wellness-products.jpeg
         });
     }
     
+    // Handle URL search parameter on load
+    window.addEventListener('DOMContentLoaded', (event) => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchQuery = urlParams.get('search');
+        if (searchQuery) {
+            const input = document.getElementById('product-search');
+            if (input) {
+                input.value = searchQuery;
+                searchProducts();
+            }
+        }
+    });
+    
     
     </script>

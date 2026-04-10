@@ -12,8 +12,35 @@
         <span class="navbar-toggler-icon"></span>
     </button>
 
+    <!-- Mobile Search Bar (Directly visible on mobile) -->
+    <div class="d-lg-none w-100 mt-3 mb-1 px-1">
+        <div class="input-group shadow-sm" style="border-radius: 25px; overflow: hidden;">
+            <input type="text" class="form-control border-0 shadow-none ps-3" placeholder="Search wellness products..." style="height: 45px;" onkeyup="if(event.key === 'Enter') handleHeaderSearch(this.value)">
+            <button class="btn btn-warning px-3" type="button" onclick="handleHeaderSearch(this.previousElementSibling.value)">
+                Search
+            </button>
+        </div>
+    </div>
+
+
       <div class="collapse navbar-collapse" id="navbarNav" style="text-transform: uppercase;">
           <ul class="navbar-nav ms-auto">
+            <li class="nav-item me-lg-3 mb-2 mb-lg-0">
+                <div class="input-group">
+                    <button class="btn btn-outline-warning dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="border-radius: 20px 0 0 20px; font-weight: 500;">
+                        Categories
+                    </button>
+                    <ul class="dropdown-menu shadow border-0" style="border-radius: 15px; margin-top: 10px;">
+                        {% assign categories = site.products | map: "category" | uniq %}
+                        {% for category in categories %}
+                        <li><a class="dropdown-item py-2" href="javascript:void(0)" onclick="handleHeaderSearch('{{ category }}')">{{ category }}</a></li>
+                        {% endfor %}
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item py-2" href="/products">All Products</a></li>
+                    </ul>
+                    <input type="text" class="form-control shadow-none" id="header-search-input" placeholder="Search products..." style="border-radius: 0 20px 20px 0; border-left: none; min-width: 220px;" onkeyup="if(event.key === 'Enter') handleHeaderSearch(this.value)">
+                </div>
+            </li>
             <!-- <li class="nav-item">
                 <a class="nav-link" href="/chat">AyushMonk AI <img src="/images/chat.png" alt="chat with ayushmonk bot" title="Ask Ayurvedic questions" width="24px"></a>
             </li> -->
@@ -46,6 +73,21 @@
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body">
+        <div class="mb-4 d-lg-none">
+            <div class="input-group">
+                <button class="btn btn-outline-warning dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="border-radius: 20px 0 0 20px; font-weight: 500;">
+                    Categories
+                </button>
+                <ul class="dropdown-menu shadow border-0" style="border-radius: 12px;">
+                    {% for category in categories %}
+                    <li><a class="dropdown-item py-2" href="javascript:void(0)" onclick="handleHeaderSearch('{{ category }}')">{{ category }}</a></li>
+                    {% endfor %}
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item py-2" href="/products">All Products</a></li>
+                </ul>
+                <input type="text" class="form-control shadow-none" placeholder="Search..." style="border-radius: 0 20px 20px 0; border-left: none;" onkeyup="if(event.key === 'Enter') handleHeaderSearch(this.value)">
+            </div>
+        </div>
         <ul class="navbar-nav me-auto">
             <li class="nav-item border-bottom">
                 <a class="nav-link" href="/blog/what-is-ayush-and-ayushmonk">What is AUYSH?</a>
@@ -71,3 +113,25 @@
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4088406505945385"
      crossorigin="anonymous"></script>
+
+<script>
+function handleHeaderSearch(query) {
+    if (!query) return;
+    
+    // Check if we are on the products page
+    const productSearchInput = document.getElementById('product-search');
+    const productsList = document.getElementById('products-list');
+    
+    if (productSearchInput && productsList) {
+        // We are on the products page, just filter
+        productSearchInput.value = query;
+        if (typeof searchProducts === 'function') {
+            searchProducts();
+        }
+    } else {
+        // Redirect to products page with search query
+        window.location.href = '/products?search=' + encodeURIComponent(query);
+    }
+}
+</script>
+
