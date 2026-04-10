@@ -90,14 +90,18 @@ border-radius: 20px; /* Add rounded corners on hover */
 
 /* Product page */
 
-
 .hero-section-page {
-  background-color: #f5f5f5;
   padding: 60px 0;
   color: white;
   text-align: center;
-  background-image: url('/images/ayushmonk-home.webp'); /* Replace with your actual image path */
+  background: #ff0000;
+  background: -webkit-linear-gradient(to right, #fdcf58, #ff0000); 
+  background: linear-gradient(to right, #fdcf58, #ff0000); 
 }
+
+
+
+
 .product-card {
   margin-bottom: 30px;
   transition: transform 0.3s, background-color 0.3s;
